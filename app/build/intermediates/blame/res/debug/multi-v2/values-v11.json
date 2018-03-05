@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/alunos/Downloads/Tabuada/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml",
+            "outputFile": "/home/www/Tabuada/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml",
             "map": [
                 {
                     "source": "/home/alunos/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/fc87d161da19ec4125520446ff94f282/res/values-v11/values-v11.xml",

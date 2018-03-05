@@ -1,8 +1,25 @@
 {
     "logs": [
         {
-            "outputFile": "/home/alunos/Downloads/Tabuada/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/home/www/Tabuada/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
+                {
+                    "source": "/home/www/Tabuada/app/src/main/res/values/colors.xml",
+                    "from": {
+                        "startLines": "4,2,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "157,57,105",
+                        "endColumns": "45,46,50",
+                        "endOffsets": "198,99,151"
+                    },
+                    "to": {
+                        "startLines": "118,119,120",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "6189,6235,6282",
+                        "endColumns": "45,46,50",
+                        "endOffsets": "6230,6277,6328"
+                    }
+                },
                 {
                     "source": "/home/alunos/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/549d5df7fc6ca33e5fbf86449d5c8979/res/values/values.xml",
                     "from": {
@@ -20,23 +37,6 @@
                         "endLines": "142,143,430,431,432,433,434,444,445,446,447,448,449,450,451,452,453,454,455,456,457,458,467,468,474,475,479,480,481,487,521,1791,1795,1797,1803,1805,1943,1944",
                         "endColumns": "68,62,69,67,71,69,60,60,60,61,63,61,60,67,99,59,65,72,68,56,51,61,71,75,34,34,33,34,34,69,70,116,12,109,12,128,71,66",
                         "endOffsets": "7684,7747,42281,42349,42421,42491,42552,43397,43458,43520,43584,43646,43707,43775,43875,43935,44001,44074,44143,44200,44252,44314,44839,44915,45189,45224,45400,45435,45470,45815,48222,132362,132563,132739,133123,133318,144283,144350"
-                    }
-                },
-                {
-                    "source": "/home/alunos/Downloads/Tabuada/app/src/main/res/values/strings.xml",
-                    "from": {
-                        "startLines": "1",
-                        "startColumns": "4",
-                        "startOffsets": "17",
-                        "endColumns": "44",
-                        "endOffsets": "57"
-                    },
-                    "to": {
-                        "startLines": "519",
-                        "startColumns": "4",
-                        "startOffsets": "48058",
-                        "endColumns": "44",
-                        "endOffsets": "48098"
                     }
                 },
                 {
@@ -59,6 +59,42 @@
                     }
                 },
                 {
+                    "source": "/home/www/Tabuada/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "17",
+                        "endColumns": "44",
+                        "endOffsets": "57"
+                    },
+                    "to": {
+                        "startLines": "519",
+                        "startColumns": "4",
+                        "startOffsets": "48058",
+                        "endColumns": "44",
+                        "endOffsets": "48098"
+                    }
+                },
+                {
+                    "source": "/home/www/Tabuada/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "3,7",
+                        "startColumns": "4,4",
+                        "startOffsets": "57,193",
+                        "endLines": "5,11",
+                        "endColumns": "12,12",
+                        "endOffsets": "185,431"
+                    },
+                    "to": {
+                        "startLines": "527,1562",
+                        "startColumns": "4,4",
+                        "startOffsets": "48669,114457",
+                        "endLines": "529,1566",
+                        "endColumns": "12,12",
+                        "endOffsets": "48795,114691"
+                    }
+                },
+                {
                     "source": "/home/alunos/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/72fbd25f6395599624fbe985157d6e09/res/values/values.xml",
                     "from": {
                         "startLines": "2,3,4,7,8,11,14,15,18,21,22,23,24,28,29,30,31,36,37,38,41,44,45,48,51,54,57,58,61,64,65,70,71,75,76,77,78,79,80,81,82,83,84,85",
@@ -78,23 +114,6 @@
                     }
                 },
                 {
-                    "source": "/home/alunos/Downloads/Tabuada/app/src/main/res/values/colors.xml",
-                    "from": {
-                        "startLines": "4,2,3",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "157,57,105",
-                        "endColumns": "45,46,50",
-                        "endOffsets": "198,99,151"
-                    },
-                    "to": {
-                        "startLines": "118,119,120",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "6189,6235,6282",
-                        "endColumns": "45,46,50",
-                        "endOffsets": "6230,6277,6328"
-                    }
-                },
-                {
                     "source": "/home/alunos/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/8cc5f8402a551bfe280b50246f5060a6/res/values/values.xml",
                     "from": {
                         "startLines": "2,6,7,8,9,10",
@@ -109,25 +128,6 @@
                         "startOffsets": "7752,132568,132744,132866,133128,133323",
                         "endColumns": "88,65,121,60,65,66",
                         "endOffsets": "7836,132629,132861,132922,133189,133385"
-                    }
-                },
-                {
-                    "source": "/home/alunos/Downloads/Tabuada/app/src/main/res/values/styles.xml",
-                    "from": {
-                        "startLines": "3,7",
-                        "startColumns": "4,4",
-                        "startOffsets": "57,193",
-                        "endLines": "5,11",
-                        "endColumns": "12,12",
-                        "endOffsets": "185,431"
-                    },
-                    "to": {
-                        "startLines": "527,1562",
-                        "startColumns": "4,4",
-                        "startOffsets": "48669,114457",
-                        "endLines": "529,1566",
-                        "endColumns": "12,12",
-                        "endOffsets": "48795,114691"
                     }
                 }
             ]
