@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="br.com.tabuada">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Praticar" />
+        <activity android:name=".Aprender" />
+        <activity android:name=".tabuada1" />
+        <activity android:name=".Tabuada2" />
+        <activity android:name=".Tabuada3" />
+        <activity android:name=".Tabuada4" />
+        <activity android:name=".Tabuada5" />
+        <activity android:name=".Tabuada6" />
+        <activity android:name=".Tabuada7" />
+        <activity android:name=".Tabuada10" />
+        <activity android:name=".Tabuada8" />
+        <activity android:name=".Tabuada9" />
+        <activity android:name=".Modozen" />
+        <activity android:name=".Modoquiz"></activity>
+    </application>
+
+</manifest>
