@@ -10,7 +10,7 @@ public class Tabuada1 extends Activity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        //setContentView(R.layout.activity_tabuada1);
+        setContentView(R.layout.activity_tabuada1);
     }
 
     public void voltar(View view){

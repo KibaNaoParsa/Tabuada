@@ -16,20 +16,20 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".Praticar" />
-        <activity android:name=".Aprender" />
-        <activity android:name=".tabuada1" />
-        <activity android:name=".Tabuada2" />
-        <activity android:name=".Tabuada3" />
-        <activity android:name=".Tabuada4" />
-        <activity android:name=".Tabuada5" />
-        <activity android:name=".Tabuada6" />
-        <activity android:name=".Tabuada7" />
-        <activity android:name=".Tabuada10" />
-        <activity android:name=".Tabuada8" />
-        <activity android:name=".Tabuada9" />
-        <activity android:name=".Modozen" />
-        <activity android:name=".Modoquiz"></activity>
+        <activity android:name=".Praticar" android:windowSoftInputMode="adjustPan"/>
+        <activity android:name=".Aprender" android:windowSoftInputMode="adjustPan"/>
+        <activity android:name=".Tabuada1" android:windowSoftInputMode="adjustPan"/>
+        <activity android:name=".Tabuada2" android:windowSoftInputMode="adjustPan"/>
+        <activity android:name=".Tabuada3" android:windowSoftInputMode="adjustPan"/>
+        <activity android:name=".Tabuada4" android:windowSoftInputMode="adjustPan"/>
+        <activity android:name=".Tabuada5" android:windowSoftInputMode="adjustPan"/>
+        <activity android:name=".Tabuada6" android:windowSoftInputMode="adjustPan"/>
+        <activity android:name=".Tabuada7" android:windowSoftInputMode="adjustPan"/>
+        <activity android:name=".Tabuada10" android:windowSoftInputMode="adjustPan"/>
+        <activity android:name=".Tabuada8" android:windowSoftInputMode="adjustPan"/>
+        <activity android:name=".Tabuada9" android:windowSoftInputMode="adjustPan"/>
+        <activity android:name=".Modozen" android:windowSoftInputMode="adjustPan"/>
+        <activity android:name=".Modoquiz" android:windowSoftInputMode="adjustPan"></activity>
     </application>
 
 </manifest>

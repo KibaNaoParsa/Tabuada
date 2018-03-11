@@ -15,7 +15,7 @@ public class Aprender extends Activity {
 
     public void abrirTabuada1(View view){
 
-        Intent intent = new Intent(this, tabuada1.class);
+        Intent intent = new Intent(this, Tabuada1.class);
         startActivity(intent);
     }
 

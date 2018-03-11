@@ -1,4 +1,4 @@
-# Patch Notes v1.1
+# Patch Notes v1.2
 
 **v1.0**
 
@@ -7,3 +7,8 @@
 **v1.1**
 
 - BD e algumas perguntas
+
+**v1.2**
+
+- BD completo
+- Código para modo zen (não completo)

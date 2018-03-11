@@ -10,7 +10,7 @@ public class Praticar extends Activity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        //setContentView(R.layout.activity_praticar);
+        setContentView(R.layout.activity_praticar);
     }
 
     public void abrirModozen(View view){

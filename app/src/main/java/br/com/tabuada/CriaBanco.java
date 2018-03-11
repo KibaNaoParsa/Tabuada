@@ -21,8 +21,6 @@ public class CriaBanco extends SQLiteOpenHelper {
     public static final String RESPOSTA = "resposta";
     public static final String RESPOSTA_LETRA = "resposta_letra";
 
-
-    public static final String DATA = "data";
     private static final int VERSAO = 1;
 
     @Override

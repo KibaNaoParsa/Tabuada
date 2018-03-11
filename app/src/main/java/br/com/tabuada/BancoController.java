@@ -19,8 +19,8 @@ public class BancoController {
     }
 
     public void inserePergunta(String pergunta, String resA, String resB, String resC, String resD, String resposta, String resposta_letra) {
+
         ContentValues valores;
-        long resultado;
 
         db = banco.getWritableDatabase();
         valores = new ContentValues();
@@ -32,33 +32,17 @@ public class BancoController {
         valores.put(CriaBanco.RESPOSTA, resposta);
         valores.put(CriaBanco.RESPOSTA_LETRA, resposta_letra);
 
-        resultado = db.insert(CriaBanco.TABELA, null, valores);
-
         db.close();
 
     }
-/*
-    public Cursor carregaDados() {
+
+    public Cursor carregaDadoZen(int id) {
 
         Cursor cursor;
-        String[] campos = {banco._IDPARTIDA, banco.PLACAR, banco.TIME1, banco.TIME2, banco.DATA};
+        String [] campos = {banco._ID, banco.PERGUNTA, banco.RESPOSTA};
+        String where = CriaBanco._ID + " = " + id;
         db = banco.getReadableDatabase();
-        cursor = db.query(banco.TABELA_PARTIDA, campos, null, null, null, null, null, null);
-        if (cursor != null) {
-            cursor.moveToFirst();
-        }
-        db.close();
-        return cursor;
-
-    }
-
-    public Cursor carregaDadoById(int id) {
-
-        Cursor cursor;
-        String [] campos = {banco._IDPARTIDA, banco.NOMETIME1, banco.NOMETIME2, banco.TIME1, banco.TIME2, banco.PLACAR};
-        String where = CriaBanco._IDPARTIDA + "=" + id;
-        db = banco.getReadableDatabase();
-        cursor = db.query(CriaBanco.TABELA_PARTIDA, campos, where, null, null, null, null, null);
+        cursor = db.query(CriaBanco.TABELA, campos, where, null, null, null, null, null);
 
         if (cursor != null) {
             cursor.moveToFirst();
@@ -68,6 +52,24 @@ public class BancoController {
 
     }
 
+    public Cursor carregaDadoQuiz(int id) {
+
+        Cursor cursor;
+        String [] campos = {banco._ID, banco.PERGUNTA, banco.RES_A, banco.RES_B, banco.RES_C, banco.RES_D, banco.RESPOSTA_LETRA};
+        String where = CriaBanco._ID + "=" + id;
+        db = banco.getReadableDatabase();
+        cursor = db.query(CriaBanco.TABELA, campos, where, null, null, null, null, null);
+
+        if (cursor != null) {
+            cursor.moveToFirst();
+        }
+        db.close();
+        return cursor;
+
+    }
+
+
+    /*
     public void apagaRegistro(int id) {
         String where = CriaBanco._IDPARTIDA + " = " + id;
         db = banco.getReadableDatabase();
