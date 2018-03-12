@@ -134,7 +134,7 @@ public class MainActivity extends Activity {
         crud.inserePergunta("9 x 9?", "79", "81", "89", "90", "81", "B");
         crud.inserePergunta("9 x 10?", "90", "91", "99", "100", "90", "A");
 
-        // Tabuada do 9
+        // Tabuada do 10
 
         crud.inserePergunta("10 x 1?", "10", "20", "30", "40", "10", "A");
         crud.inserePergunta("10 x 2?", "10", "20", "21", "22", "20", "B");

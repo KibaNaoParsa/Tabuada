@@ -17,38 +17,55 @@ public class Modozen extends Activity {
 
     int rand;
     Random rnd;
-    String txtUsuario;
+    String txtUsuario, pergunta, resposta;
     EditText txtResposta;
     TextView txtPergunta;
     Button btnResponder;
-    Intent it;
+    Intent it, voltar, continuar;
+    int perguntas, acertos;
+
+    Bundle info;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_modozen);
 
-        txtPergunta = (TextView) findViewById(R.id.txtPergunta);
+        rand = 0;
+
+        voltar = getIntent();
+
+        perguntas = voltar.getIntExtra("perguntas", 0);
+        acertos = voltar.getIntExtra("acertos", 0);
+
+        info = new Bundle();
+
+
+        txtPergunta = (TextView) findViewById(R.id.imgPergunta);
         txtResposta = (EditText) findViewById(R.id.modoZenText);
         btnResponder = (Button) findViewById(R.id.btnResponder);
 
         it = new Intent(this, Modozen.class);
+        continuar = new Intent(this, FinalQuizZen.class);
 
         rnd = new Random();
 
-        do {
+        while (rand == 0) {
 
             rand = rnd.nextInt(100);
 
-        } while (rand == 0);
+        }
 
-        BancoController crud = new BancoController(getBaseContext());
-        Cursor cursor = crud.carregaDadoZen(rand);
+        final BancoController crud = new BancoController(getBaseContext());
+        final Cursor cursor = crud.carregaDadoZen(rand);
 
-        String pergunta = cursor.getString(cursor.getColumnIndexOrThrow(CriaBanco.PERGUNTA));
-        final String resposta = cursor.getString(cursor.getColumnIndexOrThrow(CriaBanco.RESPOSTA));
+
+        pergunta = cursor.getString(cursor.getColumnIndexOrThrow(CriaBanco.PERGUNTA));
+        resposta = cursor.getString(cursor.getColumnIndexOrThrow(CriaBanco.RESPOSTA));
+
 
         txtPergunta.setText(pergunta);
+
 
         btnResponder.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -57,13 +74,52 @@ public class Modozen extends Activity {
 
                 if (txtUsuario.equals(resposta)) {
                     Toast.makeText(getApplicationContext(), "Resposta correta!", Toast.LENGTH_SHORT).show();
+                    acertos+=1;
                 } else {
                     Toast.makeText(getApplicationContext(), "Resposta errada!", Toast.LENGTH_SHORT).show();
                 }
 
-                startActivity(it);
+                perguntas+=1;
+
+                info.putInt("acertos", acertos);
+                info.putInt("perguntas", perguntas);
+
+                it.putExtras(info);
+
+                if (perguntas != 20) {
+                    startActivity(it);
+                } else {
+                    continuar.putExtras(info);
+                    startActivity(continuar);
+                }
             }
         });
 
     }
+
+    @Override
+    public void onBackPressed() {
+        Intent itM = new Intent(this, Praticar.class);
+        startActivity(itM);
+    }
+
+    @Override
+    protected  void onSaveInstanceState (Bundle outState) {
+        super.onSaveInstanceState(outState);
+
+        outState.putInt("rand", rand);
+        outState.putInt("acertos", acertos);
+        outState.putInt("perguntas", perguntas);
+    }
+
+    @Override
+    protected void onRestoreInstanceState(Bundle savedInstanceState) {
+        super.onRestoreInstanceState(savedInstanceState);
+
+        rand = savedInstanceState.getInt("rand", 0);
+        acertos = savedInstanceState.getInt("acertos", 0);
+        perguntas = savedInstanceState.getInt("perguntas", 0);
+
+    }
+
 }

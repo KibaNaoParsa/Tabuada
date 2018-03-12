@@ -21,6 +21,7 @@ public class BancoController {
     public void inserePergunta(String pergunta, String resA, String resB, String resC, String resD, String resposta, String resposta_letra) {
 
         ContentValues valores;
+        long resultado;
 
         db = banco.getWritableDatabase();
         valores = new ContentValues();
@@ -32,6 +33,7 @@ public class BancoController {
         valores.put(CriaBanco.RESPOSTA, resposta);
         valores.put(CriaBanco.RESPOSTA_LETRA, resposta_letra);
 
+        resultado = db.insert(CriaBanco.TABELA, null, valores);
         db.close();
 
     }
@@ -47,6 +49,7 @@ public class BancoController {
         if (cursor != null) {
             cursor.moveToFirst();
         }
+
         db.close();
         return cursor;
 

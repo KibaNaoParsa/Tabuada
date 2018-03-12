@@ -29,6 +29,7 @@
         <activity android:name=".Tabuada8" android:windowSoftInputMode="adjustPan"/>
         <activity android:name=".Tabuada9" android:windowSoftInputMode="adjustPan"/>
         <activity android:name=".Modozen" android:windowSoftInputMode="adjustPan"/>
+        <activity android:name=".FinalQuizZen" android:windowSoftInputMode="adjustPan"/>
         <activity android:name=".Modoquiz" android:windowSoftInputMode="adjustPan"></activity>
     </application>
 
