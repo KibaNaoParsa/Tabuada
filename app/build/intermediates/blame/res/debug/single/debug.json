@@ -64,12 +64,12 @@
         "source": "/var/www/html/Tabuada/app/src/main/res/drawable/numero7.png"
     },
     {
-        "merged": "/home/alunos/TabuadaParaCriancas/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_launcher_background.xml.flat",
-        "source": "/home/alunos/TabuadaParaCriancas/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_launcher_background.xml"
-    },
-    {
         "merged": "/home/www/TabuadaParaCriancas/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
         "source": "/home/alunos/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/fc87d161da19ec4125520446ff94f282/res/drawable-xxhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/alunos/TabuadaParaCriancas/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "/home/alunos/TabuadaParaCriancas/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_launcher_background.xml"
     },
     {
         "merged": "/var/www/html/Tabuada/C:\\Users\\VictorGustavo\\Desktop\\TabuadaParaCriancas\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_popup_menu_header_item_layout.xml.flat",
@@ -144,16 +144,16 @@
         "source": "/home/alunos/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/fc87d161da19ec4125520446ff94f282/res/drawable-xhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
     },
     {
-        "merged": "/var/www/html/Tabuada/C:\\Users\\VictorGustavo\\Desktop\\TabuadaParaCriancas\\app\\build\\intermediates\\res\\merged\\debug\\drawable_praticar_selector.xml.flat",
-        "source": "/var/www/html/Tabuada/C:\\Users\\VictorGustavo\\Desktop\\TabuadaParaCriancas\\app\\src\\main\\res\\drawable\\praticar_selector.xml"
+        "merged": "/var/www/html/Tabuada/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/home/elyas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/52610befddf3d8e1987cd01b8f14f484/res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
         "merged": "/var/www/html/Tabuada/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
         "source": "/home/elyas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/52610befddf3d8e1987cd01b8f14f484/res/drawable-mdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
     },
     {
-        "merged": "/var/www/html/Tabuada/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
-        "source": "/home/elyas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/52610befddf3d8e1987cd01b8f14f484/res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
+        "merged": "/var/www/html/Tabuada/C:\\Users\\VictorGustavo\\Desktop\\TabuadaParaCriancas\\app\\build\\intermediates\\res\\merged\\debug\\drawable_praticar_selector.xml.flat",
+        "source": "/var/www/html/Tabuada/C:\\Users\\VictorGustavo\\Desktop\\TabuadaParaCriancas\\app\\src\\main\\res\\drawable\\praticar_selector.xml"
     },
     {
         "merged": "/home/alunos/TabuadaParaCriancas/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
@@ -184,12 +184,12 @@
         "source": "/home/alunos/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/fc87d161da19ec4125520446ff94f282/res/drawable-xhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
     },
     {
-        "merged": "/home/alunos/TabuadaParaCriancas/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
-        "source": "/home/alunos/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/fc87d161da19ec4125520446ff94f282/res/drawable-xhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
-    },
-    {
         "merged": "/home/alunos/TabuadaParaCriancas/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
         "source": "/home/alunos/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/fc87d161da19ec4125520446ff94f282/res/drawable-mdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/alunos/TabuadaParaCriancas/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "/home/alunos/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/fc87d161da19ec4125520446ff94f282/res/drawable-xhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
     },
     {
         "merged": "/var/www/html/Tabuada/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
@@ -224,16 +224,16 @@
         "source": "/home/alunos/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/fc87d161da19ec4125520446ff94f282/res/anim/tooltip_exit.xml"
     },
     {
-        "merged": "/var/www/html/Tabuada/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
-        "source": "/home/elyas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/52610befddf3d8e1987cd01b8f14f484/res/drawable-hdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
+        "merged": "/home/alunos/TabuadaParaCriancas/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "/home/alunos/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/fc87d161da19ec4125520446ff94f282/res/drawable-hdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
     },
     {
         "merged": "/var/www/html/Tabuada/app/build/intermediates/res/merged/debug/drawable_estrelas2.png.flat",
         "source": "/var/www/html/Tabuada/app/src/main/res/drawable/estrelas2.png"
     },
     {
-        "merged": "/home/alunos/TabuadaParaCriancas/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
-        "source": "/home/alunos/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/fc87d161da19ec4125520446ff94f282/res/drawable-hdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
+        "merged": "/var/www/html/Tabuada/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "/home/elyas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/52610befddf3d8e1987cd01b8f14f484/res/drawable-hdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
     },
     {
         "merged": "/var/www/html/Tabuada/C:\\home\\www\\Tabuada\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_selector_background_transition_holo_light.xml.flat",
@@ -252,12 +252,12 @@
         "source": "/home/alunos/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/fc87d161da19ec4125520446ff94f282/res/drawable-xhdpi-v4/abc_text_select_handle_middle_mtrl_light.png"
     },
     {
-        "merged": "/var/www/html/Tabuada/C:\\Users\\VictorGustavo\\Desktop\\TabuadaParaCriancas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
-        "source": "/var/www/html/Tabuada/C:\\Users\\VictorGustavo\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\e4eb46fe62fd87d38145327a1b731c05\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
-    },
-    {
         "merged": "/var/www/html/Tabuada/app/build/intermediates/res/merged/debug/drawable_tabuadado3.png.flat",
         "source": "/var/www/html/Tabuada/app/src/main/res/drawable/tabuadado3.png"
+    },
+    {
+        "merged": "/var/www/html/Tabuada/C:\\Users\\VictorGustavo\\Desktop\\TabuadaParaCriancas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/var/www/html/Tabuada/C:\\Users\\VictorGustavo\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\e4eb46fe62fd87d38145327a1b731c05\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
     },
     {
         "merged": "/var/www/html/Tabuada/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
@@ -280,12 +280,12 @@
         "source": "/var/www/html/Tabuada/C:\\Users\\VictorGustavo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e96a29a0ddaa903b2cb6a83542da9d26\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
-        "merged": "/var/www/html/Tabuada/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
-        "source": "/home/elyas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/52610befddf3d8e1987cd01b8f14f484/res/drawable-xhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
-    },
-    {
         "merged": "/var/www/html/Tabuada/C:\\home\\www\\Tabuada\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
         "source": "/var/www/html/Tabuada/C:\\home\\alunos\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\fc87d161da19ec4125520446ff94f282\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "/var/www/html/Tabuada/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "/home/elyas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/52610befddf3d8e1987cd01b8f14f484/res/drawable-xhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
     },
     {
         "merged": "/var/www/html/Tabuada/C:\\Users\\VictorGustavo\\Desktop\\TabuadaParaCriancas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
@@ -368,16 +368,16 @@
         "source": "/home/www/TabuadaParaCriancas/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "/home/alunos/TabuadaParaCriancas/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
-        "source": "/home/alunos/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/549d5df7fc6ca33e5fbf86449d5c8979/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
+        "merged": "/home/www/TabuadaParaCriancas/app/build/intermediates/res/merged/debug/drawable-ldrtl-hdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/home/alunos/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/fc87d161da19ec4125520446ff94f282/res/drawable-ldrtl-hdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
     },
     {
         "merged": "/home/www/TabuadaParaCriancas/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
         "source": "/home/alunos/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/549d5df7fc6ca33e5fbf86449d5c8979/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
     },
     {
-        "merged": "/home/www/TabuadaParaCriancas/app/build/intermediates/res/merged/debug/drawable-ldrtl-hdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
-        "source": "/home/alunos/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/fc87d161da19ec4125520446ff94f282/res/drawable-ldrtl-hdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
+        "merged": "/home/alunos/TabuadaParaCriancas/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/home/alunos/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/549d5df7fc6ca33e5fbf86449d5c8979/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
     },
     {
         "merged": "/home/www/TabuadaParaCriancas/app/build/intermediates/res/merged/debug/anim_tooltip_exit.xml.flat",
@@ -412,16 +412,16 @@
         "source": "/home/alunos/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/549d5df7fc6ca33e5fbf86449d5c8979/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
     },
     {
-        "merged": "/var/www/html/Tabuada/C:\\home\\www\\Tabuada\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tabuadado3.png.flat",
-        "source": "/var/www/html/Tabuada/C:\\home\\www\\Tabuada\\app\\src\\main\\res\\drawable\\tabuadado3.png"
+        "merged": "/var/www/html/Tabuada/app/build/intermediates/res/merged/debug/layout_activity_aprender.xml.flat",
+        "source": "/var/www/html/Tabuada/app/src/main/res/layout/activity_aprender.xml"
     },
     {
         "merged": "/var/www/html/Tabuada/C:\\home\\www\\Tabuada\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
         "source": "/var/www/html/Tabuada/C:\\home\\alunos\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\fc87d161da19ec4125520446ff94f282\\res\\drawable-xxhdpi-v4\\abc_popup_background_mtrl_mult.9.png"
     },
     {
-        "merged": "/var/www/html/Tabuada/app/build/intermediates/res/merged/debug/layout_activity_aprender.xml.flat",
-        "source": "/var/www/html/Tabuada/app/src/main/res/layout/activity_aprender.xml"
+        "merged": "/var/www/html/Tabuada/C:\\home\\www\\Tabuada\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tabuadado3.png.flat",
+        "source": "/var/www/html/Tabuada/C:\\home\\www\\Tabuada\\app\\src\\main\\res\\drawable\\tabuadado3.png"
     },
     {
         "merged": "/home/alunos/TabuadaParaCriancas/app/build/intermediates/res/merged/debug/layout_abc_search_dropdown_item_icons_2line.xml.flat",
@@ -508,36 +508,36 @@
         "source": "/home/alunos/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/fc87d161da19ec4125520446ff94f282/res/drawable-xhdpi-v4/abc_text_select_handle_left_mtrl_dark.png"
     },
     {
-        "merged": "/home/alunos/TabuadaParaCriancas/app/build/intermediates/res/merged/debug/layout_notification_template_big_media_custom.xml.flat",
-        "source": "/home/alunos/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/8cc5f8402a551bfe280b50246f5060a6/res/layout/notification_template_big_media_custom.xml"
+        "merged": "/var/www/html/Tabuada/C:\\Users\\VictorGustavo\\Desktop\\TabuadaParaCriancas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "/var/www/html/Tabuada/C:\\Users\\VictorGustavo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e96a29a0ddaa903b2cb6a83542da9d26\\res\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
     },
     {
         "merged": "/var/www/html/Tabuada/C:\\Users\\VictorGustavo\\Desktop\\TabuadaParaCriancas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
         "source": "/var/www/html/Tabuada/C:\\Users\\VictorGustavo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e96a29a0ddaa903b2cb6a83542da9d26\\res\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
     },
     {
-        "merged": "/var/www/html/Tabuada/C:\\Users\\VictorGustavo\\Desktop\\TabuadaParaCriancas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
-        "source": "/var/www/html/Tabuada/C:\\Users\\VictorGustavo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e96a29a0ddaa903b2cb6a83542da9d26\\res\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+        "merged": "/home/alunos/TabuadaParaCriancas/app/build/intermediates/res/merged/debug/layout_notification_template_big_media_custom.xml.flat",
+        "source": "/home/alunos/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/8cc5f8402a551bfe280b50246f5060a6/res/layout/notification_template_big_media_custom.xml"
     },
     {
         "merged": "/var/www/html/Tabuada/C:\\home\\www\\Tabuada\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
         "source": "/var/www/html/Tabuada/C:\\home\\alunos\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\fc87d161da19ec4125520446ff94f282\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
     },
     {
-        "merged": "/var/www/html/Tabuada/C:\\Users\\VictorGustavo\\Desktop\\TabuadaParaCriancas\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_spinner_textfield_background_material.xml.flat",
-        "source": "/var/www/html/Tabuada/C:\\Users\\VictorGustavo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e96a29a0ddaa903b2cb6a83542da9d26\\res\\drawable\\abc_spinner_textfield_background_material.xml"
-    },
-    {
         "merged": "/home/alunos/TabuadaParaCriancas/app/build/intermediates/res/merged/debug/drawable_aprenderp.png.flat",
         "source": "/home/alunos/TabuadaParaCriancas/app/src/main/res/drawable/aprenderp.png"
     },
     {
-        "merged": "/var/www/html/Tabuada/C:\\home\\www\\Tabuada\\app\\build\\intermediates\\res\\merged\\debug\\drawable_praticarp.png.flat",
-        "source": "/var/www/html/Tabuada/C:\\home\\www\\Tabuada\\app\\src\\main\\res\\drawable\\praticarp.png"
+        "merged": "/var/www/html/Tabuada/C:\\Users\\VictorGustavo\\Desktop\\TabuadaParaCriancas\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_spinner_textfield_background_material.xml.flat",
+        "source": "/var/www/html/Tabuada/C:\\Users\\VictorGustavo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e96a29a0ddaa903b2cb6a83542da9d26\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },
     {
         "merged": "/home/alunos/TabuadaParaCriancas/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxxhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
         "source": "/home/alunos/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/fc87d161da19ec4125520446ff94f282/res/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/var/www/html/Tabuada/C:\\home\\www\\Tabuada\\app\\build\\intermediates\\res\\merged\\debug\\drawable_praticarp.png.flat",
+        "source": "/var/www/html/Tabuada/C:\\home\\www\\Tabuada\\app\\src\\main\\res\\drawable\\praticarp.png"
     },
     {
         "merged": "/var/www/html/Tabuada/C:\\home\\www\\Tabuada\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
@@ -552,12 +552,12 @@
         "source": "/home/alunos/TabuadaParaCriancas/app/src/main/res/drawable/praticar_selector.xml"
     },
     {
-        "merged": "/var/www/html/Tabuada/app/build/intermediates/res/merged/debug/color_abc_secondary_text_material_light.xml.flat",
-        "source": "/home/elyas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/52610befddf3d8e1987cd01b8f14f484/res/color/abc_secondary_text_material_light.xml"
-    },
-    {
         "merged": "/home/www/TabuadaParaCriancas/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
         "source": "/home/alunos/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/fc87d161da19ec4125520446ff94f282/res/drawable-xxxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "/var/www/html/Tabuada/app/build/intermediates/res/merged/debug/color_abc_secondary_text_material_light.xml.flat",
+        "source": "/home/elyas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/52610befddf3d8e1987cd01b8f14f484/res/color/abc_secondary_text_material_light.xml"
     },
     {
         "merged": "/var/www/html/Tabuada/C:\\Users\\VictorGustavo\\Desktop\\TabuadaParaCriancas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
@@ -572,24 +572,24 @@
         "source": "/var/www/html/Tabuada/C:\\Users\\VictorGustavo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e96a29a0ddaa903b2cb6a83542da9d26\\res\\color-v23\\abc_tint_btn_checkable.xml"
     },
     {
-        "merged": "/home/alunos/TabuadaParaCriancas/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
-        "source": "/home/alunos/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/549d5df7fc6ca33e5fbf86449d5c8979/res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
-    },
-    {
         "merged": "/home/alunos/TabuadaParaCriancas/app/build/intermediates/res/merged/debug/layout_activity_tabuada7.xml.flat",
         "source": "/home/alunos/TabuadaParaCriancas/app/src/main/res/layout/activity_tabuada7.xml"
+    },
+    {
+        "merged": "/home/alunos/TabuadaParaCriancas/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/home/alunos/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/549d5df7fc6ca33e5fbf86449d5c8979/res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
     },
     {
         "merged": "/var/www/html/Tabuada/C:\\home\\www\\Tabuada\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
         "source": "/var/www/html/Tabuada/C:\\home\\alunos\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\fc87d161da19ec4125520446ff94f282\\res\\drawable-xxhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
     },
     {
-        "merged": "/var/www/html/Tabuada/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
-        "source": "/home/elyas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/52610befddf3d8e1987cd01b8f14f484/res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_015.png"
-    },
-    {
         "merged": "/var/www/html/Tabuada/app/build/intermediates/res/merged/debug/layout_abc_list_menu_item_layout.xml.flat",
         "source": "/home/elyas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/52610befddf3d8e1987cd01b8f14f484/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/var/www/html/Tabuada/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "/home/elyas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/52610befddf3d8e1987cd01b8f14f484/res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_015.png"
     },
     {
         "merged": "/var/www/html/Tabuada/C:\\Users\\VictorGustavo\\Desktop\\TabuadaParaCriancas\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_tint_spinner.xml.flat",
@@ -640,12 +640,12 @@
         "source": "/var/www/html/Tabuada/C:\\home\\alunos\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\fc87d161da19ec4125520446ff94f282\\res\\drawable-ldrtl-mdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
     },
     {
-        "merged": "/var/www/html/Tabuada/C:\\Users\\VictorGustavo\\Desktop\\TabuadaParaCriancas\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_tint_default.xml.flat",
-        "source": "/var/www/html/Tabuada/C:\\Users\\VictorGustavo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e96a29a0ddaa903b2cb6a83542da9d26\\res\\color-v23\\abc_tint_default.xml"
-    },
-    {
         "merged": "/var/www/html/Tabuada/C:\\home\\www\\Tabuada\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_longpressed_holo.9.png.flat",
         "source": "/var/www/html/Tabuada/C:\\home\\alunos\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\fc87d161da19ec4125520446ff94f282\\res\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/var/www/html/Tabuada/C:\\Users\\VictorGustavo\\Desktop\\TabuadaParaCriancas\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_tint_default.xml.flat",
+        "source": "/var/www/html/Tabuada/C:\\Users\\VictorGustavo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e96a29a0ddaa903b2cb6a83542da9d26\\res\\color-v23\\abc_tint_default.xml"
     },
     {
         "merged": "/var/www/html/Tabuada/C:\\home\\www\\Tabuada\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_black_48dp.png.flat",
@@ -660,16 +660,16 @@
         "source": "/home/alunos/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/fc87d161da19ec4125520446ff94f282/res/drawable-xhdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
     },
     {
-        "merged": "/var/www/html/Tabuada/C:\\Users\\VictorGustavo\\Desktop\\TabuadaParaCriancas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
-        "source": "/var/www/html/Tabuada/C:\\Users\\VictorGustavo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e96a29a0ddaa903b2cb6a83542da9d26\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
+        "merged": "/home/www/TabuadaParaCriancas/app/build/intermediates/res/merged/debug/layout_activity_tabuada9.xml.flat",
+        "source": "/home/www/TabuadaParaCriancas/app/src/main/res/layout/activity_tabuada9.xml"
     },
     {
         "merged": "/var/www/html/Tabuada/C:\\home\\www\\Tabuada\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
         "source": "/var/www/html/Tabuada/C:\\home\\alunos\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\fc87d161da19ec4125520446ff94f282\\res\\drawable-xxxhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
     },
     {
-        "merged": "/home/www/TabuadaParaCriancas/app/build/intermediates/res/merged/debug/layout_activity_tabuada9.xml.flat",
-        "source": "/home/www/TabuadaParaCriancas/app/src/main/res/layout/activity_tabuada9.xml"
+        "merged": "/var/www/html/Tabuada/C:\\Users\\VictorGustavo\\Desktop\\TabuadaParaCriancas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
+        "source": "/var/www/html/Tabuada/C:\\Users\\VictorGustavo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e96a29a0ddaa903b2cb6a83542da9d26\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
     },
     {
         "merged": "/home/alunos/TabuadaParaCriancas/app/build/intermediates/res/merged/debug/drawable_abc_seekbar_tick_mark_material.xml.flat",
@@ -712,12 +712,12 @@
         "source": "/var/www/html/Tabuada/C:\\Users\\VictorGustavo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e96a29a0ddaa903b2cb6a83542da9d26\\res\\drawable-xxhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
     },
     {
-        "merged": "/var/www/html/Tabuada/C:\\home\\www\\Tabuada\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
-        "source": "/var/www/html/Tabuada/C:\\home\\alunos\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\fc87d161da19ec4125520446ff94f282\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
-    },
-    {
         "merged": "/var/www/html/Tabuada/C:\\home\\www\\Tabuada\\app\\build\\intermediates\\res\\merged\\debug\\drawable_numero8.png.flat",
         "source": "/var/www/html/Tabuada/C:\\home\\www\\Tabuada\\app\\src\\main\\res\\drawable\\numero8.png"
+    },
+    {
+        "merged": "/var/www/html/Tabuada/C:\\home\\www\\Tabuada\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "/var/www/html/Tabuada/C:\\home\\alunos\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\fc87d161da19ec4125520446ff94f282\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
     },
     {
         "merged": "/var/www/html/Tabuada/C:\\home\\www\\Tabuada\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_slide_in_top.xml.flat",
@@ -728,12 +728,12 @@
         "source": "/home/alunos/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/fc87d161da19ec4125520446ff94f282/res/drawable-xhdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
     },
     {
-        "merged": "/var/www/html/Tabuada/C:\\Users\\VictorGustavo\\Desktop\\TabuadaParaCriancas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
-        "source": "/var/www/html/Tabuada/C:\\Users\\VictorGustavo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e96a29a0ddaa903b2cb6a83542da9d26\\res\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
-    },
-    {
         "merged": "/home/www/TabuadaParaCriancas/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
         "source": "/home/www/TabuadaParaCriancas/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/var/www/html/Tabuada/C:\\Users\\VictorGustavo\\Desktop\\TabuadaParaCriancas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "/var/www/html/Tabuada/C:\\Users\\VictorGustavo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e96a29a0ddaa903b2cb6a83542da9d26\\res\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
     },
     {
         "merged": "/var/www/html/Tabuada/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
@@ -760,12 +760,12 @@
         "source": "/home/elyas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/52610befddf3d8e1987cd01b8f14f484/res/drawable-hdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
     },
     {
-        "merged": "/var/www/html/Tabuada/C:\\Users\\VictorGustavo\\Desktop\\TabuadaParaCriancas\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_simple.xml.flat",
-        "source": "/var/www/html/Tabuada/C:\\Users\\VictorGustavo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e96a29a0ddaa903b2cb6a83542da9d26\\res\\layout\\abc_screen_simple.xml"
-    },
-    {
         "merged": "/home/www/TabuadaParaCriancas/app/build/intermediates/res/merged/debug/drawable_selecione.png.flat",
         "source": "/home/www/TabuadaParaCriancas/app/src/main/res/drawable/selecione.png"
+    },
+    {
+        "merged": "/var/www/html/Tabuada/C:\\Users\\VictorGustavo\\Desktop\\TabuadaParaCriancas\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_simple.xml.flat",
+        "source": "/var/www/html/Tabuada/C:\\Users\\VictorGustavo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e96a29a0ddaa903b2cb6a83542da9d26\\res\\layout\\abc_screen_simple.xml"
     },
     {
         "merged": "/home/alunos/TabuadaParaCriancas/app/build/intermediates/res/merged/debug/drawable_abc_list_selector_background_transition_holo_light.xml.flat",
@@ -916,16 +916,16 @@
         "source": "/var/www/html/Tabuada/C:\\home\\alunos\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\fc87d161da19ec4125520446ff94f282\\res\\color-v23\\abc_tint_spinner.xml"
     },
     {
-        "merged": "/home/alunos/TabuadaParaCriancas/app/build/intermediates/res/merged/debug/drawable-v21_abc_btn_colored_material.xml.flat",
-        "source": "/home/alunos/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/fc87d161da19ec4125520446ff94f282/res/drawable-v21/abc_btn_colored_material.xml"
+        "merged": "/var/www/html/Tabuada/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "/home/elyas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/52610befddf3d8e1987cd01b8f14f484/res/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
         "merged": "/var/www/html/Tabuada/C:\\home\\www\\Tabuada\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_black_36dp.png.flat",
         "source": "/var/www/html/Tabuada/C:\\home\\alunos\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\fc87d161da19ec4125520446ff94f282\\res\\drawable-xxhdpi-v4\\abc_ic_star_black_36dp.png"
     },
     {
-        "merged": "/var/www/html/Tabuada/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
-        "source": "/home/elyas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/52610befddf3d8e1987cd01b8f14f484/res/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
+        "merged": "/home/alunos/TabuadaParaCriancas/app/build/intermediates/res/merged/debug/drawable-v21_abc_btn_colored_material.xml.flat",
+        "source": "/home/alunos/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/fc87d161da19ec4125520446ff94f282/res/drawable-v21/abc_btn_colored_material.xml"
     },
     {
         "merged": "/home/www/TabuadaParaCriancas/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
@@ -1012,20 +1012,20 @@
         "source": "/home/alunos/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/fc87d161da19ec4125520446ff94f282/res/drawable-xhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
     },
     {
-        "merged": "/home/alunos/TabuadaParaCriancas/app/build/intermediates/res/merged/debug/drawable_numero10.png.flat",
-        "source": "/home/alunos/TabuadaParaCriancas/app/src/main/res/drawable/numero10.png"
-    },
-    {
-        "merged": "/var/www/html/Tabuada/C:\\Users\\VictorGustavo\\Desktop\\TabuadaParaCriancas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
-        "source": "/var/www/html/Tabuada/C:\\Users\\VictorGustavo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e96a29a0ddaa903b2cb6a83542da9d26\\res\\drawable-xxxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+        "merged": "/var/www/html/Tabuada/C:\\home\\www\\Tabuada\\app\\build\\intermediates\\res\\merged\\debug\\drawable_modoquizp.png.flat",
+        "source": "/var/www/html/Tabuada/C:\\home\\www\\Tabuada\\app\\src\\main\\res\\drawable\\modoquizp.png"
     },
     {
         "merged": "/var/www/html/Tabuada/app/build/intermediates/res/merged/debug/drawable_abc_btn_check_material.xml.flat",
         "source": "/home/elyas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/52610befddf3d8e1987cd01b8f14f484/res/drawable/abc_btn_check_material.xml"
     },
     {
-        "merged": "/var/www/html/Tabuada/C:\\home\\www\\Tabuada\\app\\build\\intermediates\\res\\merged\\debug\\drawable_modoquizp.png.flat",
-        "source": "/var/www/html/Tabuada/C:\\home\\www\\Tabuada\\app\\src\\main\\res\\drawable\\modoquizp.png"
+        "merged": "/var/www/html/Tabuada/C:\\Users\\VictorGustavo\\Desktop\\TabuadaParaCriancas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "/var/www/html/Tabuada/C:\\Users\\VictorGustavo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e96a29a0ddaa903b2cb6a83542da9d26\\res\\drawable-xxxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "/home/alunos/TabuadaParaCriancas/app/build/intermediates/res/merged/debug/drawable_numero10.png.flat",
+        "source": "/home/alunos/TabuadaParaCriancas/app/src/main/res/drawable/numero10.png"
     },
     {
         "merged": "/home/alunos/TabuadaParaCriancas/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
@@ -1036,16 +1036,16 @@
         "source": "/var/www/html/Tabuada/C:\\home\\www\\Tabuada\\app\\src\\main\\res\\layout\\activity_aprender.xml"
     },
     {
-        "merged": "/var/www/html/Tabuada/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
-        "source": "/home/elyas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/52610befddf3d8e1987cd01b8f14f484/res/drawable-xhdpi-v4/abc_text_select_handle_right_mtrl_dark.png"
+        "merged": "/var/www/html/Tabuada/C:\\Users\\VictorGustavo\\Desktop\\TabuadaParaCriancas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_focused_holo.9.png.flat",
+        "source": "/var/www/html/Tabuada/C:\\Users\\VictorGustavo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e96a29a0ddaa903b2cb6a83542da9d26\\res\\drawable-hdpi-v4\\abc_list_focused_holo.9.png"
     },
     {
         "merged": "/var/www/html/Tabuada/C:\\home\\www\\Tabuada\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_tint_switch_track.xml.flat",
         "source": "/var/www/html/Tabuada/C:\\home\\alunos\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\fc87d161da19ec4125520446ff94f282\\res\\color\\abc_tint_switch_track.xml"
     },
     {
-        "merged": "/var/www/html/Tabuada/C:\\Users\\VictorGustavo\\Desktop\\TabuadaParaCriancas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_focused_holo.9.png.flat",
-        "source": "/var/www/html/Tabuada/C:\\Users\\VictorGustavo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e96a29a0ddaa903b2cb6a83542da9d26\\res\\drawable-hdpi-v4\\abc_list_focused_holo.9.png"
+        "merged": "/var/www/html/Tabuada/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
+        "source": "/home/elyas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/52610befddf3d8e1987cd01b8f14f484/res/drawable-xhdpi-v4/abc_text_select_handle_right_mtrl_dark.png"
     },
     {
         "merged": "/var/www/html/Tabuada/C:\\Users\\VictorGustavo\\Desktop\\TabuadaParaCriancas\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_mode_close_item_material.xml.flat",
@@ -1056,36 +1056,36 @@
         "source": "/var/www/html/Tabuada/C:\\Users\\VictorGustavo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e96a29a0ddaa903b2cb6a83542da9d26\\res\\color\\abc_secondary_text_material_dark.xml"
     },
     {
-        "merged": "/var/www/html/Tabuada/C:\\home\\www\\Tabuada\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
-        "source": "/var/www/html/Tabuada/C:\\home\\alunos\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\fc87d161da19ec4125520446ff94f282\\res\\drawable-xxhdpi-v4\\abc_ic_star_half_black_48dp.png"
-    },
-    {
         "merged": "/home/www/TabuadaParaCriancas/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
         "source": "/home/alunos/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/fc87d161da19ec4125520446ff94f282/res/drawable-mdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
     },
     {
-        "merged": "/var/www/html/Tabuada/C:\\Users\\VictorGustavo\\Desktop\\TabuadaParaCriancas\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_go_search_api_material.xml.flat",
-        "source": "/var/www/html/Tabuada/C:\\Users\\VictorGustavo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e96a29a0ddaa903b2cb6a83542da9d26\\res\\drawable\\abc_ic_go_search_api_material.xml"
+        "merged": "/var/www/html/Tabuada/C:\\home\\www\\Tabuada\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
+        "source": "/var/www/html/Tabuada/C:\\home\\alunos\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\fc87d161da19ec4125520446ff94f282\\res\\drawable-xxhdpi-v4\\abc_ic_star_half_black_48dp.png"
     },
     {
         "merged": "/var/www/html/Tabuada/C:\\Users\\VictorGustavo\\Desktop\\TabuadaParaCriancas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
         "source": "/var/www/html/Tabuada/C:\\Users\\VictorGustavo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e96a29a0ddaa903b2cb6a83542da9d26\\res\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
     },
     {
+        "merged": "/var/www/html/Tabuada/C:\\Users\\VictorGustavo\\Desktop\\TabuadaParaCriancas\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_go_search_api_material.xml.flat",
+        "source": "/var/www/html/Tabuada/C:\\Users\\VictorGustavo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e96a29a0ddaa903b2cb6a83542da9d26\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
         "merged": "/home/alunos/TabuadaParaCriancas/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
         "source": "/home/alunos/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/fc87d161da19ec4125520446ff94f282/res/drawable-xxxhdpi-v4/abc_ic_star_half_black_16dp.png"
     },
     {
-        "merged": "/home/alunos/TabuadaParaCriancas/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
-        "source": "/home/alunos/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/fc87d161da19ec4125520446ff94f282/res/drawable-xxxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
+        "merged": "/var/www/html/Tabuada/C:\\Users\\VictorGustavo\\Desktop\\TabuadaParaCriancas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-mdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/var/www/html/Tabuada/C:\\Users\\VictorGustavo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e96a29a0ddaa903b2cb6a83542da9d26\\res\\drawable-ldrtl-mdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
         "merged": "/var/www/html/Tabuada/C:\\home\\www\\Tabuada\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_hint_foreground_material_dark.xml.flat",
         "source": "/var/www/html/Tabuada/C:\\home\\alunos\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\fc87d161da19ec4125520446ff94f282\\res\\color\\abc_hint_foreground_material_dark.xml"
     },
     {
-        "merged": "/var/www/html/Tabuada/C:\\Users\\VictorGustavo\\Desktop\\TabuadaParaCriancas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-mdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
-        "source": "/var/www/html/Tabuada/C:\\Users\\VictorGustavo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e96a29a0ddaa903b2cb6a83542da9d26\\res\\drawable-ldrtl-mdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
+        "merged": "/home/alunos/TabuadaParaCriancas/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/home/alunos/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/fc87d161da19ec4125520446ff94f282/res/drawable-xxxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
         "merged": "/var/www/html/Tabuada/app/build/intermediates/res/merged/debug/layout_activity_tabuada7.xml.flat",
@@ -1096,12 +1096,12 @@
         "source": "/var/www/html/Tabuada/C:\\Users\\VictorGustavo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e96a29a0ddaa903b2cb6a83542da9d26\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
     },
     {
-        "merged": "/var/www/html/Tabuada/C:\\home\\www\\Tabuada\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
-        "source": "/var/www/html/Tabuada/C:\\home\\alunos\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\fc87d161da19ec4125520446ff94f282\\res\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
-    },
-    {
         "merged": "/home/alunos/TabuadaParaCriancas/app/build/intermediates/res/merged/debug/color-v23_abc_tint_seek_thumb.xml.flat",
         "source": "/home/alunos/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/fc87d161da19ec4125520446ff94f282/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/var/www/html/Tabuada/C:\\home\\www\\Tabuada\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "/var/www/html/Tabuada/C:\\home\\alunos\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\fc87d161da19ec4125520446ff94f282\\res\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
     },
     {
         "merged": "/var/www/html/Tabuada/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_star_black_48dp.png.flat",
@@ -1140,12 +1140,12 @@
         "source": "/home/alunos/TabuadaParaCriancas/app/src/main/res/drawable/numero6.png"
     },
     {
-        "merged": "/var/www/html/Tabuada/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
-        "source": "/home/elyas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/52610befddf3d8e1987cd01b8f14f484/res/drawable-hdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
-    },
-    {
         "merged": "/var/www/html/Tabuada/C:\\Users\\VictorGustavo\\Desktop\\TabuadaParaCriancas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
         "source": "/var/www/html/Tabuada/C:\\Users\\VictorGustavo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e96a29a0ddaa903b2cb6a83542da9d26\\res\\drawable-mdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "/var/www/html/Tabuada/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
+        "source": "/home/elyas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/52610befddf3d8e1987cd01b8f14f484/res/drawable-hdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
     },
     {
         "merged": "/var/www/html/Tabuada/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
@@ -1168,12 +1168,12 @@
         "source": "/home/www/TabuadaParaCriancas/app/src/main/res/drawable/modozen.png"
     },
     {
-        "merged": "/var/www/html/Tabuada/app/build/intermediates/res/merged/debug/layout-v21_notification_action.xml.flat",
-        "source": "/home/elyas/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/43f3a4cf9bbf9acdbfe86eb0c3ebe264/res/layout-v21/notification_action.xml"
-    },
-    {
         "merged": "/var/www/html/Tabuada/C:\\Users\\VictorGustavo\\Desktop\\TabuadaParaCriancas\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_default_mtrl_shape.xml.flat",
         "source": "/var/www/html/Tabuada/C:\\Users\\VictorGustavo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e96a29a0ddaa903b2cb6a83542da9d26\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/var/www/html/Tabuada/app/build/intermediates/res/merged/debug/layout-v21_notification_action.xml.flat",
+        "source": "/home/elyas/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/43f3a4cf9bbf9acdbfe86eb0c3ebe264/res/layout-v21/notification_action.xml"
     },
     {
         "merged": "/home/alunos/TabuadaParaCriancas/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
@@ -1200,16 +1200,16 @@
         "source": "/var/www/html/Tabuada/C:\\home\\alunos\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\fc87d161da19ec4125520446ff94f282\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },
     {
-        "merged": "/var/www/html/Tabuada/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_list_pressed_holo_light.9.png.flat",
-        "source": "/home/elyas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/52610befddf3d8e1987cd01b8f14f484/res/drawable-xxhdpi-v4/abc_list_pressed_holo_light.9.png"
+        "merged": "/home/www/TabuadaParaCriancas/app/build/intermediates/res/merged/debug/layout_activity_tabuada3.xml.flat",
+        "source": "/home/www/TabuadaParaCriancas/app/src/main/res/layout/activity_tabuada3.xml"
     },
     {
         "merged": "/var/www/html/Tabuada/C:\\Users\\VictorGustavo\\Desktop\\TabuadaParaCriancas\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_toolbar.xml.flat",
         "source": "/var/www/html/Tabuada/C:\\Users\\VictorGustavo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e96a29a0ddaa903b2cb6a83542da9d26\\res\\layout\\abc_screen_toolbar.xml"
     },
     {
-        "merged": "/home/www/TabuadaParaCriancas/app/build/intermediates/res/merged/debug/layout_activity_tabuada3.xml.flat",
-        "source": "/home/www/TabuadaParaCriancas/app/src/main/res/layout/activity_tabuada3.xml"
+        "merged": "/var/www/html/Tabuada/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_list_pressed_holo_light.9.png.flat",
+        "source": "/home/elyas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/52610befddf3d8e1987cd01b8f14f484/res/drawable-xxhdpi-v4/abc_list_pressed_holo_light.9.png"
     },
     {
         "merged": "/home/alunos/TabuadaParaCriancas/app/build/intermediates/res/merged/debug/color_switch_thumb_material_dark.xml.flat",
@@ -1232,16 +1232,16 @@
         "source": "/home/alunos/TabuadaParaCriancas/app/src/main/res/drawable/editquiz.png"
     },
     {
-        "merged": "/var/www/html/Tabuada/C:\\home\\www\\Tabuada\\app\\build\\intermediates\\res\\merged\\debug\\drawable_numero1.png.flat",
-        "source": "/var/www/html/Tabuada/C:\\home\\www\\Tabuada\\app\\src\\main\\res\\drawable\\numero1.png"
+        "merged": "/var/www/html/Tabuada/C:\\home\\www\\Tabuada\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/var/www/html/Tabuada/C:\\home\\www\\Tabuada\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
     },
     {
         "merged": "/var/www/html/Tabuada/app/build/intermediates/res/merged/debug/color_abc_tint_seek_thumb.xml.flat",
         "source": "/home/elyas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/52610befddf3d8e1987cd01b8f14f484/res/color/abc_tint_seek_thumb.xml"
     },
     {
-        "merged": "/var/www/html/Tabuada/C:\\home\\www\\Tabuada\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
-        "source": "/var/www/html/Tabuada/C:\\home\\www\\Tabuada\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+        "merged": "/var/www/html/Tabuada/C:\\home\\www\\Tabuada\\app\\build\\intermediates\\res\\merged\\debug\\drawable_numero1.png.flat",
+        "source": "/var/www/html/Tabuada/C:\\home\\www\\Tabuada\\app\\src\\main\\res\\drawable\\numero1.png"
     },
     {
         "merged": "/var/www/html/Tabuada/C:\\home\\www\\Tabuada\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_star_black_16dp.png.flat",
@@ -1280,28 +1280,28 @@
         "source": "/home/alunos/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/fc87d161da19ec4125520446ff94f282/res/layout/abc_alert_dialog_title_material.xml"
     },
     {
-        "merged": "/var/www/html/Tabuada/C:\\Users\\VictorGustavo\\Desktop\\TabuadaParaCriancas\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_primary_text_disable_only_material_dark.xml.flat",
-        "source": "/var/www/html/Tabuada/C:\\Users\\VictorGustavo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e96a29a0ddaa903b2cb6a83542da9d26\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
-    },
-    {
         "merged": "/home/alunos/TabuadaParaCriancas/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
         "source": "/home/alunos/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/fc87d161da19ec4125520446ff94f282/res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
-        "merged": "/var/www/html/Tabuada/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
-        "source": "/home/elyas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/52610befddf3d8e1987cd01b8f14f484/res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
+        "merged": "/var/www/html/Tabuada/C:\\Users\\VictorGustavo\\Desktop\\TabuadaParaCriancas\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_primary_text_disable_only_material_dark.xml.flat",
+        "source": "/var/www/html/Tabuada/C:\\Users\\VictorGustavo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e96a29a0ddaa903b2cb6a83542da9d26\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
     },
     {
-        "merged": "/var/www/html/Tabuada/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
-        "source": "/home/elyas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/52610befddf3d8e1987cd01b8f14f484/res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
+        "merged": "/home/www/TabuadaParaCriancas/app/build/intermediates/res/merged/debug/drawable_numero3.png.flat",
+        "source": "/home/www/TabuadaParaCriancas/app/src/main/res/drawable/numero3.png"
     },
     {
         "merged": "/var/www/html/Tabuada/C:\\home\\www\\Tabuada\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_half_black_16dp.png.flat",
         "source": "/var/www/html/Tabuada/C:\\home\\alunos\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\fc87d161da19ec4125520446ff94f282\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png"
     },
     {
-        "merged": "/home/www/TabuadaParaCriancas/app/build/intermediates/res/merged/debug/drawable_numero3.png.flat",
-        "source": "/home/www/TabuadaParaCriancas/app/src/main/res/drawable/numero3.png"
+        "merged": "/var/www/html/Tabuada/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "/home/elyas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/52610befddf3d8e1987cd01b8f14f484/res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/var/www/html/Tabuada/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "/home/elyas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/52610befddf3d8e1987cd01b8f14f484/res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
     },
     {
         "merged": "/var/www/html/Tabuada/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_pressed_holo_light.9.png.flat",
@@ -1328,12 +1328,12 @@
         "source": "/home/alunos/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/fc87d161da19ec4125520446ff94f282/res/drawable-xhdpi-v4/abc_switch_track_mtrl_alpha.9.png"
     },
     {
-        "merged": "/home/alunos/TabuadaParaCriancas/app/build/intermediates/res/merged/debug/drawable_abc_vector_test.xml.flat",
-        "source": "/home/alunos/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/fc87d161da19ec4125520446ff94f282/res/drawable/abc_vector_test.xml"
-    },
-    {
         "merged": "/home/alunos/TabuadaParaCriancas/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
         "source": "/home/alunos/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/fc87d161da19ec4125520446ff94f282/res/drawable-xxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/alunos/TabuadaParaCriancas/app/build/intermediates/res/merged/debug/drawable_abc_vector_test.xml.flat",
+        "source": "/home/alunos/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/fc87d161da19ec4125520446ff94f282/res/drawable/abc_vector_test.xml"
     },
     {
         "merged": "/var/www/html/Tabuada/C:\\home\\www\\Tabuada\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_search_view.xml.flat",
@@ -1372,24 +1372,24 @@
         "source": "/home/alunos/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/fc87d161da19ec4125520446ff94f282/res/color/switch_thumb_material_light.xml"
     },
     {
-        "merged": "/home/alunos/TabuadaParaCriancas/app/build/intermediates/res/merged/debug/layout_abc_action_bar_up_container.xml.flat",
-        "source": "/home/alunos/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/fc87d161da19ec4125520446ff94f282/res/layout/abc_action_bar_up_container.xml"
-    },
-    {
         "merged": "/var/www/html/Tabuada/app/build/intermediates/res/merged/debug/drawable_aprender3.png.flat",
         "source": "/var/www/html/Tabuada/app/src/main/res/drawable/aprender3.png"
+    },
+    {
+        "merged": "/home/alunos/TabuadaParaCriancas/app/build/intermediates/res/merged/debug/layout_abc_action_bar_up_container.xml.flat",
+        "source": "/home/alunos/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/fc87d161da19ec4125520446ff94f282/res/layout/abc_action_bar_up_container.xml"
     },
     {
         "merged": "/var/www/html/Tabuada/C:\\Users\\VictorGustavo\\Desktop\\TabuadaParaCriancas\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_tabuada3.xml.flat",
         "source": "/var/www/html/Tabuada/C:\\Users\\VictorGustavo\\Desktop\\TabuadaParaCriancas\\app\\src\\main\\res\\layout\\activity_tabuada3.xml"
     },
     {
-        "merged": "/var/www/html/Tabuada/C:\\home\\www\\Tabuada\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_chronometer.xml.flat",
-        "source": "/var/www/html/Tabuada/C:\\home\\alunos\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\549d5df7fc6ca33e5fbf86449d5c8979\\res\\layout\\notification_template_part_chronometer.xml"
-    },
-    {
         "merged": "/home/www/TabuadaParaCriancas/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
         "source": "/home/alunos/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/fc87d161da19ec4125520446ff94f282/res/drawable-xhdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/var/www/html/Tabuada/C:\\home\\www\\Tabuada\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_chronometer.xml.flat",
+        "source": "/var/www/html/Tabuada/C:\\home\\alunos\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\549d5df7fc6ca33e5fbf86449d5c8979\\res\\layout\\notification_template_part_chronometer.xml"
     },
     {
         "merged": "/var/www/html/Tabuada/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
@@ -1456,12 +1456,12 @@
         "source": "/home/alunos/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/549d5df7fc6ca33e5fbf86449d5c8979/res/layout-v21/notification_template_custom_big.xml"
     },
     {
-        "merged": "/home/alunos/TabuadaParaCriancas/app/build/intermediates/res/merged/debug/layout_notification_template_big_media_narrow.xml.flat",
-        "source": "/home/alunos/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/8cc5f8402a551bfe280b50246f5060a6/res/layout/notification_template_big_media_narrow.xml"
-    },
-    {
         "merged": "/var/www/html/Tabuada/C:\\Users\\VictorGustavo\\Desktop\\TabuadaParaCriancas\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media.xml.flat",
         "source": "/var/www/html/Tabuada/C:\\Users\\VictorGustavo\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\007b8ea8a63f707ce89317a6e746262b\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "/home/alunos/TabuadaParaCriancas/app/build/intermediates/res/merged/debug/layout_notification_template_big_media_narrow.xml.flat",
+        "source": "/home/alunos/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/8cc5f8402a551bfe280b50246f5060a6/res/layout/notification_template_big_media_narrow.xml"
     },
     {
         "merged": "/home/alunos/TabuadaParaCriancas/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
