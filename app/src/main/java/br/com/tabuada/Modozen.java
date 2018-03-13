@@ -2,6 +2,7 @@ package br.com.tabuada;
 
 import android.app.Activity;
 import android.content.Intent;
+import android.content.pm.ActivityInfo;
 import android.database.Cursor;
 import android.os.Bundle;
 import android.view.View;
@@ -31,7 +32,13 @@ public class Modozen extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_modozen);
 
-        rand = 0;
+        int orient=this.getResources().getConfiguration().orientation;
+
+        if (orient == 1) {
+            setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_PORTRAIT);
+        } else {
+            setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_LANDSCAPE);
+        }
 
         voltar = getIntent();
 
@@ -101,25 +108,6 @@ public class Modozen extends Activity {
     public void onBackPressed() {
         Intent itM = new Intent(this, Praticar.class);
         startActivity(itM);
-    }
-
-    @Override
-    protected  void onSaveInstanceState (Bundle outState) {
-        super.onSaveInstanceState(outState);
-
-        outState.putInt("rand", rand);
-        outState.putInt("acertos", acertos);
-        outState.putInt("perguntas", perguntas);
-    }
-
-    @Override
-    protected void onRestoreInstanceState(Bundle savedInstanceState) {
-        super.onRestoreInstanceState(savedInstanceState);
-
-        rand = savedInstanceState.getInt("rand", 0);
-        acertos = savedInstanceState.getInt("acertos", 0);
-        perguntas = savedInstanceState.getInt("perguntas", 0);
-
     }
 
 }

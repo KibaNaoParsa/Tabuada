@@ -1,4 +1,4 @@
-#Mon Mar 12 17:56:21 BRT 2018
-base.0=/home/www/TabuadaParaCriancas/app/build/intermediates/transforms/dexMerger/debug/0
+#Tue Mar 13 17:13:07 BRT 2018
+base.0=/home/www/Tabuada/app/build/intermediates/transforms/dexMerger/debug/0
 path.0=classes.dex
 renamed.0=classes.dex
