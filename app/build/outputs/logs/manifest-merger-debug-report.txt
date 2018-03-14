@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:2:1-36:12
-INJECTED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:2:1-36:12
-INJECTED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:2:1-36:12
-INJECTED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:2:1-36:12
+ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:2:1-38:12
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/alunos/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/72fbd25f6395599624fbe985157d6e09/AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.support:appcompat-v7:26.1.0] /home/alunos/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/fc87d161da19ec4125520446ff94f282/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/alunos/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/4e801cafe256db1b652af98d0823f491/AndroidManifest.xml:17:1-28:12
@@ -15,25 +15,25 @@ MERGED from [com.android.support:support-core-utils:26.1.0] /home/alunos/.gradle
 MERGED from [com.android.support:support-core-ui:26.1.0] /home/alunos/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/bf0854172234192d5b3b336ce3cd2de5/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-compat:26.1.0] /home/alunos/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/549d5df7fc6ca33e5fbf86449d5c8979/AndroidManifest.xml:17:1-31:12
 MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/alunos/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/c47137ec0ecfbf5c93815d9e8927cf13/AndroidManifest.xml:17:1-30:12
-INJECTED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:2:1-36:12
-INJECTED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:2:1-36:12
-INJECTED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:2:1-38:12
 	package
 		ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:3:5-29
 		INJECTED from /home/www/Tabuada/app/src/main/AndroidManifest.xml
 		INJECTED from /home/www/Tabuada/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /home/www/Tabuada/app/src/main/AndroidManifest.xml
-		ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:2:1-36:12
+		ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:2:1-38:12
 		INJECTED from /home/www/Tabuada/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /home/www/Tabuada/app/src/main/AndroidManifest.xml
-		ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:2:1-36:12
+		ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:2:1-38:12
 		INJECTED from /home/www/Tabuada/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:5:5-34:19
+ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:5:5-36:19
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/alunos/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/72fbd25f6395599624fbe985157d6e09/AndroidManifest.xml:9:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/alunos/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/72fbd25f6395599624fbe985157d6e09/AndroidManifest.xml:9:5-20
 MERGED from [com.android.support:appcompat-v7:26.1.0] /home/alunos/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/fc87d161da19ec4125520446ff94f282/AndroidManifest.xml:25:5-29:19
@@ -160,18 +160,24 @@ ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:31:9-84
 		ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:31:43-82
 	android:name
 		ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:31:19-42
+activity#br.com.tabuada.FinalQuizTempo
+ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:33:9-91
+	android:windowSoftInputMode
+		ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:33:50-89
+	android:name
+		ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:33:19-49
 activity#br.com.tabuada.FinalQuizZen
-ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:32:9-89
+ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:34:9-89
 	android:windowSoftInputMode
-		ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:32:48-87
+		ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:34:48-87
 	android:name
-		ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:32:19-47
+		ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:34:19-47
 activity#br.com.tabuada.Modoquiz
-ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:33:9-95
+ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:35:9-95
 	android:windowSoftInputMode
-		ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:33:44-83
+		ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:35:44-83
 	android:name
-		ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:33:19-43
+		ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:35:19-43
 uses-sdk
 INJECTED from /home/www/Tabuada/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/www/Tabuada/app/src/main/AndroidManifest.xml

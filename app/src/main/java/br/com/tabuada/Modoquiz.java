@@ -18,12 +18,12 @@ public class Modoquiz extends Activity {
 
     ImageView resA, resB, resC, resD;
     TextView txtA, txtB, txtC, txtD, txtPergunta;
-    int rand;
+    int rand, teste;
     Random rnd;
     String resposta_letra;
     int perguntas, pontos;
     double divisao;
-    Intent it, voltar;
+    Intent it, voltar, continuar;
     Bundle res;
     long restante, tempo;
     CountDownTimer contador;
@@ -34,26 +34,30 @@ public class Modoquiz extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_modoquiz);
 
-        it = new Intent(this, Modoquiz.class);
-
-        /*int orient=this.getResources().getConfiguration().orientation;
+        int orient=this.getResources().getConfiguration().orientation;
 
         if (orient == 1) {
             setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_PORTRAIT);
         } else {
             setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_LANDSCAPE);
         }
-*/
+
         voltar = getIntent();
 
         perguntas = voltar.getIntExtra("perguntas", 0);
-        pontos = voltar.getIntExtra("acertos", 0);
+        pontos = voltar.getIntExtra("pontos", 0);
 
         res = new Bundle();
+
+        teste = 5;
 
         tempo = 20000;
 
         contador = this.contagem(tempo);
+
+        it = new Intent(this, Modoquiz.class);
+        continuar = new Intent(this, FinalQuizTempo.class);
+
 
         resA = (ImageView) findViewById(R.id.resA);
         resB = (ImageView) findViewById(R.id.resB);
@@ -94,10 +98,38 @@ public class Modoquiz extends Activity {
                     divisao = ((double) restante / tempo)*100;
                     pontos += (int) divisao;
 
-                    Toast.makeText(getApplicationContext(), String.valueOf(pontos), Toast.LENGTH_SHORT).show();
+                    perguntas += 1;
+
+                    res.putInt("pontos", pontos);
+                    res.putInt("perguntas", perguntas);
+
+                    it.putExtras(res);
+
+                    if (perguntas != teste) {
+                        startActivity(it);
+                    } else {
+                        continuar.putExtras(res);
+
+                        startActivity(continuar);
+                    }
+
 
                 } else {
-                    Toast.makeText(getApplicationContext(), "Resposta errada", Toast.LENGTH_SHORT).show();
+
+                    perguntas += 1;
+
+                    res.putInt("pontos", pontos);
+                    res.putInt("perguntas", perguntas);
+
+                    it.putExtras(res);
+
+                    if (perguntas != teste) {
+                        startActivity(it);
+                    } else {
+                        continuar.putExtras(res);
+
+                        startActivity(continuar);
+                    }
                 }
             }
         });
@@ -109,10 +141,39 @@ public class Modoquiz extends Activity {
                     contador.cancel();
                     divisao = ((double) restante / tempo)*100;
                     pontos += (int) divisao;
-                    Toast.makeText(getApplicationContext(), String.valueOf(pontos), Toast.LENGTH_SHORT).show();
+
+                    perguntas += 1;
+
+                    res.putInt("pontos", pontos);
+                    res.putInt("perguntas", perguntas);
+
+                    it.putExtras(res);
+
+                    if (perguntas != teste) {
+                        startActivity(it);
+                    } else {
+                        continuar.putExtras(res);
+
+                        startActivity(continuar);
+                    }
+
                 } else {
-                    Toast.makeText(getApplicationContext(), "Resposta errada", Toast.LENGTH_SHORT).show();
-                }
+
+                    perguntas += 1;
+
+                    res.putInt("pontos", pontos);
+                    res.putInt("perguntas", perguntas);
+
+                    it.putExtras(res);
+
+
+                    if (perguntas != teste) {
+                        startActivity(it);
+                    } else {
+                        continuar.putExtras(res);
+
+                        startActivity(continuar);
+                    }                }
             }
         });
 
@@ -123,9 +184,37 @@ public class Modoquiz extends Activity {
                     contador.cancel();
                     divisao = ((double) restante / tempo)*100;
                     pontos += (int) divisao;
-                    Toast.makeText(getApplicationContext(), String.valueOf(pontos), Toast.LENGTH_SHORT).show();
+
+                    perguntas += 1;
+                    res.putInt("pontos", pontos);
+                    res.putInt("perguntas", perguntas);
+
+                    it.putExtras(res);
+
+                    if (perguntas != teste) {
+                        startActivity(it);
+                    } else {
+                        continuar.putExtras(res);
+
+                        startActivity(continuar);
+                    }
                 } else {
-                    Toast.makeText(getApplicationContext(), "Resposta errada", Toast.LENGTH_SHORT).show();
+
+                    perguntas += 1;
+
+                    res.putInt("pontos", pontos);
+                    res.putInt("perguntas", perguntas);
+
+                    it.putExtras(res);
+
+                    if (perguntas != teste) {
+                        startActivity(it);
+                    } else {
+                        continuar.putExtras(res);
+
+                        startActivity(continuar);
+                    }
+
                 }
             }
         });
@@ -137,20 +226,40 @@ public class Modoquiz extends Activity {
                     contador.cancel();
                     divisao = ((double) restante / tempo)*100;
                     pontos += (int) divisao;
-                    Toast.makeText(getApplicationContext(), String.valueOf(pontos), Toast.LENGTH_SHORT).show();
+
+                    perguntas += 1;
+                    res.putInt("pontos", pontos);
+                    res.putInt("perguntas", perguntas);
+
+                    it.putExtras(res);
+
+                    if (perguntas != teste) {
+                        startActivity(it);
+                    } else {
+                        continuar.putExtras(res);
+
+                        startActivity(continuar);
+                    }
+
                 } else {
-                    Toast.makeText(getApplicationContext(), "Resposta errada", Toast.LENGTH_SHORT).show();
+
+                    perguntas += 1;
+
+                    res.putInt("pontos", pontos);
+                    res.putInt("perguntas", perguntas);
+
+                    it.putExtras(res);
+
+                    if (perguntas != teste) {
+                        startActivity(it);
+                    } else {
+                        continuar.putExtras(res);
+
+                        startActivity(continuar);
+                    }
                 }
             }
         });
-
-        perguntas += 1;
-
-        res.putInt("perguntas", perguntas);
-        res.putInt("pontos", pontos);
-        it.putExtras(res);
-        startActivity(it);
-
 
     }
 
@@ -164,9 +273,28 @@ public class Modoquiz extends Activity {
             }
 
             public void onFinish() {
+                perguntas += 1;
 
+                res.putInt("pontos", pontos);
+                res.putInt("perguntas", perguntas);
+
+                it.putExtras(res);
+
+                if (perguntas != teste) {
+                    startActivity(it);
+                } else {
+                    continuar.putExtras(res);
+
+                    startActivity(continuar);
+                }
             }
         }.start();
 
+    }
+
+    @Override
+    public void onBackPressed() {
+        Intent it1 = new Intent(this, MainActivity.class);
+        startActivity(it1);
     }
 }

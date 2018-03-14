@@ -64,6 +64,9 @@
             android:name="br.com.tabuada.Modozen"
             android:windowSoftInputMode="adjustPan" />
         <activity
+            android:name="br.com.tabuada.FinalQuizTempo"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
             android:name="br.com.tabuada.FinalQuizZen"
             android:windowSoftInputMode="adjustPan" />
         <activity
