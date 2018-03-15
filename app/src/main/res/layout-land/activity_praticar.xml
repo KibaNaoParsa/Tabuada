@@ -10,10 +10,10 @@
     <Button
         android:id="@+id/zenBtn"
         android:layout_width="0dp"
-        android:layout_height="118dp"
+        android:layout_height="165dp"
         android:layout_marginEnd="8dp"
         android:layout_marginStart="8dp"
-        android:layout_marginTop="28dp"
+        android:layout_marginTop="16dp"
         android:background="@drawable/zen_selector"
         android:onClick="abrirModozen"
         app:layout_constraintEnd_toEndOf="parent"
@@ -24,7 +24,7 @@
     <Button
         android:id="@+id/quizBtn"
         android:layout_width="0dp"
-        android:layout_height="118dp"
+        android:layout_height="0dp"
         android:layout_marginBottom="8dp"
         android:layout_marginEnd="8dp"
         android:layout_marginStart="8dp"
