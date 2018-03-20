@@ -25,3 +25,7 @@
 
 - Tela final
 
+**v1.6**
+
+- Bug no BackPressed fixado
+- Instersticial
