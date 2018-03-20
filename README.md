@@ -12,3 +12,15 @@
 
 - BD completo
 - Código para modo zen (não completo)
+
+**v1.3**
+
+- Ajustes no layout
+
+**v1.4**
+
+- Modos completos
+
+**v1.5**
+
+- Tela final
