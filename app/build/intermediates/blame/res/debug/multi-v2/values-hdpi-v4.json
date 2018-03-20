@@ -100,7 +100,7 @@
             "outputFile": "/home/www/Tabuada/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
             "map": [
                 {
-                    "source": "/home/alunos/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/fc87d161da19ec4125520446ff94f282/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "source": "/opt/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a909068465cbbdeea447dd40cf46a3da/res/values-hdpi-v4/values-hdpi-v4.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

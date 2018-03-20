@@ -4,7 +4,8 @@ import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
-import android.widget.Button;
+
+import com.google.android.gms.ads.MobileAds;
 
 public class MainActivity extends Activity {
 
@@ -15,6 +16,7 @@ public class MainActivity extends Activity {
 
         BancoController crud = new BancoController(getBaseContext());
 
+        MobileAds.initialize(this, "ca-app-pub-1594606495855009~8765999583");
 
         // Tabuada do 1
 
@@ -161,6 +163,15 @@ public class MainActivity extends Activity {
 
         Intent intent = new Intent(this, Praticar.class);
         startActivity(intent);
+    }
+
+    @Override
+    public void onBackPressed() {
+        if (getIntent().getIntExtra("ver", 0) == 1) {
+            finish();
+        } else {
+            super.onBackPressed();
+        }
     }
 
 }

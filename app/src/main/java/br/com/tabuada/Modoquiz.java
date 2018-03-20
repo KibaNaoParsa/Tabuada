@@ -7,10 +7,14 @@ import android.database.Cursor;
 import android.os.Bundle;
 import android.os.CountDownTimer;
 import android.os.SystemClock;
+import android.util.Log;
 import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
+
+import com.google.android.gms.ads.AdRequest;
+import com.google.android.gms.ads.InterstitialAd;
 
 import java.util.Random;
 
@@ -27,6 +31,7 @@ public class Modoquiz extends Activity {
     Bundle res;
     long restante, tempo;
     CountDownTimer contador;
+    InterstitialAd mInterstitialAd;
 
 
     @Override
@@ -41,6 +46,8 @@ public class Modoquiz extends Activity {
         } else {
             setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_LANDSCAPE);
         }
+
+
 
         voltar = getIntent();
 
@@ -111,6 +118,8 @@ public class Modoquiz extends Activity {
                         continuar.putExtras(res);
 
                         startActivity(continuar);
+
+
                     }
 
 
@@ -173,7 +182,8 @@ public class Modoquiz extends Activity {
                         continuar.putExtras(res);
 
                         startActivity(continuar);
-                    }                }
+                    }
+                }
             }
         });
 
@@ -197,6 +207,7 @@ public class Modoquiz extends Activity {
                         continuar.putExtras(res);
 
                         startActivity(continuar);
+
                     }
                 } else {
 
@@ -256,6 +267,7 @@ public class Modoquiz extends Activity {
                         continuar.putExtras(res);
 
                         startActivity(continuar);
+
                     }
                 }
             }
@@ -294,7 +306,10 @@ public class Modoquiz extends Activity {
 
     @Override
     public void onBackPressed() {
+        contador.cancel();
         Intent it1 = new Intent(this, MainActivity.class);
+        it1.putExtra("ver", 1);
         startActivity(it1);
+        finish();
     }
 }

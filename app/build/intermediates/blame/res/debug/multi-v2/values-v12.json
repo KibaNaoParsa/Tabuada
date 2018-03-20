@@ -68,7 +68,7 @@
             "outputFile": "/home/www/Tabuada/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v12/values-v12.xml",
             "map": [
                 {
-                    "source": "/home/alunos/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/fc87d161da19ec4125520446ff94f282/res/values-v12/values-v12.xml",
+                    "source": "/opt/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a909068465cbbdeea447dd40cf46a3da/res/values-v12/values-v12.xml",
                     "from": {
                         "startLines": "2,5,8,9",
                         "startColumns": "4,4,4,4",
