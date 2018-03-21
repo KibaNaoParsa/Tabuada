@@ -1,4 +1,4 @@
-# Patch Notes v1.6
+# Patch Notes v1.7
 
 **v1.0**
 
@@ -35,3 +35,5 @@
 - Fonte Myriad Pro Bold instalada
 - Design responsivo nas telas
 - Tela de fim do Modo Quiz e Zen estilizadas
+- Banner Ad
+- Número de perguntas setado

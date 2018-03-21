@@ -49,7 +49,7 @@ public class FinalQuizZen extends Activity {
         Typeface font = Typeface.createFromAsset(getAssets(), "fonts/myriad_pro_bold.ttf");
         txtResultado.setTypeface(font);
 
-        txtResultado.setText(acertos + "/" + perguntas);
+        txtResultado.setText(acertos + " acertos em " + perguntas + " perguntas.");
 
         fim = new Intent(this, MainActivity.class);
         repetir = new Intent(this, Modozen.class);

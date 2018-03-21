@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\home\\www\\Tabuada\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
+            "outputFile": "/home/www/Tabuada/C:\\home\\www\\Tabuada\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
             "map": [
                 {
-                    "source": "C:\\opt\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\e2835a944a6ee0aa64925a97e075d634\\res\\values-v16\\values-v16.xml",
+                    "source": "/home/www/Tabuada/C:\\opt\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\e2835a944a6ee0aa64925a97e075d634\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\opt\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\a909068465cbbdeea447dd40cf46a3da\\res\\values-v16\\values-v16.xml",
+                    "source": "/home/www/Tabuada/C:\\opt\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\a909068465cbbdeea447dd40cf46a3da\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -35,10 +35,10 @@
             ]
         },
         {
-            "outputFile": "C:\\home\\www\\TabuadaParaCriancas\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
+            "outputFile": "/home/www/Tabuada/C:\\home\\www\\TabuadaParaCriancas\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
             "map": [
                 {
-                    "source": "C:\\home\\alunos\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\fc87d161da19ec4125520446ff94f282\\res\\values-v16\\values-v16.xml",
+                    "source": "/home/www/Tabuada/C:\\home\\alunos\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\fc87d161da19ec4125520446ff94f282\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -57,7 +57,7 @@
                     }
                 },
                 {
-                    "source": "C:\\home\\alunos\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\549d5df7fc6ca33e5fbf86449d5c8979\\res\\values-v16\\values-v16.xml",
+                    "source": "/home/www/Tabuada/C:\\home\\alunos\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\549d5df7fc6ca33e5fbf86449d5c8979\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -69,10 +69,10 @@
             ]
         },
         {
-            "outputFile": "C:\\var\\www\\html\\Tabuada\\C:\\Users\\VictorGustavo\\Desktop\\TabuadaParaCriancas\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
+            "outputFile": "/home/www/Tabuada/C:\\var\\www\\html\\Tabuada\\C:\\Users\\VictorGustavo\\Desktop\\TabuadaParaCriancas\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
             "map": [
                 {
-                    "source": "C:\\var\\www\\html\\Tabuada\\C:\\Users\\VictorGustavo\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\e4eb46fe62fd87d38145327a1b731c05\\res\\values-v16\\values-v16.xml",
+                    "source": "/home/www/Tabuada/C:\\var\\www\\html\\Tabuada\\C:\\Users\\VictorGustavo\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\e4eb46fe62fd87d38145327a1b731c05\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -82,41 +82,7 @@
                     }
                 },
                 {
-                    "source": "C:\\var\\www\\html\\Tabuada\\C:\\Users\\VictorGustavo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e96a29a0ddaa903b2cb6a83542da9d26\\res\\values-v16\\values-v16.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endLines": "5",
-                        "endColumns": "12",
-                        "endOffsets": "223"
-                    },
-                    "to": {
-                        "startLines": "3",
-                        "startColumns": "4",
-                        "startOffsets": "121",
-                        "endLines": "6",
-                        "endColumns": "12",
-                        "endOffsets": "289"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "C:\\var\\www\\html\\Tabuada\\C:\\home\\www\\Tabuada\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
-            "map": [
-                {
-                    "source": "C:\\var\\www\\html\\Tabuada\\C:\\home\\alunos\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\549d5df7fc6ca33e5fbf86449d5c8979\\res\\values-v16\\values-v16.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "65",
-                        "endOffsets": "116"
-                    }
-                },
-                {
-                    "source": "C:\\var\\www\\html\\Tabuada\\C:\\home\\alunos\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\fc87d161da19ec4125520446ff94f282\\res\\values-v16\\values-v16.xml",
+                    "source": "/home/www/Tabuada/C:\\var\\www\\html\\Tabuada\\C:\\Users\\VictorGustavo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e96a29a0ddaa903b2cb6a83542da9d26\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -137,44 +103,10 @@
             ]
         },
         {
-            "outputFile": "C:\\home\\alunos\\TabuadaParaCriancas\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
+            "outputFile": "/home/www/Tabuada/C:\\var\\www\\html\\Tabuada\\C:\\home\\www\\Tabuada\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
             "map": [
                 {
-                    "source": "C:\\home\\alunos\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\fc87d161da19ec4125520446ff94f282\\res\\values-v16\\values-v16.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endLines": "5",
-                        "endColumns": "12",
-                        "endOffsets": "223"
-                    },
-                    "to": {
-                        "startLines": "3",
-                        "startColumns": "4",
-                        "startOffsets": "121",
-                        "endLines": "6",
-                        "endColumns": "12",
-                        "endOffsets": "289"
-                    }
-                },
-                {
-                    "source": "C:\\home\\alunos\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\549d5df7fc6ca33e5fbf86449d5c8979\\res\\values-v16\\values-v16.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "65",
-                        "endOffsets": "116"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "C:\\Users\\VictorGustavo\\Documents\\Tabuada\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
-            "map": [
-                {
-                    "source": "C:\\Users\\VictorGustavo\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\e4eb46fe62fd87d38145327a1b731c05\\res\\values-v16\\values-v16.xml",
+                    "source": "/home/www/Tabuada/C:\\var\\www\\html\\Tabuada\\C:\\home\\alunos\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\549d5df7fc6ca33e5fbf86449d5c8979\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -184,7 +116,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\VictorGustavo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e96a29a0ddaa903b2cb6a83542da9d26\\res\\values-v16\\values-v16.xml",
+                    "source": "/home/www/Tabuada/C:\\var\\www\\html\\Tabuada\\C:\\home\\alunos\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\fc87d161da19ec4125520446ff94f282\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -205,10 +137,10 @@
             ]
         },
         {
-            "outputFile": "C:\\home\\alunos\\Área de Trabalho\\Tabuada\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
+            "outputFile": "/home/www/Tabuada/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "C:\\home\\alunos\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\fc87d161da19ec4125520446ff94f282\\res\\values-v16\\values-v16.xml",
+                    "source": "/opt/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a909068465cbbdeea447dd40cf46a3da/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -227,7 +159,7 @@
                     }
                 },
                 {
-                    "source": "C:\\home\\alunos\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\549d5df7fc6ca33e5fbf86449d5c8979\\res\\values-v16\\values-v16.xml",
+                    "source": "/opt/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/e2835a944a6ee0aa64925a97e075d634/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -239,10 +171,44 @@
             ]
         },
         {
-            "outputFile": "C:\\var\\www\\html\\Tabuada\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
+            "outputFile": "/home/www/Tabuada/C:\\home\\alunos\\TabuadaParaCriancas\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
             "map": [
                 {
-                    "source": "C:\\home\\elyas\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\43f3a4cf9bbf9acdbfe86eb0c3ebe264\\res\\values-v16\\values-v16.xml",
+                    "source": "/home/www/Tabuada/C:\\home\\alunos\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\fc87d161da19ec4125520446ff94f282\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                },
+                {
+                    "source": "/home/www/Tabuada/C:\\home\\alunos\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\549d5df7fc6ca33e5fbf86449d5c8979\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/www/Tabuada/C:\\Users\\VictorGustavo\\Documents\\Tabuada\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
+            "map": [
+                {
+                    "source": "/home/www/Tabuada/C:\\Users\\VictorGustavo\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\e4eb46fe62fd87d38145327a1b731c05\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -252,7 +218,75 @@
                     }
                 },
                 {
-                    "source": "C:\\home\\elyas\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\52610befddf3d8e1987cd01b8f14f484\\res\\values-v16\\values-v16.xml",
+                    "source": "/home/www/Tabuada/C:\\Users\\VictorGustavo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e96a29a0ddaa903b2cb6a83542da9d26\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/www/Tabuada/C:\\home\\alunos\\Área de Trabalho\\Tabuada\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
+            "map": [
+                {
+                    "source": "/home/www/Tabuada/C:\\home\\alunos\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\fc87d161da19ec4125520446ff94f282\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                },
+                {
+                    "source": "/home/www/Tabuada/C:\\home\\alunos\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\549d5df7fc6ca33e5fbf86449d5c8979\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/www/Tabuada/C:\\var\\www\\html\\Tabuada\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
+            "map": [
+                {
+                    "source": "/home/www/Tabuada/C:\\home\\elyas\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\43f3a4cf9bbf9acdbfe86eb0c3ebe264\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "/home/www/Tabuada/C:\\home\\elyas\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\52610befddf3d8e1987cd01b8f14f484\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

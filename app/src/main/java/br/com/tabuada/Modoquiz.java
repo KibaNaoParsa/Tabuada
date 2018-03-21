@@ -57,7 +57,7 @@ public class Modoquiz extends Activity {
 
         res = new Bundle();
 
-        teste = 5;
+        teste = 20;
 
         tempo = 20000;
 
