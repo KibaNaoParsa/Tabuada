@@ -2,8 +2,11 @@ package br.com.tabuada;
 
 import android.app.Activity;
 import android.content.Intent;
+import android.graphics.Typeface;
 import android.os.Bundle;
 import android.util.Log;
+import android.view.View;
+import android.widget.Button;
 import android.widget.TextView;
 
 import com.google.android.gms.ads.AdRequest;
@@ -17,6 +20,8 @@ public class FinalQuizZen extends Activity {
 
     TextView txtResultado;
     Intent res;
+    Button btnRepetir, btnFinalizar;
+    Intent fim, repetir;
     int perguntas, acertos;
     InterstitialAd mInterstitialAd;
 
@@ -41,8 +46,29 @@ public class FinalQuizZen extends Activity {
         acertos = res.getIntExtra("acertos", 0);
 
         txtResultado = (TextView) findViewById(R.id.txtResultado);
+        Typeface font = Typeface.createFromAsset(getAssets(), "fonts/myriad_pro_bold.ttf");
+        txtResultado.setTypeface(font);
 
         txtResultado.setText(acertos + "/" + perguntas);
+
+        fim = new Intent(this, MainActivity.class);
+        repetir = new Intent(this, Modozen.class);
+        btnRepetir = (Button) findViewById(R.id.btnRepetir);
+        btnFinalizar = (Button) findViewById(R.id.btnFinalizar);
+
+        btnRepetir.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                startActivity(repetir);
+            }
+        });
+
+        btnFinalizar.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                startActivity(fim);
+            }
+        });
 
     }
 

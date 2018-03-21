@@ -24,7 +24,7 @@ public class Tabuada10 extends Activity {
     public void abrirModal10(View view){
         AlertDialog.Builder builder = new AlertDialog.Builder(Tabuada10.this);
         builder.setTitle("Tabuada do 10");
-        builder.setMessage("Blablabla 10");
+        builder.setMessage("Para fazer a tabuada do 10 basta pegar o número que está sendo multiplicado por 10 e colocar um 0 em sua frente Ex: 8x10 -> 8 mais um 0 = 80");
         builder.setPositiveButton("OK", new DialogInterface.OnClickListener() {
             @Override
             public void onClick(DialogInterface dialog, int which) {

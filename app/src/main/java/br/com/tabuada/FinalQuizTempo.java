@@ -2,6 +2,7 @@ package br.com.tabuada;
 
 import android.app.Activity;
 import android.content.Intent;
+import android.graphics.Typeface;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
@@ -29,6 +30,10 @@ public class FinalQuizTempo extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_finaltempo);
 
+        txtResultado = (TextView) findViewById(R.id.txtResultado);
+        Typeface font = Typeface.createFromAsset(getAssets(), "fonts/myriad_pro_bold.ttf");
+        txtResultado.setTypeface(font);
+
         mInterstitialAd = new InterstitialAd(this);
         mInterstitialAd.setAdUnitId("ca-app-pub-3940256099942544/1033173712");
         mInterstitialAd.loadAd(new AdRequest.Builder().build());
@@ -48,7 +53,7 @@ public class FinalQuizTempo extends Activity {
 
         resultado = rec.getIntExtra("pontos", 0);
 
-        txtResultado.setText(String.valueOf(resultado) + " pontos.");
+        txtResultado.setText(String.valueOf(resultado) + " pontos");
 
         btnRepetir = (Button) findViewById(R.id.btnRepetir);
         btnFinalizar = (Button) findViewById(R.id.btnFinalizar);

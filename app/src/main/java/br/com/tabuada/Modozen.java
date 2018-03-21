@@ -4,6 +4,7 @@ import android.app.Activity;
 import android.content.Intent;
 import android.content.pm.ActivityInfo;
 import android.database.Cursor;
+import android.graphics.Typeface;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
@@ -47,9 +48,14 @@ public class Modozen extends Activity {
 
         info = new Bundle();
 
-
         txtPergunta = (TextView) findViewById(R.id.imgPergunta);
+        Typeface font = Typeface.createFromAsset(getAssets(), "fonts/myriad_pro_bold.ttf");
+        txtPergunta.setTypeface(font);
+
         txtResposta = (EditText) findViewById(R.id.modoZenText);
+        Typeface font2 = Typeface.createFromAsset(getAssets(), "fonts/myriad_pro_bold.ttf");
+        txtResposta.setTypeface(font2);
+
         btnResponder = (Button) findViewById(R.id.btnResponder);
 
         it = new Intent(this, Modozen.class);

@@ -24,7 +24,7 @@ public class Tabuada8 extends Activity {
     public void abrirModal8(View view){
         AlertDialog.Builder builder = new AlertDialog.Builder(Tabuada8.this);
         builder.setTitle("Tabuada do 8");
-        builder.setMessage("Blablabla 8");
+        builder.setMessage("Para fazer a tabuada do 8 basta escrever de um lado os números de 0 a 8 repetindo o 4 e do outro lado escrever duas vezes os números pares de 8 a 0 -> (0123445678) - (8642086420) (08 | 16 | 24 | 32 | 40 | 48 | 56 | 64 | 72 | 80)");
         builder.setPositiveButton("OK", new DialogInterface.OnClickListener() {
             @Override
             public void onClick(DialogInterface dialog, int which) {

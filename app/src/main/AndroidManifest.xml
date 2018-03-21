@@ -9,30 +9,30 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MainActivity">
+        <activity android:name=".MainActivity" android:screenOrientation="portrait">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".Praticar" android:windowSoftInputMode="adjustPan"/>
-        <activity android:name=".Aprender" android:windowSoftInputMode="adjustPan"/>
-        <activity android:name=".Tabuada1" android:windowSoftInputMode="adjustPan"/>
-        <activity android:name=".Tabuada2" android:windowSoftInputMode="adjustPan"/>
-        <activity android:name=".Tabuada3" android:windowSoftInputMode="adjustPan"/>
-        <activity android:name=".Tabuada4" android:windowSoftInputMode="adjustPan"/>
-        <activity android:name=".Tabuada5" android:windowSoftInputMode="adjustPan"/>
-        <activity android:name=".Tabuada6" android:windowSoftInputMode="adjustPan"/>
-        <activity android:name=".Tabuada7" android:windowSoftInputMode="adjustPan"/>
-        <activity android:name=".Tabuada10" android:windowSoftInputMode="adjustPan"/>
-        <activity android:name=".Tabuada8" android:windowSoftInputMode="adjustPan"/>
-        <activity android:name=".Tabuada9" android:windowSoftInputMode="adjustPan"/>
-        <activity android:name=".Modozen" android:windowSoftInputMode="adjustPan"/>
+        <activity android:name=".Praticar" android:windowSoftInputMode="adjustPan" android:screenOrientation="portrait"/>
+        <activity android:name=".Aprender" android:windowSoftInputMode="adjustPan" android:screenOrientation="portrait"/>
+        <activity android:name=".Tabuada1" android:windowSoftInputMode="adjustPan" android:screenOrientation="portrait"/>
+        <activity android:name=".Tabuada2" android:windowSoftInputMode="adjustPan" android:screenOrientation="portrait"/>
+        <activity android:name=".Tabuada3" android:windowSoftInputMode="adjustPan" android:screenOrientation="portrait"/>
+        <activity android:name=".Tabuada4" android:windowSoftInputMode="adjustPan" android:screenOrientation="portrait"/>
+        <activity android:name=".Tabuada5" android:windowSoftInputMode="adjustPan" android:screenOrientation="portrait"/>
+        <activity android:name=".Tabuada6" android:windowSoftInputMode="adjustPan" android:screenOrientation="portrait"/>
+        <activity android:name=".Tabuada7" android:windowSoftInputMode="adjustPan" android:screenOrientation="portrait"/>
+        <activity android:name=".Tabuada10" android:windowSoftInputMode="adjustPan" android:screenOrientation="portrait"/>
+        <activity android:name=".Tabuada8" android:windowSoftInputMode="adjustPan" android:screenOrientation="portrait"/>
+        <activity android:name=".Tabuada9" android:windowSoftInputMode="adjustPan" android:screenOrientation="portrait"/>
+        <activity android:name=".Modozen" android:windowSoftInputMode="adjustPan" android:screenOrientation="portrait"/>
 
-        <activity android:name=".FinalQuizTempo" android:windowSoftInputMode="adjustPan"/>
-        <activity android:name=".FinalQuizZen" android:windowSoftInputMode="adjustPan"/>
-        <activity android:name=".Modoquiz" android:windowSoftInputMode="adjustPan"></activity>
+        <activity android:name=".FinalQuizTempo" android:windowSoftInputMode="adjustPan" android:screenOrientation="portrait"/>
+        <activity android:name=".FinalQuizZen" android:windowSoftInputMode="adjustPan" android:screenOrientation="portrait"/>
+        <activity android:name=".Modoquiz" android:windowSoftInputMode="adjustPan" android:screenOrientation="portrait"></activity>
     </application>
 
 </manifest>

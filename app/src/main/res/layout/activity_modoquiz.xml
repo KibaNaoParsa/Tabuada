@@ -34,6 +34,7 @@
         android:layout_width="150dp"
         android:layout_height="118dp"
         android:layout_marginStart="28dp"
+        android:layout_marginTop="52dp"
         android:background="@drawable/editquiz"
         android:contentDescription="@android:string/VideoView_error_button"
         app:layout_constraintStart_toStartOf="parent"
@@ -45,9 +46,10 @@
         android:layout_height="118dp"
         android:layout_marginEnd="8dp"
         android:layout_marginStart="8dp"
+        android:layout_marginTop="52dp"
         android:background="@drawable/editquiz"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.425"
+        app:layout_constraintHorizontal_bias="0.432"
         app:layout_constraintStart_toEndOf="@+id/resA"
         app:layout_constraintTop_toBottomOf="@+id/imgPergunta" />
 
@@ -62,7 +64,7 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/resA"
-        app:layout_constraintVertical_bias="0.0" />
+        app:layout_constraintVertical_bias="0.396" />
 
     <ImageButton
         android:id="@+id/resD"
@@ -75,10 +77,10 @@
         android:background="@drawable/editquiz"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.425"
+        app:layout_constraintHorizontal_bias="0.432"
         app:layout_constraintStart_toEndOf="@+id/resC"
         app:layout_constraintTop_toBottomOf="@+id/resB"
-        app:layout_constraintVertical_bias="0.0" />
+        app:layout_constraintVertical_bias="0.324" />
 
     <TextView
         android:id="@+id/txtPergunta"
@@ -89,6 +91,8 @@
         android:layout_marginStart="8dp"
         android:layout_marginTop="8dp"
         android:textAppearance="@android:style/TextAppearance.Large"
+        android:textColor="@android:color/holo_red_dark"
+        android:textSize="40sp"
         app:layout_constraintBottom_toBottomOf="@+id/imgPergunta"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -103,6 +107,8 @@
         android:layout_marginStart="8dp"
         android:layout_marginTop="8dp"
         android:textAppearance="@android:style/TextAppearance.Large"
+        android:textColor="@android:color/holo_orange_light"
+        android:textSize="35sp"
         app:layout_constraintBottom_toBottomOf="@+id/resA"
         app:layout_constraintEnd_toEndOf="@+id/resA"
         app:layout_constraintStart_toStartOf="@+id/resA"
@@ -117,6 +123,8 @@
         android:layout_marginStart="8dp"
         android:layout_marginTop="8dp"
         android:textAppearance="@android:style/TextAppearance.Large"
+        android:textColor="@android:color/holo_purple"
+        android:textSize="35sp"
         app:layout_constraintBottom_toBottomOf="@+id/resB"
         app:layout_constraintEnd_toEndOf="@+id/resB"
         app:layout_constraintStart_toStartOf="@+id/resB"
@@ -131,6 +139,8 @@
         android:layout_marginStart="8dp"
         android:layout_marginTop="8dp"
         android:textAppearance="@android:style/TextAppearance.Large"
+        android:textColor="@android:color/holo_green_light"
+        android:textSize="35sp"
         app:layout_constraintBottom_toBottomOf="@+id/resC"
         app:layout_constraintEnd_toEndOf="@+id/resC"
         app:layout_constraintStart_toStartOf="@+id/resC"
@@ -145,6 +155,8 @@
         android:layout_marginStart="8dp"
         android:layout_marginTop="8dp"
         android:textAppearance="@android:style/TextAppearance.Large"
+        android:textColor="@android:color/holo_orange_dark"
+        android:textSize="35sp"
         app:layout_constraintBottom_toBottomOf="@+id/resD"
         app:layout_constraintEnd_toEndOf="@+id/resD"
         app:layout_constraintStart_toStartOf="@+id/resD"

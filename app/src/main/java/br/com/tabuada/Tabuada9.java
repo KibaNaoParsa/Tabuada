@@ -24,7 +24,7 @@ public class Tabuada9 extends Activity {
     public void abrirModal9(View view){
         AlertDialog.Builder builder = new AlertDialog.Builder(Tabuada9.this);
         builder.setTitle("Tabuada do 9");
-        builder.setMessage("Blablabla 9");
+        builder.setMessage("Uma dica para escrever toda a tabuada do 9 é escrever os números de 0 a 9 de um lado e os de 9 a 0 do outro -> (0123456789) - (9876543210) - (0|9) (1|8) (2|7) (3|6) (4|5) (5|4) (6|3) (7|2) (8|1) (9|0)");
         builder.setPositiveButton("OK", new DialogInterface.OnClickListener() {
             @Override
             public void onClick(DialogInterface dialog, int which) {
