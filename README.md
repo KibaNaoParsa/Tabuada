@@ -29,3 +29,9 @@
 
 - Bug no BackPressed fixado
 - Instersticial
+
+**v1.7**
+
+- Fonte Myriad Pro Bold instalada
+- Design responsivo nas telas
+- Tela de fim do Modo Quiz e Zen estilizadas
