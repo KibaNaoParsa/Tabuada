@@ -12,6 +12,9 @@ import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.google.android.gms.ads.AdRequest;
+import com.google.android.gms.ads.AdView;
+
 import java.util.Random;
 
 
@@ -25,6 +28,7 @@ public class Modozen extends Activity {
     Button btnResponder;
     Intent it, voltar, continuar;
     int perguntas, acertos;
+    AdView mAdView;
 
     Bundle info;
 
@@ -32,6 +36,10 @@ public class Modozen extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_modozen);
+
+        mAdView = (AdView) findViewById(R.id.adView);
+        AdRequest adRequest = new AdRequest.Builder().build();
+        mAdView.loadAd(adRequest);
 
         int orient=this.getResources().getConfiguration().orientation;
 
@@ -89,7 +97,7 @@ public class Modozen extends Activity {
                     Toast.makeText(getApplicationContext(), "Resposta correta!", Toast.LENGTH_SHORT).show();
                     acertos+=1;
                 } else {
-                    Toast.makeText(getApplicationContext(), "Resposta errada!", Toast.LENGTH_SHORT).show();
+                    Toast.makeText(getApplicationContext(), "Resposta errada! (" + resposta + ")", Toast.LENGTH_SHORT).show();
                 }
 
                 perguntas+=1;
@@ -112,7 +120,7 @@ public class Modozen extends Activity {
 
     @Override
     public void onBackPressed() {
-        Intent itM = new Intent(this, Praticar.class);
+        Intent itM = new Intent(this, MainActivity.class);
         startActivity(itM);
     }
 

@@ -2,19 +2,35 @@ package br.com.tabuada;
 
 import android.app.Activity;
 import android.content.Intent;
+import android.net.Uri;
 import android.os.Bundle;
 import android.view.View;
+import android.widget.Button;
 
 import com.google.android.gms.ads.MobileAds;
 
 public class MainActivity extends Activity {
+
+    Button btnFace;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        btnFace = (Button) findViewById(R.id.button2);
+
         BancoController crud = new BancoController(getBaseContext());
+
+        btnFace.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                String url = "https://www.facebook.com/WaVE-Development-519975971719289";
+                Uri uri = Uri.parse(url);
+                Intent intent = new Intent(Intent.ACTION_VIEW, uri);
+                startActivity(intent);
+            }
+        });
 
         MobileAds.initialize(this, "ca-app-pub-1594606495855009~8765999583");
 
@@ -167,11 +183,8 @@ public class MainActivity extends Activity {
 
     @Override
     public void onBackPressed() {
-        if (getIntent().getIntExtra("ver", 0) == 1) {
-            finish();
-        } else {
-            super.onBackPressed();
-        }
+        Intent itM = new Intent(this, MainActivity.class);
+        startActivity(itM);
     }
 
 }

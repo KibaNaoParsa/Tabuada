@@ -1,4 +1,4 @@
-# Patch Notes v1.7
+# Patch Notes v1.8
 
 **v1.0**
 
@@ -37,3 +37,8 @@
 - Tela de fim do Modo Quiz e Zen estilizadas
 - Banner Ad
 - Número de perguntas setado
+
+**v1.8**
+
+- Edições para correção do Layout
+- Toques finais no código

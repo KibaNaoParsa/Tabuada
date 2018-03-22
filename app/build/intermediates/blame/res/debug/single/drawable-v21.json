@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/www/Tabuada/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/opt/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a909068465cbbdeea447dd40cf46a3da/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/www/Tabuada/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/opt/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a909068465cbbdeea447dd40cf46a3da/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/www/Tabuada/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/opt/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a909068465cbbdeea447dd40cf46a3da/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/www/Tabuada/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/opt/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/e2835a944a6ee0aa64925a97e075d634/res/drawable-v21/notification_action_background.xml"
+    }
+]

@@ -32,8 +32,6 @@ public class Modoquiz extends Activity {
     Bundle res;
     long restante, tempo;
     CountDownTimer contador;
-    InterstitialAd mInterstitialAd;
-
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -317,7 +315,6 @@ public class Modoquiz extends Activity {
     public void onBackPressed() {
         contador.cancel();
         Intent it1 = new Intent(this, MainActivity.class);
-        it1.putExtra("ver", 1);
         startActivity(it1);
         finish();
     }
