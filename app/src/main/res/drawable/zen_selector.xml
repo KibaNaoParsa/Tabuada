@@ -3,6 +3,6 @@
     <!-- pressed -->
 
     <!-- default -->
-    <item android:state_pressed="true" android:drawable="@drawable/modozenp" />
-    <item android:drawable="@drawable/modozen" />
+    <item android:state_pressed="true" android:drawable="@drawable/normalselec" />
+    <item android:drawable="@drawable/modonormal" />
 </selector>
