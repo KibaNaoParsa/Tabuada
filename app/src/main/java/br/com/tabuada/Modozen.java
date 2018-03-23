@@ -1,6 +1,8 @@
 package br.com.tabuada;
 
 import android.app.Activity;
+import android.app.AlertDialog;
+import android.content.DialogInterface;
 import android.content.Intent;
 import android.content.pm.ActivityInfo;
 import android.database.Cursor;
@@ -36,6 +38,7 @@ public class Modozen extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_modozen);
+
 
         mAdView = (AdView) findViewById(R.id.adView);
         AdRequest adRequest = new AdRequest.Builder().build();
@@ -107,7 +110,7 @@ public class Modozen extends Activity {
 
                 it.putExtras(info);
 
-                if (perguntas != 20) {
+                if (perguntas != 15) {
                     startActivity(it);
                 } else {
                     continuar.putExtras(info);

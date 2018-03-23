@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/www/Tabuada/C:\\home\\www\\Tabuada\\C:\\var\\www\\html\\Tabuada\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v12\\values-v12.xml",
+            "outputFile": "C:\\home\\www\\Tabuada\\C:\\home\\www\\Tabuada\\C:\\home\\www\\Tabuada\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v12\\values-v12.xml",
             "map": [
                 {
-                    "source": "/home/www/Tabuada/C:\\home\\www\\Tabuada\\C:\\home\\elyas\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\52610befddf3d8e1987cd01b8f14f484\\res\\values-v12\\values-v12.xml",
+                    "source": "C:\\home\\www\\Tabuada\\C:\\home\\www\\Tabuada\\C:\\opt\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\a909068465cbbdeea447dd40cf46a3da\\res\\values-v12\\values-v12.xml",
                     "from": {
                         "startLines": "2,5,8,9",
                         "startColumns": "4,4,4,4",
@@ -17,10 +17,10 @@
             ]
         },
         {
-            "outputFile": "/home/www/Tabuada/C:\\home\\www\\Tabuada\\C:\\home\\alunos\\TabuadaParaCriancas\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v12\\values-v12.xml",
+            "outputFile": "C:\\home\\www\\Tabuada\\C:\\home\\www\\Tabuada\\C:\\var\\www\\html\\Tabuada\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v12\\values-v12.xml",
             "map": [
                 {
-                    "source": "/home/www/Tabuada/C:\\home\\www\\Tabuada\\C:\\home\\alunos\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\fc87d161da19ec4125520446ff94f282\\res\\values-v12\\values-v12.xml",
+                    "source": "C:\\home\\www\\Tabuada\\C:\\home\\www\\Tabuada\\C:\\home\\elyas\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\52610befddf3d8e1987cd01b8f14f484\\res\\values-v12\\values-v12.xml",
                     "from": {
                         "startLines": "2,5,8,9",
                         "startColumns": "4,4,4,4",
@@ -33,10 +33,10 @@
             ]
         },
         {
-            "outputFile": "/home/www/Tabuada/C:\\home\\www\\Tabuada\\C:\\Users\\VictorGustavo\\Documents\\Tabuada\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v12\\values-v12.xml",
+            "outputFile": "C:\\home\\www\\Tabuada\\C:\\home\\www\\Tabuada\\C:\\Users\\VictorGustavo\\Documents\\Tabuada\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v12\\values-v12.xml",
             "map": [
                 {
-                    "source": "/home/www/Tabuada/C:\\home\\www\\Tabuada\\C:\\Users\\VictorGustavo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e96a29a0ddaa903b2cb6a83542da9d26\\res\\values-v12\\values-v12.xml",
+                    "source": "C:\\home\\www\\Tabuada\\C:\\home\\www\\Tabuada\\C:\\Users\\VictorGustavo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e96a29a0ddaa903b2cb6a83542da9d26\\res\\values-v12\\values-v12.xml",
                     "from": {
                         "startLines": "2,5,8,9",
                         "startColumns": "4,4,4,4",
@@ -49,10 +49,10 @@
             ]
         },
         {
-            "outputFile": "/home/www/Tabuada/C:\\Users\\VictorGustavo\\Desktop\\Tabuada\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v12\\values-v12.xml",
+            "outputFile": "C:\\home\\www\\Tabuada\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v12\\values-v12.xml",
             "map": [
                 {
-                    "source": "/home/www/Tabuada/C:\\Users\\VictorGustavo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e96a29a0ddaa903b2cb6a83542da9d26\\res\\values-v12\\values-v12.xml",
+                    "source": "C:\\opt\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\a909068465cbbdeea447dd40cf46a3da\\res\\values-v12\\values-v12.xml",
                     "from": {
                         "startLines": "2,5,8,9",
                         "startColumns": "4,4,4,4",
@@ -65,10 +65,10 @@
             ]
         },
         {
-            "outputFile": "/home/www/Tabuada/app/build/intermediates/res/merged/debug/values-v12/values-v12.xml",
+            "outputFile": "C:\\home\\www\\Tabuada\\C:\\home\\www\\Tabuada\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v12\\values-v12.xml",
             "map": [
                 {
-                    "source": "/opt/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a909068465cbbdeea447dd40cf46a3da/res/values-v12/values-v12.xml",
+                    "source": "C:\\home\\www\\Tabuada\\C:\\opt\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\a909068465cbbdeea447dd40cf46a3da\\res\\values-v12\\values-v12.xml",
                     "from": {
                         "startLines": "2,5,8,9",
                         "startColumns": "4,4,4,4",
@@ -81,10 +81,10 @@
             ]
         },
         {
-            "outputFile": "/home/www/Tabuada/C:\\home\\www\\Tabuada\\C:\\var\\www\\html\\Tabuada\\C:\\Users\\VictorGustavo\\Desktop\\TabuadaParaCriancas\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v12\\values-v12.xml",
+            "outputFile": "C:\\home\\www\\Tabuada\\C:\\home\\www\\Tabuada\\C:\\home\\www\\TabuadaParaCriancas\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v12\\values-v12.xml",
             "map": [
                 {
-                    "source": "/home/www/Tabuada/C:\\home\\www\\Tabuada\\C:\\var\\www\\html\\Tabuada\\C:\\Users\\VictorGustavo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e96a29a0ddaa903b2cb6a83542da9d26\\res\\values-v12\\values-v12.xml",
+                    "source": "C:\\home\\www\\Tabuada\\C:\\home\\www\\Tabuada\\C:\\home\\alunos\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\fc87d161da19ec4125520446ff94f282\\res\\values-v12\\values-v12.xml",
                     "from": {
                         "startLines": "2,5,8,9",
                         "startColumns": "4,4,4,4",
@@ -97,10 +97,10 @@
             ]
         },
         {
-            "outputFile": "/home/www/Tabuada/C:\\home\\www\\Tabuada\\C:\\var\\www\\html\\Tabuada\\C:\\home\\www\\Tabuada\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v12\\values-v12.xml",
+            "outputFile": "C:\\home\\www\\Tabuada\\C:\\home\\www\\Tabuada\\C:\\home\\alunos\\TabuadaParaCriancas\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v12\\values-v12.xml",
             "map": [
                 {
-                    "source": "/home/www/Tabuada/C:\\home\\www\\Tabuada\\C:\\var\\www\\html\\Tabuada\\C:\\home\\alunos\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\fc87d161da19ec4125520446ff94f282\\res\\values-v12\\values-v12.xml",
+                    "source": "C:\\home\\www\\Tabuada\\C:\\home\\www\\Tabuada\\C:\\home\\alunos\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\fc87d161da19ec4125520446ff94f282\\res\\values-v12\\values-v12.xml",
                     "from": {
                         "startLines": "2,5,8,9",
                         "startColumns": "4,4,4,4",
@@ -113,10 +113,10 @@
             ]
         },
         {
-            "outputFile": "/home/www/Tabuada/C:\\home\\www\\Tabuada\\C:\\home\\www\\TabuadaParaCriancas\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v12\\values-v12.xml",
+            "outputFile": "C:\\home\\www\\Tabuada\\C:\\home\\www\\Tabuada\\C:\\var\\www\\html\\Tabuada\\C:\\Users\\VictorGustavo\\Desktop\\TabuadaParaCriancas\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v12\\values-v12.xml",
             "map": [
                 {
-                    "source": "/home/www/Tabuada/C:\\home\\www\\Tabuada\\C:\\home\\alunos\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\fc87d161da19ec4125520446ff94f282\\res\\values-v12\\values-v12.xml",
+                    "source": "C:\\home\\www\\Tabuada\\C:\\home\\www\\Tabuada\\C:\\var\\www\\html\\Tabuada\\C:\\Users\\VictorGustavo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e96a29a0ddaa903b2cb6a83542da9d26\\res\\values-v12\\values-v12.xml",
                     "from": {
                         "startLines": "2,5,8,9",
                         "startColumns": "4,4,4,4",
@@ -129,10 +129,10 @@
             ]
         },
         {
-            "outputFile": "/home/www/Tabuada/C:\\home\\www\\Tabuada\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v12\\values-v12.xml",
+            "outputFile": "C:\\home\\www\\Tabuada\\C:\\home\\www\\Tabuada\\C:\\home\\alunos\\Área de Trabalho\\Tabuada\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v12\\values-v12.xml",
             "map": [
                 {
-                    "source": "/home/www/Tabuada/C:\\opt\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\a909068465cbbdeea447dd40cf46a3da\\res\\values-v12\\values-v12.xml",
+                    "source": "C:\\home\\www\\Tabuada\\C:\\home\\www\\Tabuada\\C:\\home\\alunos\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\fc87d161da19ec4125520446ff94f282\\res\\values-v12\\values-v12.xml",
                     "from": {
                         "startLines": "2,5,8,9",
                         "startColumns": "4,4,4,4",
@@ -145,10 +145,10 @@
             ]
         },
         {
-            "outputFile": "/home/www/Tabuada/C:\\home\\www\\Tabuada\\C:\\home\\alunos\\Área de Trabalho\\Tabuada\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v12\\values-v12.xml",
+            "outputFile": "C:\\home\\www\\Tabuada\\app\\build\\intermediates\\res\\merged\\debug\\values-v12\\values-v12.xml",
             "map": [
                 {
-                    "source": "/home/www/Tabuada/C:\\home\\www\\Tabuada\\C:\\home\\alunos\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\fc87d161da19ec4125520446ff94f282\\res\\values-v12\\values-v12.xml",
+                    "source": "C:\\opt\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\a909068465cbbdeea447dd40cf46a3da\\res\\values-v12\\values-v12.xml",
                     "from": {
                         "startLines": "2,5,8,9",
                         "startColumns": "4,4,4,4",
@@ -161,10 +161,10 @@
             ]
         },
         {
-            "outputFile": "/home/www/Tabuada/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v12/values-v12.xml",
+            "outputFile": "C:\\Users\\VictorGustavo\\Desktop\\Tabuada\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v12\\values-v12.xml",
             "map": [
                 {
-                    "source": "/opt/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a909068465cbbdeea447dd40cf46a3da/res/values-v12/values-v12.xml",
+                    "source": "C:\\Users\\VictorGustavo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e96a29a0ddaa903b2cb6a83542da9d26\\res\\values-v12\\values-v12.xml",
                     "from": {
                         "startLines": "2,5,8,9",
                         "startColumns": "4,4,4,4",
@@ -177,10 +177,26 @@
             ]
         },
         {
-            "outputFile": "/home/www/Tabuada/C:\\home\\www\\Tabuada\\C:\\home\\www\\Tabuada\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v12\\values-v12.xml",
+            "outputFile": "C:\\home\\www\\Tabuada\\C:\\Users\\VictorGustavo\\Desktop\\Tabuada\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v12\\values-v12.xml",
             "map": [
                 {
-                    "source": "/home/www/Tabuada/C:\\home\\www\\Tabuada\\C:\\opt\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\a909068465cbbdeea447dd40cf46a3da\\res\\values-v12\\values-v12.xml",
+                    "source": "C:\\home\\www\\Tabuada\\C:\\Users\\VictorGustavo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e96a29a0ddaa903b2cb6a83542da9d26\\res\\values-v12\\values-v12.xml",
+                    "from": {
+                        "startLines": "2,5,8,9",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,279,479,598",
+                        "endLines": "4,7,8,9",
+                        "endColumns": "12,12,118,94",
+                        "endOffsets": "274,474,593,688"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\home\\www\\Tabuada\\C:\\home\\www\\Tabuada\\C:\\var\\www\\html\\Tabuada\\C:\\home\\www\\Tabuada\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v12\\values-v12.xml",
+            "map": [
+                {
+                    "source": "C:\\home\\www\\Tabuada\\C:\\home\\www\\Tabuada\\C:\\var\\www\\html\\Tabuada\\C:\\home\\alunos\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\fc87d161da19ec4125520446ff94f282\\res\\values-v12\\values-v12.xml",
                     "from": {
                         "startLines": "2,5,8,9",
                         "startColumns": "4,4,4,4",
