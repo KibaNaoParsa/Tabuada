@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="armeabi-v7a,armeabi"
-    api-level="23"
+    abi="x86"
+    api-level="28"
     build-mode="FULL"
-    density="xhdpi"
+    density="420dpi"
     format="10"
     plugin-version="3.0.1"
-    timestamp="1521751766976"
+    timestamp="1521837454651"
     token="7270702708231196554"
     verifier="FULL_BUILD_REQUESTED" >
 
@@ -84,10 +84,10 @@
         location="/home/alunos/Área de Trabalho/Tabuada/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
         type="SPLIT" />
     <artifact
-        location="/home/www/Tabuada/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
+        location="/home/www/Tabuada/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
         type="SPLIT" />
     <artifact
-        location="/home/www/Tabuada/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
+        location="/home/www/Tabuada/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
         type="SPLIT" />
     <artifact
         location="/home/www/Tabuada/app/build/outputs/apk/debug/app-debug.apk"
@@ -95,7 +95,7 @@
 
     <build
         build-mode="FULL"
-        timestamp="1521751766976"
+        timestamp="1521837454651"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="/home/www/Tabuada/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
@@ -158,10 +158,10 @@
             location="/home/alunos/Área de Trabalho/Tabuada/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
             type="SPLIT" />
         <artifact
-            location="/home/www/Tabuada/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
+            location="/home/www/Tabuada/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
             type="SPLIT" />
         <artifact
-            location="/home/www/Tabuada/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
+            location="/home/www/Tabuada/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
             type="SPLIT" />
         <artifact
             location="/home/www/Tabuada/app/build/outputs/apk/debug/app-debug.apk"

@@ -4,7 +4,9 @@ import android.animation.Animator;
 import android.animation.AnimatorListenerAdapter;
 import android.animation.AnimatorSet;
 import android.animation.ObjectAnimator;
+import android.app.Activity;
 import android.content.Intent;
+import android.content.pm.ActivityInfo;
 import android.graphics.Typeface;
 import android.os.Bundle;
 import android.os.Handler;
@@ -21,20 +23,22 @@ import android.widget.TextView;
  * Created by elyas on 04/12/17.
  */
 
-public class TelaInicial extends AppCompatActivity {
+public class TelaInicial extends Activity {
     private static int tempo;
     Intent it;
 
     protected void onCreate(Bundle savedInstanceState) {
-        View view = findViewById(android.R.id.content);
-        Animation mLoadAnimation = AnimationUtils.loadAnimation(getApplicationContext(), android.R.anim.fade_in);
-        mLoadAnimation.setDuration(2000);
-        view.startAnimation(mLoadAnimation);
 
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_inicial);
 
-        tempo = 2000;
+        setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_PORTRAIT);
+        View view = findViewById(android.R.id.content);
+        Animation mLoadAnimation = AnimationUtils.loadAnimation(getApplicationContext(), android.R.anim.fade_in);
+        mLoadAnimation.setDuration(1000);
+        view.startAnimation(mLoadAnimation);
+
+        tempo = 1500;
 
 
 

@@ -1,27 +1,72 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\home\\www\\Tabuada\\C:\\home\\www\\Tabuada\\C:\\Users\\VictorGustavo\\Documents\\Tabuada\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-km\\values-km.xml",
+            "outputFile": "/home/www/Tabuada/C:\\home\\www\\Tabuada\\C:\\home\\www\\Tabuada\\C:\\var\\www\\html\\Tabuada\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-km\\values-km.xml",
             "map": [
                 {
-                    "source": "C:\\home\\www\\Tabuada\\C:\\home\\www\\Tabuada\\C:\\Users\\VictorGustavo\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-ads-11.8.0.aar\\8238c4b632068a4f5606695047efb977\\res\\values-km\\values.xml",
+                    "source": "/home/www/Tabuada/C:\\home\\www\\Tabuada\\C:\\home\\www\\Tabuada\\C:\\home\\elyas\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\52610befddf3d8e1987cd01b8f14f484\\res\\values-km\\values-km.xml",
                     "from": {
-                        "startLines": "4,5,6,7,8,9,10",
-                        "startColumns": "0,0,0,0,0,0,0",
-                        "startOffsets": "235,307,435,500,564,657,782",
-                        "endColumns": "71,127,64,63,92,124,76",
-                        "endOffsets": "306,434,499,563,656,781,858"
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,158,266,389,489,601,688,792,910,987,1064,1147,1251,1356,1456,1566,1673,1781,1904,2002,2085",
+                        "endColumns": "102,107,122,99,111,86,103,117,76,76,82,103,104,99,109,106,107,122,97,82,100",
+                        "endOffsets": "153,261,384,484,596,683,787,905,982,1059,1142,1246,1351,1451,1561,1668,1776,1899,1997,2080,2181"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/www/Tabuada/C:\\home\\www\\Tabuada\\C:\\home\\www\\Tabuada\\C:\\home\\www\\Tabuada\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-km\\values-km.xml",
+            "map": [
+                {
+                    "source": "/home/www/Tabuada/C:\\home\\www\\Tabuada\\C:\\home\\www\\Tabuada\\C:\\opt\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\a909068465cbbdeea447dd40cf46a3da\\res\\values-km\\values-km.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,158,266,389,489,601,688,792,910,987,1064,1147,1251,1356,1456,1566,1673,1781,1904,2002,2085",
+                        "endColumns": "102,107,122,99,111,86,103,117,76,76,82,103,104,99,109,106,107,122,97,82,100",
+                        "endOffsets": "153,261,384,484,596,683,787,905,982,1059,1142,1246,1351,1451,1561,1668,1776,1899,1997,2080,2181"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/www/Tabuada/C:\\home\\www\\Tabuada\\C:\\home\\www\\Tabuada\\C:\\home\\alunos\\TabuadaParaCriancas\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-km\\values-km.xml",
+            "map": [
+                {
+                    "source": "/home/www/Tabuada/C:\\home\\www\\Tabuada\\C:\\home\\www\\Tabuada\\C:\\home\\alunos\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\fc87d161da19ec4125520446ff94f282\\res\\values-km\\values-km.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,158,266,389,489,601,688,792,910,987,1064,1147,1251,1356,1456,1566,1673,1781,1904,2002,2085",
+                        "endColumns": "102,107,122,99,111,86,103,117,76,76,82,103,104,99,109,106,107,122,97,82,100",
+                        "endOffsets": "153,261,384,484,596,683,787,905,982,1059,1142,1246,1351,1451,1561,1668,1776,1899,1997,2080,2181"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/www/Tabuada/C:\\home\\www\\Tabuada\\C:\\home\\www\\Tabuada\\C:\\Users\\VictorGustavo\\Documents\\Tabuada\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-km\\values-km.xml",
+            "map": [
+                {
+                    "source": "/home/www/Tabuada/C:\\home\\www\\Tabuada\\C:\\home\\www\\Tabuada\\C:\\Users\\VictorGustavo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e96a29a0ddaa903b2cb6a83542da9d26\\res\\values-km\\values-km.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,158,266,389,489,601,688,792,910,987,1064,1147,1251,1356,1456,1566,1673,1781,1904,2002,2085",
+                        "endColumns": "102,107,122,99,111,86,103,117,76,76,82,103,104,99,109,106,107,122,97,82,100",
+                        "endOffsets": "153,261,384,484,596,683,787,905,982,1059,1142,1246,1351,1451,1561,1668,1776,1899,1997,2080,2181"
                     },
                     "to": {
-                        "startLines": "22,23,24,25,26,27,28",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "2260,2336,2468,2537,2605,2702,2831",
-                        "endColumns": "75,131,68,67,96,128,80",
-                        "endOffsets": "2331,2463,2532,2600,2697,2826,2907"
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,29,30",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,208,316,439,539,651,738,842,960,1037,1114,1197,1301,1406,1506,1616,1723,1831,1954,2912,2995",
+                        "endColumns": "102,107,122,99,111,86,103,117,76,76,82,103,104,99,109,106,107,122,97,82,100",
+                        "endOffsets": "203,311,434,534,646,733,837,955,1032,1109,1192,1296,1401,1501,1611,1718,1826,1949,2047,2990,3091"
                     }
                 },
                 {
-                    "source": "C:\\home\\www\\Tabuada\\C:\\home\\www\\Tabuada\\C:\\Users\\VictorGustavo\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-11.8.0.aar\\363092aba497de5ea393fe5bd7bf4d98\\res\\values-km\\values.xml",
+                    "source": "/home/www/Tabuada/C:\\home\\www\\Tabuada\\C:\\home\\www\\Tabuada\\C:\\Users\\VictorGustavo\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-11.8.0.aar\\363092aba497de5ea393fe5bd7bf4d98\\res\\values-km\\values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -38,46 +83,7 @@
                     }
                 },
                 {
-                    "source": "C:\\home\\www\\Tabuada\\C:\\home\\www\\Tabuada\\C:\\Users\\VictorGustavo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e96a29a0ddaa903b2cb6a83542da9d26\\res\\values-km\\values-km.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,158,266,389,489,601,688,792,910,987,1064,1147,1251,1356,1456,1566,1673,1781,1904,2002,2085",
-                        "endColumns": "102,107,122,99,111,86,103,117,76,76,82,103,104,99,109,106,107,122,97,82,100",
-                        "endOffsets": "153,261,384,484,596,683,787,905,982,1059,1142,1246,1351,1451,1561,1668,1776,1899,1997,2080,2181"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,29,30",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,208,316,439,539,651,738,842,960,1037,1114,1197,1301,1406,1506,1616,1723,1831,1954,2912,2995",
-                        "endColumns": "102,107,122,99,111,86,103,117,76,76,82,103,104,99,109,106,107,122,97,82,100",
-                        "endOffsets": "203,311,434,534,646,733,837,955,1032,1109,1192,1296,1401,1501,1611,1718,1826,1949,2047,2990,3091"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "C:\\home\\www\\Tabuada\\C:\\home\\www\\Tabuada\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-km\\values-km.xml",
-            "map": [
-                {
-                    "source": "C:\\home\\www\\Tabuada\\C:\\opt\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-11.8.0.aar\\82c20e896c38af7b6faff7484a708a36\\res\\values-km\\values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "283",
-                        "endColumns": "207",
-                        "endOffsets": "490"
-                    },
-                    "to": {
-                        "startLines": "21",
-                        "startColumns": "4",
-                        "startOffsets": "2052",
-                        "endColumns": "207",
-                        "endOffsets": "2255"
-                    }
-                },
-                {
-                    "source": "C:\\home\\www\\Tabuada\\C:\\opt\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-ads-11.8.0.aar\\a3c0bf7b9cb8907cf5e9e4c2afbc5f02\\res\\values-km\\values.xml",
+                    "source": "/home/www/Tabuada/C:\\home\\www\\Tabuada\\C:\\home\\www\\Tabuada\\C:\\Users\\VictorGustavo\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-ads-11.8.0.aar\\8238c4b632068a4f5606695047efb977\\res\\values-km\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10",
                         "startColumns": "0,0,0,0,0,0,0",
@@ -92,46 +98,14 @@
                         "endColumns": "75,131,68,67,96,128,80",
                         "endOffsets": "2331,2463,2532,2600,2697,2826,2907"
                     }
-                },
-                {
-                    "source": "C:\\home\\www\\Tabuada\\C:\\opt\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\a909068465cbbdeea447dd40cf46a3da\\res\\values-km\\values-km.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,158,266,389,489,601,688,792,910,987,1064,1147,1251,1356,1456,1566,1673,1781,1904,2002,2085",
-                        "endColumns": "102,107,122,99,111,86,103,117,76,76,82,103,104,99,109,106,107,122,97,82,100",
-                        "endOffsets": "153,261,384,484,596,683,787,905,982,1059,1142,1246,1351,1451,1561,1668,1776,1899,1997,2080,2181"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,29,30",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,208,316,439,539,651,738,842,960,1037,1114,1197,1301,1406,1506,1616,1723,1831,1954,2912,2995",
-                        "endColumns": "102,107,122,99,111,86,103,117,76,76,82,103,104,99,109,106,107,122,97,82,100",
-                        "endOffsets": "203,311,434,534,646,733,837,955,1032,1109,1192,1296,1401,1501,1611,1718,1826,1949,2047,2990,3091"
-                    }
                 }
             ]
         },
         {
-            "outputFile": "C:\\home\\www\\Tabuada\\C:\\home\\www\\Tabuada\\C:\\home\\www\\TabuadaParaCriancas\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-km\\values-km.xml",
+            "outputFile": "/home/www/Tabuada/C:\\home\\www\\Tabuada\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-km\\values-km.xml",
             "map": [
                 {
-                    "source": "C:\\home\\www\\Tabuada\\C:\\home\\www\\Tabuada\\C:\\home\\alunos\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\fc87d161da19ec4125520446ff94f282\\res\\values-km\\values-km.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,158,266,389,489,601,688,792,910,987,1064,1147,1251,1356,1456,1566,1673,1781,1904,2002,2085",
-                        "endColumns": "102,107,122,99,111,86,103,117,76,76,82,103,104,99,109,106,107,122,97,82,100",
-                        "endOffsets": "153,261,384,484,596,683,787,905,982,1059,1142,1246,1351,1451,1561,1668,1776,1899,1997,2080,2181"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "C:\\home\\www\\Tabuada\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-km\\values-km.xml",
-            "map": [
-                {
-                    "source": "C:\\opt\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\a909068465cbbdeea447dd40cf46a3da\\res\\values-km\\values-km.xml",
+                    "source": "/home/www/Tabuada/C:\\opt\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\a909068465cbbdeea447dd40cf46a3da\\res\\values-km\\values-km.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -148,7 +122,7 @@
                     }
                 },
                 {
-                    "source": "C:\\opt\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-ads-12.0.0.aar\\a284bf81cdd2ee59a6eba5df9450623a\\res\\values-km\\values.xml",
+                    "source": "/home/www/Tabuada/C:\\opt\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-ads-12.0.0.aar\\a284bf81cdd2ee59a6eba5df9450623a\\res\\values-km\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10",
                         "startColumns": "0,0,0,0,0,0,0",
@@ -165,7 +139,7 @@
                     }
                 },
                 {
-                    "source": "C:\\opt\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-12.0.0.aar\\a291163382266580ae9cf84c4b6f1fbb\\res\\values-km\\values.xml",
+                    "source": "/home/www/Tabuada/C:\\opt\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-12.0.0.aar\\a291163382266580ae9cf84c4b6f1fbb\\res\\values-km\\values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -184,72 +158,10 @@
             ]
         },
         {
-            "outputFile": "C:\\home\\www\\Tabuada\\C:\\home\\www\\Tabuada\\C:\\var\\www\\html\\Tabuada\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-km\\values-km.xml",
+            "outputFile": "/home/www/Tabuada/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-km/values-km.xml",
             "map": [
                 {
-                    "source": "C:\\home\\www\\Tabuada\\C:\\home\\www\\Tabuada\\C:\\home\\elyas\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\52610befddf3d8e1987cd01b8f14f484\\res\\values-km\\values-km.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,158,266,389,489,601,688,792,910,987,1064,1147,1251,1356,1456,1566,1673,1781,1904,2002,2085",
-                        "endColumns": "102,107,122,99,111,86,103,117,76,76,82,103,104,99,109,106,107,122,97,82,100",
-                        "endOffsets": "153,261,384,484,596,683,787,905,982,1059,1142,1246,1351,1451,1561,1668,1776,1899,1997,2080,2181"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "C:\\home\\www\\Tabuada\\C:\\home\\www\\Tabuada\\C:\\home\\www\\Tabuada\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-km\\values-km.xml",
-            "map": [
-                {
-                    "source": "C:\\home\\www\\Tabuada\\C:\\home\\www\\Tabuada\\C:\\opt\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\a909068465cbbdeea447dd40cf46a3da\\res\\values-km\\values-km.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,158,266,389,489,601,688,792,910,987,1064,1147,1251,1356,1456,1566,1673,1781,1904,2002,2085",
-                        "endColumns": "102,107,122,99,111,86,103,117,76,76,82,103,104,99,109,106,107,122,97,82,100",
-                        "endOffsets": "153,261,384,484,596,683,787,905,982,1059,1142,1246,1351,1451,1561,1668,1776,1899,1997,2080,2181"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "C:\\home\\www\\Tabuada\\C:\\home\\www\\Tabuada\\C:\\var\\www\\html\\Tabuada\\C:\\Users\\VictorGustavo\\Desktop\\TabuadaParaCriancas\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-km\\values-km.xml",
-            "map": [
-                {
-                    "source": "C:\\home\\www\\Tabuada\\C:\\home\\www\\Tabuada\\C:\\var\\www\\html\\Tabuada\\C:\\Users\\VictorGustavo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e96a29a0ddaa903b2cb6a83542da9d26\\res\\values-km\\values-km.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,158,266,389,489,601,688,792,910,987,1064,1147,1251,1356,1456,1566,1673,1781,1904,2002,2085",
-                        "endColumns": "102,107,122,99,111,86,103,117,76,76,82,103,104,99,109,106,107,122,97,82,100",
-                        "endOffsets": "153,261,384,484,596,683,787,905,982,1059,1142,1246,1351,1451,1561,1668,1776,1899,1997,2080,2181"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "C:\\home\\www\\Tabuada\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-km\\values-km.xml",
-            "map": [
-                {
-                    "source": "C:\\opt\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\a909068465cbbdeea447dd40cf46a3da\\res\\values-km\\values-km.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,158,266,389,489,601,688,792,910,987,1064,1147,1251,1356,1456,1566,1673,1781,1904,2002,2085",
-                        "endColumns": "102,107,122,99,111,86,103,117,76,76,82,103,104,99,109,106,107,122,97,82,100",
-                        "endOffsets": "153,261,384,484,596,683,787,905,982,1059,1142,1246,1351,1451,1561,1668,1776,1899,1997,2080,2181"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,29,30",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,208,316,439,539,651,738,842,960,1037,1114,1197,1301,1406,1506,1616,1723,1831,1954,2912,2995",
-                        "endColumns": "102,107,122,99,111,86,103,117,76,76,82,103,104,99,109,106,107,122,97,82,100",
-                        "endOffsets": "203,311,434,534,646,733,837,955,1032,1109,1192,1296,1401,1501,1611,1718,1826,1949,2047,2990,3091"
-                    }
-                },
-                {
-                    "source": "C:\\opt\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-ads-12.0.0.aar\\a284bf81cdd2ee59a6eba5df9450623a\\res\\values-km\\values.xml",
+                    "source": "/opt/.gradle/caches/transforms-1/files-1.1/play-services-ads-12.0.0.aar/a284bf81cdd2ee59a6eba5df9450623a/res/values-km/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10",
                         "startColumns": "0,0,0,0,0,0,0",
@@ -266,7 +178,24 @@
                     }
                 },
                 {
-                    "source": "C:\\opt\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-12.0.0.aar\\a291163382266580ae9cf84c4b6f1fbb\\res\\values-km\\values.xml",
+                    "source": "/opt/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a909068465cbbdeea447dd40cf46a3da/res/values-km/values-km.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,158,266,389,489,601,688,792,910,987,1064,1147,1251,1356,1456,1566,1673,1781,1904,2002,2085",
+                        "endColumns": "102,107,122,99,111,86,103,117,76,76,82,103,104,99,109,106,107,122,97,82,100",
+                        "endOffsets": "153,261,384,484,596,683,787,905,982,1059,1142,1246,1351,1451,1561,1668,1776,1899,1997,2080,2181"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,29,30",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,208,316,439,539,651,738,842,960,1037,1114,1197,1301,1406,1506,1616,1723,1831,1954,2912,2995",
+                        "endColumns": "102,107,122,99,111,86,103,117,76,76,82,103,104,99,109,106,107,122,97,82,100",
+                        "endOffsets": "203,311,434,534,646,733,837,955,1032,1109,1192,1296,1401,1501,1611,1718,1826,1949,2047,2990,3091"
+                    }
+                },
+                {
+                    "source": "/opt/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.0.aar/a291163382266580ae9cf84c4b6f1fbb/res/values-km/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -285,25 +214,10 @@
             ]
         },
         {
-            "outputFile": "C:\\home\\www\\Tabuada\\C:\\home\\www\\Tabuada\\C:\\home\\alunos\\TabuadaParaCriancas\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-km\\values-km.xml",
+            "outputFile": "/home/www/Tabuada/C:\\home\\www\\Tabuada\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-km\\values-km.xml",
             "map": [
                 {
-                    "source": "C:\\home\\www\\Tabuada\\C:\\home\\www\\Tabuada\\C:\\home\\alunos\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\fc87d161da19ec4125520446ff94f282\\res\\values-km\\values-km.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,158,266,389,489,601,688,792,910,987,1064,1147,1251,1356,1456,1566,1673,1781,1904,2002,2085",
-                        "endColumns": "102,107,122,99,111,86,103,117,76,76,82,103,104,99,109,106,107,122,97,82,100",
-                        "endOffsets": "153,261,384,484,596,683,787,905,982,1059,1142,1246,1351,1451,1561,1668,1776,1899,1997,2080,2181"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "C:\\Users\\VictorGustavo\\Desktop\\Tabuada\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-km\\values-km.xml",
-            "map": [
-                {
-                    "source": "C:\\Users\\VictorGustavo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e96a29a0ddaa903b2cb6a83542da9d26\\res\\values-km\\values-km.xml",
+                    "source": "/home/www/Tabuada/C:\\opt\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\a909068465cbbdeea447dd40cf46a3da\\res\\values-km\\values-km.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -320,7 +234,149 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\VictorGustavo\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-12.0.0.aar\\2ff1f7bb392240f3cea9a9099c4a7dba\\res\\values-km\\values.xml",
+                    "source": "/home/www/Tabuada/C:\\opt\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-ads-12.0.0.aar\\a284bf81cdd2ee59a6eba5df9450623a\\res\\values-km\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10",
+                        "startColumns": "0,0,0,0,0,0,0",
+                        "startOffsets": "199,271,399,464,528,621,746",
+                        "endColumns": "71,127,64,63,92,124,76",
+                        "endOffsets": "270,398,463,527,620,745,822"
+                    },
+                    "to": {
+                        "startLines": "22,23,24,25,26,27,28",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "2260,2336,2468,2537,2605,2702,2831",
+                        "endColumns": "75,131,68,67,96,128,80",
+                        "endOffsets": "2331,2463,2532,2600,2697,2826,2907"
+                    }
+                },
+                {
+                    "source": "/home/www/Tabuada/C:\\opt\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-12.0.0.aar\\a291163382266580ae9cf84c4b6f1fbb\\res\\values-km\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "207",
+                        "endOffsets": "454"
+                    },
+                    "to": {
+                        "startLines": "21",
+                        "startColumns": "4",
+                        "startOffsets": "2052",
+                        "endColumns": "207",
+                        "endOffsets": "2255"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/www/Tabuada/C:\\home\\www\\Tabuada\\C:\\home\\www\\Tabuada\\C:\\home\\www\\TabuadaParaCriancas\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-km\\values-km.xml",
+            "map": [
+                {
+                    "source": "/home/www/Tabuada/C:\\home\\www\\Tabuada\\C:\\home\\www\\Tabuada\\C:\\home\\alunos\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\fc87d161da19ec4125520446ff94f282\\res\\values-km\\values-km.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,158,266,389,489,601,688,792,910,987,1064,1147,1251,1356,1456,1566,1673,1781,1904,2002,2085",
+                        "endColumns": "102,107,122,99,111,86,103,117,76,76,82,103,104,99,109,106,107,122,97,82,100",
+                        "endOffsets": "153,261,384,484,596,683,787,905,982,1059,1142,1246,1351,1451,1561,1668,1776,1899,1997,2080,2181"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/www/Tabuada/C:\\home\\www\\Tabuada\\C:\\Users\\VictorGustavo\\Desktop\\Tabuada\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-km\\values-km.xml",
+            "map": [
+                {
+                    "source": "/home/www/Tabuada/C:\\home\\www\\Tabuada\\C:\\Users\\VictorGustavo\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-11.8.0.aar\\363092aba497de5ea393fe5bd7bf4d98\\res\\values-km\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "283",
+                        "endColumns": "207",
+                        "endOffsets": "490"
+                    },
+                    "to": {
+                        "startLines": "21",
+                        "startColumns": "4",
+                        "startOffsets": "2052",
+                        "endColumns": "207",
+                        "endOffsets": "2255"
+                    }
+                },
+                {
+                    "source": "/home/www/Tabuada/C:\\home\\www\\Tabuada\\C:\\Users\\VictorGustavo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e96a29a0ddaa903b2cb6a83542da9d26\\res\\values-km\\values-km.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,158,266,389,489,601,688,792,910,987,1064,1147,1251,1356,1456,1566,1673,1781,1904,2002,2085",
+                        "endColumns": "102,107,122,99,111,86,103,117,76,76,82,103,104,99,109,106,107,122,97,82,100",
+                        "endOffsets": "153,261,384,484,596,683,787,905,982,1059,1142,1246,1351,1451,1561,1668,1776,1899,1997,2080,2181"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,29,30",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,208,316,439,539,651,738,842,960,1037,1114,1197,1301,1406,1506,1616,1723,1831,1954,2912,2995",
+                        "endColumns": "102,107,122,99,111,86,103,117,76,76,82,103,104,99,109,106,107,122,97,82,100",
+                        "endOffsets": "203,311,434,534,646,733,837,955,1032,1109,1192,1296,1401,1501,1611,1718,1826,1949,2047,2990,3091"
+                    }
+                },
+                {
+                    "source": "/home/www/Tabuada/C:\\home\\www\\Tabuada\\C:\\Users\\VictorGustavo\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-ads-11.8.0.aar\\8238c4b632068a4f5606695047efb977\\res\\values-km\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10",
+                        "startColumns": "0,0,0,0,0,0,0",
+                        "startOffsets": "235,307,435,500,564,657,782",
+                        "endColumns": "71,127,64,63,92,124,76",
+                        "endOffsets": "306,434,499,563,656,781,858"
+                    },
+                    "to": {
+                        "startLines": "22,23,24,25,26,27,28",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "2260,2336,2468,2537,2605,2702,2831",
+                        "endColumns": "75,131,68,67,96,128,80",
+                        "endOffsets": "2331,2463,2532,2600,2697,2826,2907"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/www/Tabuada/C:\\home\\www\\Tabuada\\C:\\home\\www\\Tabuada\\C:\\var\\www\\html\\Tabuada\\C:\\Users\\VictorGustavo\\Desktop\\TabuadaParaCriancas\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-km\\values-km.xml",
+            "map": [
+                {
+                    "source": "/home/www/Tabuada/C:\\home\\www\\Tabuada\\C:\\home\\www\\Tabuada\\C:\\var\\www\\html\\Tabuada\\C:\\Users\\VictorGustavo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e96a29a0ddaa903b2cb6a83542da9d26\\res\\values-km\\values-km.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,158,266,389,489,601,688,792,910,987,1064,1147,1251,1356,1456,1566,1673,1781,1904,2002,2085",
+                        "endColumns": "102,107,122,99,111,86,103,117,76,76,82,103,104,99,109,106,107,122,97,82,100",
+                        "endOffsets": "153,261,384,484,596,683,787,905,982,1059,1142,1246,1351,1451,1561,1668,1776,1899,1997,2080,2181"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/www/Tabuada/C:\\Users\\VictorGustavo\\Desktop\\Tabuada\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-km\\values-km.xml",
+            "map": [
+                {
+                    "source": "/home/www/Tabuada/C:\\Users\\VictorGustavo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e96a29a0ddaa903b2cb6a83542da9d26\\res\\values-km\\values-km.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,158,266,389,489,601,688,792,910,987,1064,1147,1251,1356,1456,1566,1673,1781,1904,2002,2085",
+                        "endColumns": "102,107,122,99,111,86,103,117,76,76,82,103,104,99,109,106,107,122,97,82,100",
+                        "endOffsets": "153,261,384,484,596,683,787,905,982,1059,1142,1246,1351,1451,1561,1668,1776,1899,1997,2080,2181"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,29,30",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,208,316,439,539,651,738,842,960,1037,1114,1197,1301,1406,1506,1616,1723,1831,1954,2912,2995",
+                        "endColumns": "102,107,122,99,111,86,103,117,76,76,82,103,104,99,109,106,107,122,97,82,100",
+                        "endOffsets": "203,311,434,534,646,733,837,955,1032,1109,1192,1296,1401,1501,1611,1718,1826,1949,2047,2990,3091"
+                    }
+                },
+                {
+                    "source": "/home/www/Tabuada/C:\\Users\\VictorGustavo\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-12.0.0.aar\\2ff1f7bb392240f3cea9a9099c4a7dba\\res\\values-km\\values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -337,7 +393,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\VictorGustavo\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-ads-12.0.0.aar\\6acc80a243e22bfdf5c2b9647136aa5c\\res\\values-km\\values.xml",
+                    "source": "/home/www/Tabuada/C:\\Users\\VictorGustavo\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-ads-12.0.0.aar\\6acc80a243e22bfdf5c2b9647136aa5c\\res\\values-km\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10",
                         "startColumns": "0,0,0,0,0,0,0",
@@ -356,27 +412,27 @@
             ]
         },
         {
-            "outputFile": "C:\\home\\www\\Tabuada\\C:\\Users\\VictorGustavo\\Desktop\\Tabuada\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-km\\values-km.xml",
+            "outputFile": "/home/www/Tabuada/C:\\home\\www\\Tabuada\\C:\\home\\www\\Tabuada\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-km\\values-km.xml",
             "map": [
                 {
-                    "source": "C:\\home\\www\\Tabuada\\C:\\Users\\VictorGustavo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e96a29a0ddaa903b2cb6a83542da9d26\\res\\values-km\\values-km.xml",
+                    "source": "/home/www/Tabuada/C:\\home\\www\\Tabuada\\C:\\opt\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-11.8.0.aar\\82c20e896c38af7b6faff7484a708a36\\res\\values-km\\values.xml",
                     "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,158,266,389,489,601,688,792,910,987,1064,1147,1251,1356,1456,1566,1673,1781,1904,2002,2085",
-                        "endColumns": "102,107,122,99,111,86,103,117,76,76,82,103,104,99,109,106,107,122,97,82,100",
-                        "endOffsets": "153,261,384,484,596,683,787,905,982,1059,1142,1246,1351,1451,1561,1668,1776,1899,1997,2080,2181"
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "283",
+                        "endColumns": "207",
+                        "endOffsets": "490"
                     },
                     "to": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,29,30",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,208,316,439,539,651,738,842,960,1037,1114,1197,1301,1406,1506,1616,1723,1831,1954,2912,2995",
-                        "endColumns": "102,107,122,99,111,86,103,117,76,76,82,103,104,99,109,106,107,122,97,82,100",
-                        "endOffsets": "203,311,434,534,646,733,837,955,1032,1109,1192,1296,1401,1501,1611,1718,1826,1949,2047,2990,3091"
+                        "startLines": "21",
+                        "startColumns": "4",
+                        "startOffsets": "2052",
+                        "endColumns": "207",
+                        "endOffsets": "2255"
                     }
                 },
                 {
-                    "source": "C:\\home\\www\\Tabuada\\C:\\Users\\VictorGustavo\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-ads-11.8.0.aar\\8238c4b632068a4f5606695047efb977\\res\\values-km\\values.xml",
+                    "source": "/home/www/Tabuada/C:\\home\\www\\Tabuada\\C:\\opt\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-ads-11.8.0.aar\\a3c0bf7b9cb8907cf5e9e4c2afbc5f02\\res\\values-km\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10",
                         "startColumns": "0,0,0,0,0,0,0",
@@ -393,20 +449,20 @@
                     }
                 },
                 {
-                    "source": "C:\\home\\www\\Tabuada\\C:\\Users\\VictorGustavo\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-11.8.0.aar\\363092aba497de5ea393fe5bd7bf4d98\\res\\values-km\\values.xml",
+                    "source": "/home/www/Tabuada/C:\\home\\www\\Tabuada\\C:\\opt\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\a909068465cbbdeea447dd40cf46a3da\\res\\values-km\\values-km.xml",
                     "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "283",
-                        "endColumns": "207",
-                        "endOffsets": "490"
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,158,266,389,489,601,688,792,910,987,1064,1147,1251,1356,1456,1566,1673,1781,1904,2002,2085",
+                        "endColumns": "102,107,122,99,111,86,103,117,76,76,82,103,104,99,109,106,107,122,97,82,100",
+                        "endOffsets": "153,261,384,484,596,683,787,905,982,1059,1142,1246,1351,1451,1561,1668,1776,1899,1997,2080,2181"
                     },
                     "to": {
-                        "startLines": "21",
-                        "startColumns": "4",
-                        "startOffsets": "2052",
-                        "endColumns": "207",
-                        "endOffsets": "2255"
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,29,30",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,208,316,439,539,651,738,842,960,1037,1114,1197,1301,1406,1506,1616,1723,1831,1954,2912,2995",
+                        "endColumns": "102,107,122,99,111,86,103,117,76,76,82,103,104,99,109,106,107,122,97,82,100",
+                        "endOffsets": "203,311,434,534,646,733,837,955,1032,1109,1192,1296,1401,1501,1611,1718,1826,1949,2047,2990,3091"
                     }
                 }
             ]

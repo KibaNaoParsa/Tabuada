@@ -1,344 +1,350 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml:2:1-41:12
-INJECTED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml:2:1-41:12
-INJECTED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml:2:1-41:12
-INJECTED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml:2:1-41:12
-MERGED from [com.google.android.gms:play-services-ads:12.0.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\play-services-ads-12.0.0.aar\6acc80a243e22bfdf5c2b9647136aa5c\AndroidManifest.xml:17:1-25:12
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\7bd073865cad1621ad56d580805f81c1\AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\e96a29a0ddaa903b2cb6a83542da9d26\AndroidManifest.xml:17:1-31:12
-MERGED from [com.google.android.gms:play-services-ads-lite:12.0.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-12.0.0.aar\4ae97ee1c38b99ecd4448a0d20282740\AndroidManifest.xml:17:1-36:12
-MERGED from [com.google.android.gms:play-services-gass:12.0.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\play-services-gass-12.0.0.aar\34560eaafe40d809f8dabbd6a1894833\AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.android.gms:play-services-basement:12.0.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.0.aar\2ff1f7bb392240f3cea9a9099c4a7dba\AndroidManifest.xml:17:1-28:12
-MERGED from [com.google.android.gms:play-services-ads-license:12.0.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\play-services-ads-license-12.0.0.aar\72d7254a0e8fa5c83fde50080afd0a13\AndroidManifest.xml:2:1-8:12
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\50892949dca26d1ee773d0c9c52c23db\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\9645ac287ea92c79259fa2141d1809dc\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\ca6deda42f3c2d5871142326f284961a\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\007b8ea8a63f707ce89317a6e746262b\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\f3500d8a7ed9447006c46dffa53c7c6b\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\c46b6ae8f44d6cfa40d169d2def902be\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\47e1b9639485147cec15eca5bba2f920\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-compat:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\e4eb46fe62fd87d38145327a1b731c05\AndroidManifest.xml:17:1-31:12
-MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-license-12.0.0.aar\16c8fc0ba9943aa1589012d3f53ca26c\AndroidManifest.xml:2:1-8:12
-MERGED from [com.google.android.gms:play-services-basement-license:12.0.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-12.0.0.aar\b2c8eee293cd021cc6553159b93144ee\AndroidManifest.xml:2:1-8:12
-MERGED from [com.google.android.gms:play-services-gass-license:12.0.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\play-services-gass-license-12.0.0.aar\c82dc818716a941cb24d4ab21ecbc948\AndroidManifest.xml:2:1-8:12
-MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\275b72561ba4003364f9acc4fc41c283\AndroidManifest.xml:17:1-30:12
-INJECTED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml:2:1-41:12
-INJECTED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml:2:1-41:12
-INJECTED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml:2:1-41:12
+ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:2:1-42:12
+INJECTED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:2:1-42:12
+INJECTED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:2:1-42:12
+INJECTED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:2:1-42:12
+MERGED from [com.google.android.gms:play-services-ads:12.0.0] /opt/.gradle/caches/transforms-1/files-1.1/play-services-ads-12.0.0.aar/a284bf81cdd2ee59a6eba5df9450623a/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/alunos/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/72fbd25f6395599624fbe985157d6e09/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /opt/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a909068465cbbdeea447dd40cf46a3da/AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.0] /opt/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-12.0.0.aar/41e1b64bf5277d28ef571e16f6f192f1/AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.android.gms:play-services-gass:12.0.0] /opt/.gradle/caches/transforms-1/files-1.1/play-services-gass-12.0.0.aar/430f2993fa09cea107ade52842d225ef/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:12.0.0] /opt/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.0.aar/a291163382266580ae9cf84c4b6f1fbb/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-ads-license:12.0.0] /opt/.gradle/caches/transforms-1/files-1.1/play-services-ads-license-12.0.0.aar/e4b6360e6dbe09b0787b17e03812efbe/AndroidManifest.xml:2:1-8:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /opt/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/101390e8e16e08aed831ee99f619bb00/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /opt/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/fc3578e7ec26d8546dd6b6c9a15a2c11/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /opt/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/8d0773f0847685a3fa851c3e07c6b8f9/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /opt/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/138812473b6a62472f3e92117cda6c9d/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /opt/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/bf7d4bc8152af4a225aab0594c028c6b/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /opt/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/c497029650868ffb47ccfa72fb45c945/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /opt/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/6d9cd088ebbe6d574880b4b18aa73c92/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /opt/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/e2835a944a6ee0aa64925a97e075d634/AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.0] /opt/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-license-12.0.0.aar/fdf710aaa88a8ee0f74fdd71799096ea/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.0] /opt/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.0.aar/5ae7c29ae19309421e152ad86859696f/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-gass-license:12.0.0] /opt/.gradle/caches/transforms-1/files-1.1/play-services-gass-license-12.0.0.aar/850015ece902054cc9cc87ebd68a5d8c/AndroidManifest.xml:2:1-8:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /opt/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/e53d9e606071d89f39b9e737453fbb99/AndroidManifest.xml:17:1-30:12
+INJECTED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:2:1-42:12
+INJECTED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:2:1-42:12
+INJECTED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:2:1-42:12
 	package
-		ADDED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml:3:5-29
-		INJECTED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml
+		ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:3:5-29
+		INJECTED from /home/www/Tabuada/app/src/main/AndroidManifest.xml
+		INJECTED from /home/www/Tabuada/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml:2:1-41:12
-		INJECTED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml
+		INJECTED from /home/www/Tabuada/app/src/main/AndroidManifest.xml
+		ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:2:1-42:12
+		INJECTED from /home/www/Tabuada/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml:2:1-41:12
-		INJECTED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml
+		INJECTED from /home/www/Tabuada/app/src/main/AndroidManifest.xml
+		ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:2:1-42:12
+		INJECTED from /home/www/Tabuada/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml:4:5-67
-MERGED from [com.google.android.gms:play-services-ads-lite:12.0.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-12.0.0.aar\4ae97ee1c38b99ecd4448a0d20282740\AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-ads-lite:12.0.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-12.0.0.aar\4ae97ee1c38b99ecd4448a0d20282740\AndroidManifest.xml:23:5-67
+ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.0] /opt/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-12.0.0.aar/41e1b64bf5277d28ef571e16f6f192f1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.0] /opt/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-12.0.0.aar/41e1b64bf5277d28ef571e16f6f192f1/AndroidManifest.xml:23:5-67
 	android:name
-		ADDED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml:4:22-64
+		ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:4:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml:5:5-79
-MERGED from [com.google.android.gms:play-services-ads-lite:12.0.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-12.0.0.aar\4ae97ee1c38b99ecd4448a0d20282740\AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-ads-lite:12.0.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-12.0.0.aar\4ae97ee1c38b99ecd4448a0d20282740\AndroidManifest.xml:24:5-79
+ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:5:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.0] /opt/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-12.0.0.aar/41e1b64bf5277d28ef571e16f6f192f1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.0] /opt/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-12.0.0.aar/41e1b64bf5277d28ef571e16f6f192f1/AndroidManifest.xml:24:5-79
 	android:name
-		ADDED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml:5:22-76
+		ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:5:22-76
 application
-ADDED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml:7:5-39:19
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\7bd073865cad1621ad56d580805f81c1\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\7bd073865cad1621ad56d580805f81c1\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\e96a29a0ddaa903b2cb6a83542da9d26\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\e96a29a0ddaa903b2cb6a83542da9d26\AndroidManifest.xml:25:5-29:19
-MERGED from [com.google.android.gms:play-services-ads-lite:12.0.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-12.0.0.aar\4ae97ee1c38b99ecd4448a0d20282740\AndroidManifest.xml:26:5-34:19
-MERGED from [com.google.android.gms:play-services-ads-lite:12.0.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-12.0.0.aar\4ae97ee1c38b99ecd4448a0d20282740\AndroidManifest.xml:26:5-34:19
-MERGED from [com.google.android.gms:play-services-gass:12.0.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\play-services-gass-12.0.0.aar\34560eaafe40d809f8dabbd6a1894833\AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-gass:12.0.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\play-services-gass-12.0.0.aar\34560eaafe40d809f8dabbd6a1894833\AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-basement:12.0.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.0.aar\2ff1f7bb392240f3cea9a9099c4a7dba\AndroidManifest.xml:22:5-26:19
-MERGED from [com.google.android.gms:play-services-basement:12.0.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.0.aar\2ff1f7bb392240f3cea9a9099c4a7dba\AndroidManifest.xml:22:5-26:19
-MERGED from [com.google.android.gms:play-services-ads-license:12.0.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\play-services-ads-license-12.0.0.aar\72d7254a0e8fa5c83fde50080afd0a13\AndroidManifest.xml:5:5-6:19
-MERGED from [com.google.android.gms:play-services-ads-license:12.0.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\play-services-ads-license-12.0.0.aar\72d7254a0e8fa5c83fde50080afd0a13\AndroidManifest.xml:5:5-6:19
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\50892949dca26d1ee773d0c9c52c23db\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\50892949dca26d1ee773d0c9c52c23db\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\9645ac287ea92c79259fa2141d1809dc\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\9645ac287ea92c79259fa2141d1809dc\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\ca6deda42f3c2d5871142326f284961a\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\ca6deda42f3c2d5871142326f284961a\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\007b8ea8a63f707ce89317a6e746262b\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\007b8ea8a63f707ce89317a6e746262b\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\f3500d8a7ed9447006c46dffa53c7c6b\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\f3500d8a7ed9447006c46dffa53c7c6b\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\c46b6ae8f44d6cfa40d169d2def902be\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\c46b6ae8f44d6cfa40d169d2def902be\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\47e1b9639485147cec15eca5bba2f920\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\47e1b9639485147cec15eca5bba2f920\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-compat:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\e4eb46fe62fd87d38145327a1b731c05\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-compat:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\e4eb46fe62fd87d38145327a1b731c05\AndroidManifest.xml:25:5-29:19
-MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-license-12.0.0.aar\16c8fc0ba9943aa1589012d3f53ca26c\AndroidManifest.xml:5:5-6:19
-MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-license-12.0.0.aar\16c8fc0ba9943aa1589012d3f53ca26c\AndroidManifest.xml:5:5-6:19
-MERGED from [com.google.android.gms:play-services-basement-license:12.0.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-12.0.0.aar\b2c8eee293cd021cc6553159b93144ee\AndroidManifest.xml:5:5-6:19
-MERGED from [com.google.android.gms:play-services-basement-license:12.0.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-12.0.0.aar\b2c8eee293cd021cc6553159b93144ee\AndroidManifest.xml:5:5-6:19
-MERGED from [com.google.android.gms:play-services-gass-license:12.0.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\play-services-gass-license-12.0.0.aar\c82dc818716a941cb24d4ab21ecbc948\AndroidManifest.xml:5:5-6:19
-MERGED from [com.google.android.gms:play-services-gass-license:12.0.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\play-services-gass-license-12.0.0.aar\c82dc818716a941cb24d4ab21ecbc948\AndroidManifest.xml:5:5-6:19
-MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\275b72561ba4003364f9acc4fc41c283\AndroidManifest.xml:24:5-28:19
-MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\275b72561ba4003364f9acc4fc41c283\AndroidManifest.xml:24:5-28:19
+ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:7:5-40:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/alunos/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/72fbd25f6395599624fbe985157d6e09/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/alunos/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/72fbd25f6395599624fbe985157d6e09/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:appcompat-v7:26.1.0] /opt/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a909068465cbbdeea447dd40cf46a3da/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /opt/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a909068465cbbdeea447dd40cf46a3da/AndroidManifest.xml:25:5-29:19
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.0] /opt/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-12.0.0.aar/41e1b64bf5277d28ef571e16f6f192f1/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.0] /opt/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-12.0.0.aar/41e1b64bf5277d28ef571e16f6f192f1/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-gass:12.0.0] /opt/.gradle/caches/transforms-1/files-1.1/play-services-gass-12.0.0.aar/430f2993fa09cea107ade52842d225ef/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-gass:12.0.0] /opt/.gradle/caches/transforms-1/files-1.1/play-services-gass-12.0.0.aar/430f2993fa09cea107ade52842d225ef/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:12.0.0] /opt/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.0.aar/a291163382266580ae9cf84c4b6f1fbb/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:12.0.0] /opt/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.0.aar/a291163382266580ae9cf84c4b6f1fbb/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-ads-license:12.0.0] /opt/.gradle/caches/transforms-1/files-1.1/play-services-ads-license-12.0.0.aar/e4b6360e6dbe09b0787b17e03812efbe/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-ads-license:12.0.0] /opt/.gradle/caches/transforms-1/files-1.1/play-services-ads-license-12.0.0.aar/e4b6360e6dbe09b0787b17e03812efbe/AndroidManifest.xml:5:5-6:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /opt/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/101390e8e16e08aed831ee99f619bb00/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /opt/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/101390e8e16e08aed831ee99f619bb00/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /opt/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/fc3578e7ec26d8546dd6b6c9a15a2c11/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /opt/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/fc3578e7ec26d8546dd6b6c9a15a2c11/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /opt/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/8d0773f0847685a3fa851c3e07c6b8f9/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /opt/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/8d0773f0847685a3fa851c3e07c6b8f9/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /opt/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/138812473b6a62472f3e92117cda6c9d/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /opt/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/138812473b6a62472f3e92117cda6c9d/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /opt/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/bf7d4bc8152af4a225aab0594c028c6b/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /opt/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/bf7d4bc8152af4a225aab0594c028c6b/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /opt/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/c497029650868ffb47ccfa72fb45c945/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /opt/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/c497029650868ffb47ccfa72fb45c945/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /opt/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/6d9cd088ebbe6d574880b4b18aa73c92/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /opt/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/6d9cd088ebbe6d574880b4b18aa73c92/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /opt/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/e2835a944a6ee0aa64925a97e075d634/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /opt/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/e2835a944a6ee0aa64925a97e075d634/AndroidManifest.xml:25:5-29:19
+MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.0] /opt/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-license-12.0.0.aar/fdf710aaa88a8ee0f74fdd71799096ea/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.0] /opt/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-license-12.0.0.aar/fdf710aaa88a8ee0f74fdd71799096ea/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.0] /opt/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.0.aar/5ae7c29ae19309421e152ad86859696f/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.0] /opt/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.0.aar/5ae7c29ae19309421e152ad86859696f/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-gass-license:12.0.0] /opt/.gradle/caches/transforms-1/files-1.1/play-services-gass-license-12.0.0.aar/850015ece902054cc9cc87ebd68a5d8c/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-gass-license:12.0.0] /opt/.gradle/caches/transforms-1/files-1.1/play-services-gass-license-12.0.0.aar/850015ece902054cc9cc87ebd68a5d8c/AndroidManifest.xml:5:5-6:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /opt/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/e53d9e606071d89f39b9e737453fbb99/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /opt/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/e53d9e606071d89f39b9e737453fbb99/AndroidManifest.xml:24:5-28:19
 	android:supportsRtl
-		ADDED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml:12:9-35
+		ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:12:9-35
 	android:label
-		ADDED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml:10:9-41
+		ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:10:9-41
 	android:roundIcon
-		ADDED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml:11:9-54
+		ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:11:9-54
 	android:icon
-		ADDED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml:9:9-43
+		ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:9:9-43
 	android:allowBackup
-		ADDED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml:8:9-35
+		ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:8:9-35
 	android:theme
-		ADDED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml:13:9-40
-activity#br.com.tabuada.MainActivity
-ADDED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml:15:9-21:20
-	android:screenOrientation
-		ADDED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml:15:48-84
+		ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:13:9-40
+activity#br.com.tabuada.TelaInicial
+ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:15:9-21:20
 	android:name
-		ADDED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml:15:19-47
+		ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:15:19-46
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml:16:13-20:29
+ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:16:13-20:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml:17:17-69
+ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:17:17-69
 	android:name
-		ADDED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml:17:25-66
+		ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:17:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml:19:17-77
+ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:19:17-77
 	android:name
-		ADDED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml:19:27-74
+		ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:19:27-74
+activity#br.com.tabuada.MainActivity
+ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:22:9-126
+	android:screenOrientation
+		ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:22:88-124
+	android:windowSoftInputMode
+		ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:22:48-87
+	android:name
+		ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:22:19-47
 activity#br.com.tabuada.Praticar
-ADDED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml:22:9-122
+ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:23:9-122
 	android:screenOrientation
-		ADDED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml:22:84-120
+		ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:23:84-120
 	android:windowSoftInputMode
-		ADDED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml:22:44-83
+		ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:23:44-83
 	android:name
-		ADDED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml:22:19-43
+		ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:23:19-43
 activity#br.com.tabuada.Aprender
-ADDED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml:23:9-122
+ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:24:9-122
 	android:screenOrientation
-		ADDED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml:23:84-120
+		ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:24:84-120
 	android:windowSoftInputMode
-		ADDED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml:23:44-83
+		ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:24:44-83
 	android:name
-		ADDED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml:23:19-43
+		ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:24:19-43
 activity#br.com.tabuada.Tabuada1
-ADDED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml:24:9-122
+ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:25:9-122
 	android:screenOrientation
-		ADDED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml:24:84-120
+		ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:25:84-120
 	android:windowSoftInputMode
-		ADDED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml:24:44-83
+		ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:25:44-83
 	android:name
-		ADDED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml:24:19-43
+		ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:25:19-43
 activity#br.com.tabuada.Tabuada2
-ADDED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml:25:9-122
+ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:26:9-122
 	android:screenOrientation
-		ADDED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml:25:84-120
+		ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:26:84-120
 	android:windowSoftInputMode
-		ADDED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml:25:44-83
+		ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:26:44-83
 	android:name
-		ADDED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml:25:19-43
+		ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:26:19-43
 activity#br.com.tabuada.Tabuada3
-ADDED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml:26:9-122
+ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:27:9-122
 	android:screenOrientation
-		ADDED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml:26:84-120
+		ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:27:84-120
 	android:windowSoftInputMode
-		ADDED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml:26:44-83
+		ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:27:44-83
 	android:name
-		ADDED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml:26:19-43
+		ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:27:19-43
 activity#br.com.tabuada.Tabuada4
-ADDED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml:27:9-122
+ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:28:9-122
 	android:screenOrientation
-		ADDED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml:27:84-120
+		ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:28:84-120
 	android:windowSoftInputMode
-		ADDED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml:27:44-83
+		ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:28:44-83
 	android:name
-		ADDED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml:27:19-43
+		ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:28:19-43
 activity#br.com.tabuada.Tabuada5
-ADDED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml:28:9-122
+ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:29:9-122
 	android:screenOrientation
-		ADDED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml:28:84-120
+		ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:29:84-120
 	android:windowSoftInputMode
-		ADDED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml:28:44-83
+		ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:29:44-83
 	android:name
-		ADDED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml:28:19-43
+		ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:29:19-43
 activity#br.com.tabuada.Tabuada6
-ADDED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml:29:9-122
+ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:30:9-122
 	android:screenOrientation
-		ADDED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml:29:84-120
+		ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:30:84-120
 	android:windowSoftInputMode
-		ADDED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml:29:44-83
+		ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:30:44-83
 	android:name
-		ADDED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml:29:19-43
+		ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:30:19-43
 activity#br.com.tabuada.Tabuada7
-ADDED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml:30:9-122
+ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:31:9-122
 	android:screenOrientation
-		ADDED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml:30:84-120
+		ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:31:84-120
 	android:windowSoftInputMode
-		ADDED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml:30:44-83
+		ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:31:44-83
 	android:name
-		ADDED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml:30:19-43
+		ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:31:19-43
 activity#br.com.tabuada.Tabuada10
-ADDED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml:31:9-123
+ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:32:9-123
 	android:screenOrientation
-		ADDED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml:31:85-121
+		ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:32:85-121
 	android:windowSoftInputMode
-		ADDED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml:31:45-84
+		ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:32:45-84
 	android:name
-		ADDED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml:31:19-44
+		ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:32:19-44
 activity#br.com.tabuada.Tabuada8
-ADDED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml:32:9-122
+ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:33:9-122
 	android:screenOrientation
-		ADDED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml:32:84-120
+		ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:33:84-120
 	android:windowSoftInputMode
-		ADDED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml:32:44-83
+		ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:33:44-83
 	android:name
-		ADDED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml:32:19-43
+		ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:33:19-43
 activity#br.com.tabuada.Tabuada9
-ADDED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml:33:9-122
+ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:34:9-122
 	android:screenOrientation
-		ADDED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml:33:84-120
+		ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:34:84-120
 	android:windowSoftInputMode
-		ADDED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml:33:44-83
+		ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:34:44-83
 	android:name
-		ADDED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml:33:19-43
+		ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:34:19-43
 activity#br.com.tabuada.Modozen
-ADDED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml:34:9-121
+ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:35:9-121
 	android:screenOrientation
-		ADDED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml:34:83-119
+		ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:35:83-119
 	android:windowSoftInputMode
-		ADDED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml:34:43-82
+		ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:35:43-82
 	android:name
-		ADDED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml:34:19-42
+		ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:35:19-42
 activity#br.com.tabuada.FinalQuizTempo
-ADDED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml:36:9-128
+ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:37:9-128
 	android:screenOrientation
-		ADDED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml:36:90-126
+		ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:37:90-126
 	android:windowSoftInputMode
-		ADDED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml:36:50-89
+		ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:37:50-89
 	android:name
-		ADDED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml:36:19-49
+		ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:37:19-49
 activity#br.com.tabuada.FinalQuizZen
-ADDED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml:37:9-126
+ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:38:9-126
 	android:screenOrientation
-		ADDED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml:37:88-124
+		ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:38:88-124
 	android:windowSoftInputMode
-		ADDED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml:37:48-87
+		ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:38:48-87
 	android:name
-		ADDED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml:37:19-47
+		ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:38:19-47
 activity#br.com.tabuada.Modoquiz
-ADDED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml:38:9-132
+ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:39:9-132
 	android:screenOrientation
-		ADDED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml:38:84-120
+		ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:39:84-120
 	android:windowSoftInputMode
-		ADDED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml:38:44-83
+		ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:39:44-83
 	android:name
-		ADDED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml:38:19-43
+		ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:39:19-43
 uses-sdk
-INJECTED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml
-MERGED from [com.google.android.gms:play-services-ads:12.0.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\play-services-ads-12.0.0.aar\6acc80a243e22bfdf5c2b9647136aa5c\AndroidManifest.xml:21:5-23:62
-MERGED from [com.google.android.gms:play-services-ads:12.0.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\play-services-ads-12.0.0.aar\6acc80a243e22bfdf5c2b9647136aa5c\AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\7bd073865cad1621ad56d580805f81c1\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\7bd073865cad1621ad56d580805f81c1\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\e96a29a0ddaa903b2cb6a83542da9d26\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\e96a29a0ddaa903b2cb6a83542da9d26\AndroidManifest.xml:21:5-23:78
-MERGED from [com.google.android.gms:play-services-ads-lite:12.0.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-12.0.0.aar\4ae97ee1c38b99ecd4448a0d20282740\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-ads-lite:12.0.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-12.0.0.aar\4ae97ee1c38b99ecd4448a0d20282740\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-gass:12.0.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\play-services-gass-12.0.0.aar\34560eaafe40d809f8dabbd6a1894833\AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-gass:12.0.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\play-services-gass-12.0.0.aar\34560eaafe40d809f8dabbd6a1894833\AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-basement:12.0.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.0.aar\2ff1f7bb392240f3cea9a9099c4a7dba\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-basement:12.0.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.0.aar\2ff1f7bb392240f3cea9a9099c4a7dba\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\50892949dca26d1ee773d0c9c52c23db\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\50892949dca26d1ee773d0c9c52c23db\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\9645ac287ea92c79259fa2141d1809dc\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\9645ac287ea92c79259fa2141d1809dc\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\ca6deda42f3c2d5871142326f284961a\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\ca6deda42f3c2d5871142326f284961a\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\007b8ea8a63f707ce89317a6e746262b\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\007b8ea8a63f707ce89317a6e746262b\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\f3500d8a7ed9447006c46dffa53c7c6b\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\f3500d8a7ed9447006c46dffa53c7c6b\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\c46b6ae8f44d6cfa40d169d2def902be\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\c46b6ae8f44d6cfa40d169d2def902be\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\47e1b9639485147cec15eca5bba2f920\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\47e1b9639485147cec15eca5bba2f920\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\e4eb46fe62fd87d38145327a1b731c05\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\e4eb46fe62fd87d38145327a1b731c05\AndroidManifest.xml:21:5-23:58
-MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\275b72561ba4003364f9acc4fc41c283\AndroidManifest.xml:20:5-22:41
-MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\275b72561ba4003364f9acc4fc41c283\AndroidManifest.xml:20:5-22:41
-INJECTED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml
+INJECTED from /home/www/Tabuada/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/www/Tabuada/app/src/main/AndroidManifest.xml
+INJECTED from /home/www/Tabuada/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.gms:play-services-ads:12.0.0] /opt/.gradle/caches/transforms-1/files-1.1/play-services-ads-12.0.0.aar/a284bf81cdd2ee59a6eba5df9450623a/AndroidManifest.xml:21:5-23:62
+MERGED from [com.google.android.gms:play-services-ads:12.0.0] /opt/.gradle/caches/transforms-1/files-1.1/play-services-ads-12.0.0.aar/a284bf81cdd2ee59a6eba5df9450623a/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/alunos/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/72fbd25f6395599624fbe985157d6e09/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/alunos/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/72fbd25f6395599624fbe985157d6e09/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:appcompat-v7:26.1.0] /opt/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a909068465cbbdeea447dd40cf46a3da/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /opt/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a909068465cbbdeea447dd40cf46a3da/AndroidManifest.xml:21:5-23:78
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.0] /opt/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-12.0.0.aar/41e1b64bf5277d28ef571e16f6f192f1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.0] /opt/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-12.0.0.aar/41e1b64bf5277d28ef571e16f6f192f1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gass:12.0.0] /opt/.gradle/caches/transforms-1/files-1.1/play-services-gass-12.0.0.aar/430f2993fa09cea107ade52842d225ef/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:12.0.0] /opt/.gradle/caches/transforms-1/files-1.1/play-services-gass-12.0.0.aar/430f2993fa09cea107ade52842d225ef/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:12.0.0] /opt/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.0.aar/a291163382266580ae9cf84c4b6f1fbb/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:12.0.0] /opt/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.0.aar/a291163382266580ae9cf84c4b6f1fbb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /opt/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/101390e8e16e08aed831ee99f619bb00/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /opt/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/101390e8e16e08aed831ee99f619bb00/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /opt/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/fc3578e7ec26d8546dd6b6c9a15a2c11/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /opt/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/fc3578e7ec26d8546dd6b6c9a15a2c11/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /opt/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/8d0773f0847685a3fa851c3e07c6b8f9/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /opt/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/8d0773f0847685a3fa851c3e07c6b8f9/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /opt/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/138812473b6a62472f3e92117cda6c9d/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /opt/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/138812473b6a62472f3e92117cda6c9d/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /opt/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/bf7d4bc8152af4a225aab0594c028c6b/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /opt/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/bf7d4bc8152af4a225aab0594c028c6b/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /opt/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/c497029650868ffb47ccfa72fb45c945/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /opt/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/c497029650868ffb47ccfa72fb45c945/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] /opt/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/6d9cd088ebbe6d574880b4b18aa73c92/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /opt/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/6d9cd088ebbe6d574880b4b18aa73c92/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /opt/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/e2835a944a6ee0aa64925a97e075d634/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /opt/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/e2835a944a6ee0aa64925a97e075d634/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /opt/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/e53d9e606071d89f39b9e737453fbb99/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /opt/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/e53d9e606071d89f39b9e737453fbb99/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/www/Tabuada/app/src/main/AndroidManifest.xml
+INJECTED from /home/www/Tabuada/app/src/main/AndroidManifest.xml
 	tools:overrideLibrary
-		ADDED from [com.google.android.gms:play-services-ads:12.0.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\play-services-ads-12.0.0.aar\6acc80a243e22bfdf5c2b9647136aa5c\AndroidManifest.xml:23:9-59
+		ADDED from [com.google.android.gms:play-services-ads:12.0.0] /opt/.gradle/caches/transforms-1/files-1.1/play-services-ads-12.0.0.aar/a284bf81cdd2ee59a6eba5df9450623a/AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
-		INJECTED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml
+		INJECTED from /home/www/Tabuada/app/src/main/AndroidManifest.xml
+		ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml
+		INJECTED from /home/www/Tabuada/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml
+		INJECTED from /home/www/Tabuada/app/src/main/AndroidManifest.xml
+		ADDED from /home/www/Tabuada/app/src/main/AndroidManifest.xml
+		INJECTED from /home/www/Tabuada/app/src/main/AndroidManifest.xml
 meta-data#android.support.VERSION
-ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\e96a29a0ddaa903b2cb6a83542da9d26\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\50892949dca26d1ee773d0c9c52c23db\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\50892949dca26d1ee773d0c9c52c23db\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\9645ac287ea92c79259fa2141d1809dc\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\9645ac287ea92c79259fa2141d1809dc\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\ca6deda42f3c2d5871142326f284961a\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\ca6deda42f3c2d5871142326f284961a\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\007b8ea8a63f707ce89317a6e746262b\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\007b8ea8a63f707ce89317a6e746262b\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\f3500d8a7ed9447006c46dffa53c7c6b\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\f3500d8a7ed9447006c46dffa53c7c6b\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\c46b6ae8f44d6cfa40d169d2def902be\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\c46b6ae8f44d6cfa40d169d2def902be\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\47e1b9639485147cec15eca5bba2f920\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\47e1b9639485147cec15eca5bba2f920\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-compat:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\e4eb46fe62fd87d38145327a1b731c05\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-compat:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\e4eb46fe62fd87d38145327a1b731c05\AndroidManifest.xml:26:9-28:38
+ADDED from [com.android.support:appcompat-v7:26.1.0] /opt/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a909068465cbbdeea447dd40cf46a3da/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /opt/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/101390e8e16e08aed831ee99f619bb00/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /opt/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/101390e8e16e08aed831ee99f619bb00/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /opt/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/fc3578e7ec26d8546dd6b6c9a15a2c11/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /opt/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/fc3578e7ec26d8546dd6b6c9a15a2c11/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /opt/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/8d0773f0847685a3fa851c3e07c6b8f9/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /opt/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/8d0773f0847685a3fa851c3e07c6b8f9/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /opt/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/138812473b6a62472f3e92117cda6c9d/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /opt/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/138812473b6a62472f3e92117cda6c9d/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /opt/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/bf7d4bc8152af4a225aab0594c028c6b/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /opt/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/bf7d4bc8152af4a225aab0594c028c6b/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /opt/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/c497029650868ffb47ccfa72fb45c945/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /opt/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/c497029650868ffb47ccfa72fb45c945/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /opt/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/6d9cd088ebbe6d574880b4b18aa73c92/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /opt/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/6d9cd088ebbe6d574880b4b18aa73c92/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /opt/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/e2835a944a6ee0aa64925a97e075d634/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /opt/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/e2835a944a6ee0aa64925a97e075d634/AndroidManifest.xml:26:9-28:38
 	android:value
-		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\e96a29a0ddaa903b2cb6a83542da9d26\AndroidManifest.xml:28:13-35
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /opt/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a909068465cbbdeea447dd40cf46a3da/AndroidManifest.xml:28:13-35
 	android:name
-		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\e96a29a0ddaa903b2cb6a83542da9d26\AndroidManifest.xml:27:13-51
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /opt/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a909068465cbbdeea447dd40cf46a3da/AndroidManifest.xml:27:13-51
 activity#com.google.android.gms.ads.AdActivity
-ADDED from [com.google.android.gms:play-services-ads-lite:12.0.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-12.0.0.aar\4ae97ee1c38b99ecd4448a0d20282740\AndroidManifest.xml:29:9-33:64
+ADDED from [com.google.android.gms:play-services-ads-lite:12.0.0] /opt/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-12.0.0.aar/41e1b64bf5277d28ef571e16f6f192f1/AndroidManifest.xml:29:9-33:64
 	android:exported
-		ADDED from [com.google.android.gms:play-services-ads-lite:12.0.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-12.0.0.aar\4ae97ee1c38b99ecd4448a0d20282740\AndroidManifest.xml:32:13-37
+		ADDED from [com.google.android.gms:play-services-ads-lite:12.0.0] /opt/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-12.0.0.aar/41e1b64bf5277d28ef571e16f6f192f1/AndroidManifest.xml:32:13-37
 	android:configChanges
-		ADDED from [com.google.android.gms:play-services-ads-lite:12.0.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-12.0.0.aar\4ae97ee1c38b99ecd4448a0d20282740\AndroidManifest.xml:31:13-122
+		ADDED from [com.google.android.gms:play-services-ads-lite:12.0.0] /opt/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-12.0.0.aar/41e1b64bf5277d28ef571e16f6f192f1/AndroidManifest.xml:31:13-122
 	android:theme
-		ADDED from [com.google.android.gms:play-services-ads-lite:12.0.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-12.0.0.aar\4ae97ee1c38b99ecd4448a0d20282740\AndroidManifest.xml:33:13-61
+		ADDED from [com.google.android.gms:play-services-ads-lite:12.0.0] /opt/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-12.0.0.aar/41e1b64bf5277d28ef571e16f6f192f1/AndroidManifest.xml:33:13-61
 	android:name
-		ADDED from [com.google.android.gms:play-services-ads-lite:12.0.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-12.0.0.aar\4ae97ee1c38b99ecd4448a0d20282740\AndroidManifest.xml:30:13-65
+		ADDED from [com.google.android.gms:play-services-ads-lite:12.0.0] /opt/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-12.0.0.aar/41e1b64bf5277d28ef571e16f6f192f1/AndroidManifest.xml:30:13-65
 meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:12.0.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.0.aar\2ff1f7bb392240f3cea9a9099c4a7dba\AndroidManifest.xml:23:9-25:69
+ADDED from [com.google.android.gms:play-services-basement:12.0.0] /opt/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.0.aar/a291163382266580ae9cf84c4b6f1fbb/AndroidManifest.xml:23:9-25:69
 	android:value
-		ADDED from [com.google.android.gms:play-services-basement:12.0.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.0.aar\2ff1f7bb392240f3cea9a9099c4a7dba\AndroidManifest.xml:25:13-66
+		ADDED from [com.google.android.gms:play-services-basement:12.0.0] /opt/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.0.aar/a291163382266580ae9cf84c4b6f1fbb/AndroidManifest.xml:25:13-66
 	android:name
-		ADDED from [com.google.android.gms:play-services-basement:12.0.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.0.aar\2ff1f7bb392240f3cea9a9099c4a7dba\AndroidManifest.xml:24:13-58
+		ADDED from [com.google.android.gms:play-services-basement:12.0.0] /opt/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.0.aar/a291163382266580ae9cf84c4b6f1fbb/AndroidManifest.xml:24:13-58
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-IMPLIED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml:2:1-41:12 reason: com.google.android.gms.license has a targetSdkVersion < 4
+IMPLIED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:2:1-42:12 reason: com.google.android.gms.license has a targetSdkVersion < 4
 uses-permission#android.permission.READ_PHONE_STATE
-IMPLIED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml:2:1-41:12 reason: com.google.android.gms.license has a targetSdkVersion < 4
+IMPLIED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:2:1-42:12 reason: com.google.android.gms.license has a targetSdkVersion < 4
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-IMPLIED from C:\Users\VictorGustavo\Desktop\Tabuada\app\src\main\AndroidManifest.xml:2:1-41:12 reason: com.google.android.gms.license requested WRITE_EXTERNAL_STORAGE
+IMPLIED from /home/www/Tabuada/app/src/main/AndroidManifest.xml:2:1-42:12 reason: com.google.android.gms.license requested WRITE_EXTERNAL_STORAGE
 meta-data#android.arch.lifecycle.VERSION
-ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\275b72561ba4003364f9acc4fc41c283\AndroidManifest.xml:25:9-27:47
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /opt/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/e53d9e606071d89f39b9e737453fbb99/AndroidManifest.xml:25:9-27:47
 	android:value
-		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\275b72561ba4003364f9acc4fc41c283\AndroidManifest.xml:27:13-44
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /opt/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/e53d9e606071d89f39b9e737453fbb99/AndroidManifest.xml:27:13-44
 	android:name
-		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\275b72561ba4003364f9acc4fc41c283\AndroidManifest.xml:26:13-58
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /opt/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/e53d9e606071d89f39b9e737453fbb99/AndroidManifest.xml:26:13-58

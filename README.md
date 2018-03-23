@@ -42,3 +42,4 @@
 
 - Edições para correção do Layout
 - Toques finais no código
+- Splash & modais
