@@ -1,4 +1,4 @@
-# Patch Notes v1.8
+# Patch Notes v1.9
 
 **v1.0**
 
@@ -43,3 +43,7 @@
 - Edições para correção do Layout
 - Toques finais no código
 - Splash & modais
+
+**v1.9**
+
+- Correção no bug do quiz

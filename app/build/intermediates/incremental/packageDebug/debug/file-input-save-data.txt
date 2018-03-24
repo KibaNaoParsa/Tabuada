@@ -1,11 +1,11 @@
 #Internal package file, do not edit.
-#Fri Mar 23 17:40:18 BRT 2018
-1.base=/home/www/Tabuada/app/build/intermediates/assets/debug
+#Sat Mar 24 10:39:37 BRT 2018
+1.base=/var/www/html/Tabuada/app/build/intermediates/assets/debug
 0.baseType=DIRECTORY
 1.baseType=DIRECTORY
 count=2
 1.set=ASSET
 0.path=classes.dex
 0.set=DEX
-0.base=/home/www/Tabuada/app/build/intermediates/transforms/dexMerger/debug/120
+0.base=/var/www/html/Tabuada/app/build/intermediates/transforms/dexMerger/debug/120
 1.path=fonts/myriad_pro_bold.ttf

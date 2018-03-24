@@ -14,8 +14,8 @@ import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.google.android.gms.ads.AdRequest;
-import com.google.android.gms.ads.InterstitialAd;
+//import com.google.android.gms.ads.AdRequest;
+//import com.google.android.gms.ads.InterstitialAd;
 
 import java.util.Random;
 
@@ -132,6 +132,8 @@ public class Modoquiz extends Activity {
 
                 } else {
 
+                    contador.cancel();
+
                     perguntas += 1;
 
                     res.putInt("pontos", pontos);
@@ -174,6 +176,8 @@ public class Modoquiz extends Activity {
                     }
 
                 } else {
+
+                    contador.cancel();
 
                     perguntas += 1;
 
@@ -218,6 +222,8 @@ public class Modoquiz extends Activity {
                     }
                 } else {
 
+                    contador.cancel();
+
                     perguntas += 1;
 
                     res.putInt("pontos", pontos);
@@ -260,6 +266,8 @@ public class Modoquiz extends Activity {
                     }
 
                 } else {
+
+                    contador.cancel();
 
                     perguntas += 1;
 

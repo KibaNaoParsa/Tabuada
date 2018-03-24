@@ -13,12 +13,12 @@ public final class R {
         public static final int adUnitId = 0x7f020024;
     }
     public static final class id {
-        public static final int none = 0x7f070080;
-        public static final int normal = 0x7f070081;
-        public static final int radio = 0x7f070094;
-        public static final int text = 0x7f0700b9;
-        public static final int text2 = 0x7f0700ba;
-        public static final int wrap_content = 0x7f0700ce;
+        public static final int none = 0x7f07007f;
+        public static final int normal = 0x7f070080;
+        public static final int radio = 0x7f070093;
+        public static final int text = 0x7f0700b8;
+        public static final int text2 = 0x7f0700b9;
+        public static final int wrap_content = 0x7f0700cd;
     }
     public static final class integer {
         public static final int google_play_services_version = 0x7f080004;

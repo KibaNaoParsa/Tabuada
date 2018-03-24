@@ -9,8 +9,8 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
 
-import com.google.android.gms.ads.AdRequest;
-import com.google.android.gms.ads.InterstitialAd;
+//import com.google.android.gms.ads.AdRequest;
+//import com.google.android.gms.ads.InterstitialAd;
 
 /**
  * Created by alunos on 12/03/18.
@@ -23,7 +23,7 @@ public class FinalQuizZen extends Activity {
     Button btnRepetir, btnFinalizar;
     Intent fim, repetir;
     int perguntas, acertos;
-    InterstitialAd mInterstitialAd;
+    //InterstitialAd mInterstitialAd;
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
@@ -32,10 +32,10 @@ public class FinalQuizZen extends Activity {
 
         res = getIntent();
 
-        mInterstitialAd = new InterstitialAd(this);
+        /*mInterstitialAd = new InterstitialAd(this);
         mInterstitialAd.setAdUnitId("ca-app-pub-3940256099942544/1033173712");
         mInterstitialAd.loadAd(new AdRequest.Builder().build());
-
+        */
         perguntas = res.getIntExtra("perguntas", 0);
         acertos = res.getIntExtra("acertos", 0);
 
@@ -56,11 +56,13 @@ public class FinalQuizZen extends Activity {
 
                 startActivity(repetir);
 
+                /*
                 if (mInterstitialAd.isLoaded()) {
                     mInterstitialAd.show();
                 } else {
                     Log.d("TAG", "The interstitial wasn't loaded yet.");
                 }
+                */
 
             }
         });
@@ -70,11 +72,14 @@ public class FinalQuizZen extends Activity {
             public void onClick(View view) {
 
                 startActivity(fim);
+
+                /*
                 if (mInterstitialAd.isLoaded()) {
                     mInterstitialAd.show();
                 } else {
                     Log.d("TAG", "The interstitial wasn't loaded yet.");
                 }
+                */
 
 
             }

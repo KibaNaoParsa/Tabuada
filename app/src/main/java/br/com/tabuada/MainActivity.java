@@ -7,7 +7,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
-import com.google.android.gms.ads.MobileAds;
+//import com.google.android.gms.ads.MobileAds;
 
 public class MainActivity extends Activity {
 
@@ -32,7 +32,7 @@ public class MainActivity extends Activity {
             }
         });
 
-        MobileAds.initialize(this, "ca-app-pub-1594606495855009~8765999583");
+        //MobileAds.initialize(this, "ca-app-pub-1594606495855009~8765999583");
 
         // Tabuada do 1
 

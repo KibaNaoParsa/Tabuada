@@ -14,8 +14,8 @@ import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.google.android.gms.ads.AdRequest;
-import com.google.android.gms.ads.AdView;
+//import com.google.android.gms.ads.AdRequest;
+//import com.google.android.gms.ads.AdView;
 
 import java.util.Random;
 
@@ -30,7 +30,7 @@ public class Modozen extends Activity {
     Button btnResponder;
     Intent it, voltar, continuar;
     int perguntas, acertos;
-    AdView mAdView;
+    //AdView mAdView;
 
     Bundle info;
 
@@ -40,9 +40,10 @@ public class Modozen extends Activity {
         setContentView(R.layout.activity_modozen);
 
 
-        mAdView = (AdView) findViewById(R.id.adView);
+        /*mAdView = (AdView) findViewById(R.id.adView);
         AdRequest adRequest = new AdRequest.Builder().build();
         mAdView.loadAd(adRequest);
+        */
 
         int orient=this.getResources().getConfiguration().orientation;
 
