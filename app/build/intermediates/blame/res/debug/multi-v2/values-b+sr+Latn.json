@@ -359,24 +359,7 @@
             "outputFile": "/var/www/html/Tabuada/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-b+sr+Latn/values-b+sr+Latn.xml",
             "map": [
                 {
-                    "source": "/home/elyas/.gradle/caches/transforms-1/files-1.1/play-services-ads-12.0.0.aar/11deb89b9be518a0aa048e1c2f5bb6e3/res/values-b+sr+Latn/values.xml",
-                    "from": {
-                        "startLines": "4,5,6,7,8,9,10",
-                        "startColumns": "0,0,0,0,0,0,0",
-                        "startOffsets": "206,276,396,462,525,614,732",
-                        "endColumns": "69,119,65,62,88,117,69",
-                        "endOffsets": "275,395,461,524,613,731,801"
-                    },
-                    "to": {
-                        "startLines": "22,23,24,25,26,27,28",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "2257,2331,2455,2525,2592,2685,2807",
-                        "endColumns": "73,123,69,66,92,121,73",
-                        "endOffsets": "2326,2450,2520,2587,2680,2802,2876"
-                    }
-                },
-                {
-                    "source": "/home/elyas/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.0.aar/43526ac80a7b2f149d394ed75f3debbe/res/values-b+sr+Latn/values.xml",
+                    "source": "/home/elyas/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/0ddb22ac7d44b01ef37ea920d5e30e20/res/values-b+sr+Latn/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -390,6 +373,23 @@
                         "startOffsets": "2068",
                         "endColumns": "188",
                         "endOffsets": "2252"
+                    }
+                },
+                {
+                    "source": "/home/elyas/.gradle/caches/transforms-1/files-1.1/play-services-ads-15.0.0.aar/f2d03402f312f2fa7a4e37c6db01ebec/res/values-b+sr+Latn/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10",
+                        "startColumns": "0,0,0,0,0,0,0",
+                        "startOffsets": "204,274,394,460,523,612,730",
+                        "endColumns": "69,119,65,62,88,117,69",
+                        "endOffsets": "273,393,459,522,611,729,799"
+                    },
+                    "to": {
+                        "startLines": "22,23,24,25,26,27,28",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "2257,2331,2455,2525,2592,2685,2807",
+                        "endColumns": "73,123,69,66,92,121,73",
+                        "endOffsets": "2326,2450,2520,2587,2680,2802,2876"
                     }
                 },
                 {

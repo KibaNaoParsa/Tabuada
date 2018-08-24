@@ -36,24 +36,7 @@
                     }
                 },
                 {
-                    "source": "/home/elyas/.gradle/caches/transforms-1/files-1.1/play-services-ads-12.0.0.aar/11deb89b9be518a0aa048e1c2f5bb6e3/res/values-ml/values.xml",
-                    "from": {
-                        "startLines": "4,5,6,7,8,9,10",
-                        "startColumns": "0,0,0,0,0,0,0",
-                        "startOffsets": "199,275,392,462,530,613,719",
-                        "endColumns": "75,116,69,67,82,105,76",
-                        "endOffsets": "274,391,461,529,612,718,795"
-                    },
-                    "to": {
-                        "startLines": "22,23,24,25,26,27,28",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "2341,2421,2542,2616,2688,2775,2885",
-                        "endColumns": "79,120,73,71,86,109,80",
-                        "endOffsets": "2416,2537,2611,2683,2770,2880,2961"
-                    }
-                },
-                {
-                    "source": "/home/elyas/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.0.aar/43526ac80a7b2f149d394ed75f3debbe/res/values-ml/values.xml",
+                    "source": "/home/elyas/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.0.aar/16ef4b7817934cc69de22fb52ec77f72/res/values-ml/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -67,6 +50,23 @@
                         "startOffsets": "2122",
                         "endColumns": "218",
                         "endOffsets": "2336"
+                    }
+                },
+                {
+                    "source": "/home/elyas/.gradle/caches/transforms-1/files-1.1/play-services-ads-15.0.0.aar/f2d03402f312f2fa7a4e37c6db01ebec/res/values-ml/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10",
+                        "startColumns": "0,0,0,0,0,0,0",
+                        "startOffsets": "197,273,390,460,528,611,717",
+                        "endColumns": "75,116,69,67,82,105,76",
+                        "endOffsets": "272,389,459,527,610,716,793"
+                    },
+                    "to": {
+                        "startLines": "22,23,24,25,26,27,28",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "2341,2421,2542,2616,2688,2775,2885",
+                        "endColumns": "79,120,73,71,86,109,80",
+                        "endOffsets": "2416,2537,2611,2683,2770,2880,2961"
                     }
                 }
             ]

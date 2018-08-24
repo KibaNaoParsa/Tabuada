@@ -275,13 +275,13 @@
                     }
                 },
                 {
-                    "source": "/home/elyas/.gradle/caches/transforms-1/files-1.1/play-services-ads-12.0.0.aar/11deb89b9be518a0aa048e1c2f5bb6e3/res/values-is/values.xml",
+                    "source": "/home/elyas/.gradle/caches/transforms-1/files-1.1/play-services-ads-15.0.0.aar/f2d03402f312f2fa7a4e37c6db01ebec/res/values-is/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10",
                         "startColumns": "0,0,0,0,0,0,0",
-                        "startOffsets": "199,266,370,437,500,581,683",
+                        "startOffsets": "197,264,368,435,498,579,681",
                         "endColumns": "66,103,66,62,80,101,73",
-                        "endOffsets": "265,369,436,499,580,682,756"
+                        "endOffsets": "263,367,434,497,578,680,754"
                     },
                     "to": {
                         "startLines": "22,23,24,25,26,27,28",
@@ -292,7 +292,7 @@
                     }
                 },
                 {
-                    "source": "/home/elyas/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.0.aar/43526ac80a7b2f149d394ed75f3debbe/res/values-is/values.xml",
+                    "source": "/home/elyas/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/0ddb22ac7d44b01ef37ea920d5e30e20/res/values-is/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",

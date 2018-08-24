@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sat Mar 24 10:39:37 BRT 2018
+#Tue Apr 24 14:44:39 BRT 2018
 1.base=/var/www/html/Tabuada/app/build/intermediates/assets/debug
 0.baseType=DIRECTORY
 1.baseType=DIRECTORY

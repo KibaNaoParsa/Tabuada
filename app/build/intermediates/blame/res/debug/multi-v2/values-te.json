@@ -314,7 +314,7 @@
             "outputFile": "/var/www/html/Tabuada/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-te/values-te.xml",
             "map": [
                 {
-                    "source": "/home/elyas/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.0.aar/43526ac80a7b2f149d394ed75f3debbe/res/values-te/values.xml",
+                    "source": "/home/elyas/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/0ddb22ac7d44b01ef37ea920d5e30e20/res/values-te/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -331,13 +331,13 @@
                     }
                 },
                 {
-                    "source": "/home/elyas/.gradle/caches/transforms-1/files-1.1/play-services-ads-12.0.0.aar/11deb89b9be518a0aa048e1c2f5bb6e3/res/values-te/values.xml",
+                    "source": "/home/elyas/.gradle/caches/transforms-1/files-1.1/play-services-ads-15.0.0.aar/f2d03402f312f2fa7a4e37c6db01ebec/res/values-te/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10",
                         "startColumns": "0,0,0,0,0,0,0",
-                        "startOffsets": "199,276,398,465,534,622,737",
+                        "startOffsets": "197,274,396,463,532,620,735",
                         "endColumns": "76,121,66,68,87,114,78",
-                        "endOffsets": "275,397,464,533,621,736,815"
+                        "endOffsets": "273,395,462,531,619,734,813"
                     },
                     "to": {
                         "startLines": "22,23,24,25,26,27,28",

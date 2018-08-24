@@ -19,6 +19,23 @@
             "outputFile": "/var/www/html/Tabuada/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-am/values-am.xml",
             "map": [
                 {
+                    "source": "/home/elyas/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.0.aar/16ef4b7817934cc69de22fb52ec77f72/res/values-am/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "190",
+                        "endOffsets": "437"
+                    },
+                    "to": {
+                        "startLines": "21",
+                        "startColumns": "4",
+                        "startOffsets": "1997",
+                        "endColumns": "190",
+                        "endOffsets": "2183"
+                    }
+                },
+                {
                     "source": "/home/elyas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/52610befddf3d8e1987cd01b8f14f484/res/values-am/values-am.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
@@ -36,30 +53,13 @@
                     }
                 },
                 {
-                    "source": "/home/elyas/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.0.aar/43526ac80a7b2f149d394ed75f3debbe/res/values-am/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "247",
-                        "endColumns": "190",
-                        "endOffsets": "437"
-                    },
-                    "to": {
-                        "startLines": "21",
-                        "startColumns": "4",
-                        "startOffsets": "1997",
-                        "endColumns": "190",
-                        "endOffsets": "2183"
-                    }
-                },
-                {
-                    "source": "/home/elyas/.gradle/caches/transforms-1/files-1.1/play-services-ads-12.0.0.aar/11deb89b9be518a0aa048e1c2f5bb6e3/res/values-am/values.xml",
+                    "source": "/home/elyas/.gradle/caches/transforms-1/files-1.1/play-services-ads-15.0.0.aar/f2d03402f312f2fa7a4e37c6db01ebec/res/values-am/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10",
                         "startColumns": "0,0,0,0,0,0,0",
-                        "startOffsets": "199,265,369,431,497,573,667",
+                        "startOffsets": "197,263,367,429,495,571,665",
                         "endColumns": "65,103,61,65,75,93,68",
-                        "endOffsets": "264,368,430,496,572,666,735"
+                        "endOffsets": "262,366,428,494,570,664,733"
                     },
                     "to": {
                         "startLines": "22,23,24,25,26,27,28",

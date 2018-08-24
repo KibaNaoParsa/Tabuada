@@ -999,23 +999,6 @@
                     }
                 },
                 {
-                    "source": "/home/elyas/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.0.aar/43526ac80a7b2f149d394ed75f3debbe/res/values/values.xml",
-                    "from": {
-                        "startLines": "4,7",
-                        "startColumns": "0,0",
-                        "startOffsets": "238,401",
-                        "endColumns": "63,166",
-                        "endOffsets": "301,567"
-                    },
-                    "to": {
-                        "startLines": "485,518",
-                        "startColumns": "4,4",
-                        "startOffsets": "45830,48206",
-                        "endColumns": "67,166",
-                        "endOffsets": "45893,48368"
-                    }
-                },
-                {
                     "source": "/home/elyas/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/d09238f5489f696425f9d2ef9204e8f1/res/values/values.xml",
                     "from": {
                         "startLines": "2,6,7,8,9,10",
@@ -1030,6 +1013,23 @@
                         "startOffsets": "7658,132824,133000,133122,133384,133579",
                         "endColumns": "88,65,121,60,65,66",
                         "endOffsets": "7742,132885,133117,133178,133445,133641"
+                    }
+                },
+                {
+                    "source": "/home/elyas/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.0.aar/16ef4b7817934cc69de22fb52ec77f72/res/values/values.xml",
+                    "from": {
+                        "startLines": "4,7",
+                        "startColumns": "0,0",
+                        "startOffsets": "238,401",
+                        "endColumns": "63,166",
+                        "endOffsets": "301,567"
+                    },
+                    "to": {
+                        "startLines": "485,518",
+                        "startColumns": "4,4",
+                        "startOffsets": "45830,48206",
+                        "endColumns": "67,166",
+                        "endOffsets": "45893,48368"
                     }
                 },
                 {
@@ -1052,14 +1052,14 @@
                     }
                 },
                 {
-                    "source": "/home/elyas/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-12.0.0.aar/a149bb7df0d628e7789df1eb457d08b2/res/values/values.xml",
+                    "source": "/home/elyas/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.0.aar/4e5d9d114587dc8f8835f882476f8690/res/values/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
-                        "startOffsets": "167",
+                        "startOffsets": "165",
                         "endLines": "11",
                         "endColumns": "8",
-                        "endOffsets": "560"
+                        "endOffsets": "558"
                     },
                     "to": {
                         "startLines": "1840",
@@ -1090,13 +1090,13 @@
                     }
                 },
                 {
-                    "source": "/home/elyas/.gradle/caches/transforms-1/files-1.1/play-services-ads-12.0.0.aar/11deb89b9be518a0aa048e1c2f5bb6e3/res/values/values.xml",
+                    "source": "/home/elyas/.gradle/caches/transforms-1/files-1.1/play-services-ads-15.0.0.aar/f2d03402f312f2fa7a4e37c6db01ebec/res/values/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10",
                         "startColumns": "0,0,0,0,0,0,0",
-                        "startOffsets": "170,208,281,315,350,399,463",
+                        "startOffsets": "168,206,279,313,348,397,461",
                         "endColumns": "37,72,33,34,48,63,34",
-                        "endOffsets": "207,280,314,349,398,462,497"
+                        "endOffsets": "205,278,312,347,396,460,495"
                     },
                     "to": {
                         "startLines": "519,520,521,522,523,524,525",

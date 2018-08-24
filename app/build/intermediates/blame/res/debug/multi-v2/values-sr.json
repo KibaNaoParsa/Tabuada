@@ -441,30 +441,13 @@
             "outputFile": "/var/www/html/Tabuada/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sr/values-sr.xml",
             "map": [
                 {
-                    "source": "/home/elyas/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.0.aar/43526ac80a7b2f149d394ed75f3debbe/res/values-sr/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "247",
-                        "endColumns": "188",
-                        "endOffsets": "435"
-                    },
-                    "to": {
-                        "startLines": "21",
-                        "startColumns": "4",
-                        "startOffsets": "2063",
-                        "endColumns": "188",
-                        "endOffsets": "2247"
-                    }
-                },
-                {
-                    "source": "/home/elyas/.gradle/caches/transforms-1/files-1.1/play-services-ads-12.0.0.aar/11deb89b9be518a0aa048e1c2f5bb6e3/res/values-sr/values.xml",
+                    "source": "/home/elyas/.gradle/caches/transforms-1/files-1.1/play-services-ads-15.0.0.aar/f2d03402f312f2fa7a4e37c6db01ebec/res/values-sr/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10",
                         "startColumns": "0,0,0,0,0,0,0",
-                        "startOffsets": "199,268,388,454,517,604,722",
+                        "startOffsets": "197,266,386,452,515,602,720",
                         "endColumns": "68,119,65,62,86,117,69",
-                        "endOffsets": "267,387,453,516,603,721,791"
+                        "endOffsets": "265,385,451,514,601,719,789"
                     },
                     "to": {
                         "startLines": "22,23,24,25,26,27,28",
@@ -489,6 +472,23 @@
                         "startOffsets": "105,214,322,445,548,654,740,844,962,1043,1123,1211,1316,1424,1525,1629,1737,1838,1966,2873,2957",
                         "endColumns": "108,107,122,102,105,85,103,117,80,79,87,104,107,100,103,107,100,127,96,83,100",
                         "endOffsets": "209,317,440,543,649,735,839,957,1038,1118,1206,1311,1419,1520,1624,1732,1833,1961,2058,2952,3053"
+                    }
+                },
+                {
+                    "source": "/home/elyas/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/0ddb22ac7d44b01ef37ea920d5e30e20/res/values-sr/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "188",
+                        "endOffsets": "435"
+                    },
+                    "to": {
+                        "startLines": "21",
+                        "startColumns": "4",
+                        "startOffsets": "2063",
+                        "endColumns": "188",
+                        "endOffsets": "2247"
                     }
                 }
             ]

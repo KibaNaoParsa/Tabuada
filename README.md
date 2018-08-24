@@ -1,4 +1,4 @@
-# Patch Notes v1.9
+# Patch Notes v2.0
 
 **v1.0**
 
@@ -47,3 +47,7 @@
 **v1.9**
 
 - Correção no bug do quiz
+
+**v2.0**
+
+**- POSTADO**

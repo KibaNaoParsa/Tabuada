@@ -4,7 +4,24 @@
             "outputFile": "/var/www/html/Tabuada/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-tl/values-tl.xml",
             "map": [
                 {
-                    "source": "/home/elyas/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.0.aar/43526ac80a7b2f149d394ed75f3debbe/res/values-tl/values.xml",
+                    "source": "/home/elyas/.gradle/caches/transforms-1/files-1.1/play-services-ads-15.0.0.aar/f2d03402f312f2fa7a4e37c6db01ebec/res/values-tl/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10",
+                        "startColumns": "0,0,0,0,0,0,0",
+                        "startOffsets": "197,272,394,461,528,615,726",
+                        "endColumns": "74,121,66,66,86,110,71",
+                        "endOffsets": "271,393,460,527,614,725,797"
+                    },
+                    "to": {
+                        "startLines": "22,23,24,25,26,27,28",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "2322,2401,2527,2598,2669,2760,2875",
+                        "endColumns": "78,125,70,70,90,114,75",
+                        "endOffsets": "2396,2522,2593,2664,2755,2870,2946"
+                    }
+                },
+                {
+                    "source": "/home/elyas/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.0.aar/16ef4b7817934cc69de22fb52ec77f72/res/values-tl/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -18,23 +35,6 @@
                         "startOffsets": "2117",
                         "endColumns": "204",
                         "endOffsets": "2317"
-                    }
-                },
-                {
-                    "source": "/home/elyas/.gradle/caches/transforms-1/files-1.1/play-services-ads-12.0.0.aar/11deb89b9be518a0aa048e1c2f5bb6e3/res/values-tl/values.xml",
-                    "from": {
-                        "startLines": "4,5,6,7,8,9,10",
-                        "startColumns": "0,0,0,0,0,0,0",
-                        "startOffsets": "199,274,396,463,530,617,728",
-                        "endColumns": "74,121,66,66,86,110,71",
-                        "endOffsets": "273,395,462,529,616,727,799"
-                    },
-                    "to": {
-                        "startLines": "22,23,24,25,26,27,28",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "2322,2401,2527,2598,2669,2760,2875",
-                        "endColumns": "78,125,70,70,90,114,75",
-                        "endOffsets": "2396,2522,2593,2664,2755,2870,2946"
                     }
                 },
                 {

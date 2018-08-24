@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:background="@drawable/bgmadeira"
     android:layout_height="match_parent"
-    tools:context="br.com.tabuada.Tabuada1">
+    tools:context="br.com.tabuadaparacriancas.Tabuada1">
 
     <ImageView
         android:id="@+id/imageView5"

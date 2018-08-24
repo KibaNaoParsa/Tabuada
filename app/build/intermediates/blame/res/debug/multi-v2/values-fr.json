@@ -49,7 +49,24 @@
             "outputFile": "/var/www/html/Tabuada/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fr/values-fr.xml",
             "map": [
                 {
-                    "source": "/home/elyas/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.0.aar/43526ac80a7b2f149d394ed75f3debbe/res/values-fr/values.xml",
+                    "source": "/home/elyas/.gradle/caches/transforms-1/files-1.1/play-services-ads-15.0.0.aar/f2d03402f312f2fa7a4e37c6db01ebec/res/values-fr/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10",
+                        "startColumns": "0,0,0,0,0,0,0",
+                        "startOffsets": "197,274,399,465,530,616,727",
+                        "endColumns": "76,124,65,64,85,110,69",
+                        "endOffsets": "273,398,464,529,615,726,796"
+                    },
+                    "to": {
+                        "startLines": "22,23,24,25,26,27,28",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "2335,2416,2545,2615,2684,2774,2889",
+                        "endColumns": "80,128,69,68,89,114,73",
+                        "endOffsets": "2411,2540,2610,2679,2769,2884,2958"
+                    }
+                },
+                {
+                    "source": "/home/elyas/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/0ddb22ac7d44b01ef37ea920d5e30e20/res/values-fr/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -63,23 +80,6 @@
                         "startOffsets": "2111",
                         "endColumns": "223",
                         "endOffsets": "2330"
-                    }
-                },
-                {
-                    "source": "/home/elyas/.gradle/caches/transforms-1/files-1.1/play-services-ads-12.0.0.aar/11deb89b9be518a0aa048e1c2f5bb6e3/res/values-fr/values.xml",
-                    "from": {
-                        "startLines": "4,5,6,7,8,9,10",
-                        "startColumns": "0,0,0,0,0,0,0",
-                        "startOffsets": "199,276,401,467,532,618,729",
-                        "endColumns": "76,124,65,64,85,110,69",
-                        "endOffsets": "275,400,466,531,617,728,798"
-                    },
-                    "to": {
-                        "startLines": "22,23,24,25,26,27,28",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "2335,2416,2545,2615,2684,2774,2889",
-                        "endColumns": "80,128,69,68,89,114,73",
-                        "endOffsets": "2411,2540,2610,2679,2769,2884,2958"
                     }
                 },
                 {

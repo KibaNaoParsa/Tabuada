@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/bgmadeira"
-    tools:context="br.com.tabuada.Praticar"
+    tools:context="br.com.tabuadaparacriancas.Praticar"
     tools:layout_editor_absoluteY="25dp">
 
     <Button

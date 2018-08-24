@@ -359,24 +359,7 @@
             "outputFile": "/var/www/html/Tabuada/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-uz/values-uz.xml",
             "map": [
                 {
-                    "source": "/home/elyas/.gradle/caches/transforms-1/files-1.1/play-services-ads-12.0.0.aar/11deb89b9be518a0aa048e1c2f5bb6e3/res/values-uz/values.xml",
-                    "from": {
-                        "startLines": "4,5,6,7,8,9,10",
-                        "startColumns": "0,0,0,0,0,0,0",
-                        "startOffsets": "199,270,385,455,522,604,717",
-                        "endColumns": "70,114,69,66,81,112,69",
-                        "endOffsets": "269,384,454,521,603,716,786"
-                    },
-                    "to": {
-                        "startLines": "22,23,24,25,26,27,28",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "2284,2359,2478,2552,2623,2709,2826",
-                        "endColumns": "74,118,73,70,85,116,73",
-                        "endOffsets": "2354,2473,2547,2618,2704,2821,2895"
-                    }
-                },
-                {
-                    "source": "/home/elyas/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.0.aar/43526ac80a7b2f149d394ed75f3debbe/res/values-uz/values.xml",
+                    "source": "/home/elyas/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.0.aar/16ef4b7817934cc69de22fb52ec77f72/res/values-uz/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -407,6 +390,23 @@
                         "startOffsets": "105,210,318,441,545,659,745,856,972,1052,1131,1215,1324,1431,1532,1640,1745,1852,1976,2900,2984",
                         "endColumns": "104,107,122,103,113,85,110,115,79,78,83,108,106,100,107,104,106,123,98,83,100",
                         "endOffsets": "205,313,436,540,654,740,851,967,1047,1126,1210,1319,1426,1527,1635,1740,1847,1971,2070,2979,3080"
+                    }
+                },
+                {
+                    "source": "/home/elyas/.gradle/caches/transforms-1/files-1.1/play-services-ads-15.0.0.aar/f2d03402f312f2fa7a4e37c6db01ebec/res/values-uz/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10",
+                        "startColumns": "0,0,0,0,0,0,0",
+                        "startOffsets": "197,268,383,453,520,602,715",
+                        "endColumns": "70,114,69,66,81,112,69",
+                        "endOffsets": "267,382,452,519,601,714,784"
+                    },
+                    "to": {
+                        "startLines": "22,23,24,25,26,27,28",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "2284,2359,2478,2552,2623,2709,2826",
+                        "endColumns": "74,118,73,70,85,116,73",
+                        "endOffsets": "2354,2473,2547,2618,2704,2821,2895"
                     }
                 }
             ]
