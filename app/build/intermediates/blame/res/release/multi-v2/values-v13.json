@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/var/www/html/Tabuada/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v13/values-v13.xml",
+            "outputFile": "C:\\Users\\VictorGustavo\\Desktop\\Projetos\\Tabuada-master\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v13\\values-v13.xml",
             "map": [
                 {
-                    "source": "/home/elyas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/52610befddf3d8e1987cd01b8f14f484/res/values-v13/values-v13.xml",
+                    "source": "C:\\Users\\VictorGustavo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e96a29a0ddaa903b2cb6a83542da9d26\\res\\values-v13\\values-v13.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

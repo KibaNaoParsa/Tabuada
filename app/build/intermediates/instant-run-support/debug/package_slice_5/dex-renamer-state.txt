@@ -1,4 +1,0 @@
-#Fri Mar 23 17:37:24 BRT 2018
-base.0=/home/www/Tabuada/app/build/intermediates/transforms/dexMerger/debug/107
-path.0=classes.dex
-renamed.0=classes.dex

@@ -1,4 +1,4 @@
-#Mon May 14 13:39:44 BRT 2018
-base.0=/var/www/html/Tabuada/app/build/intermediates/transforms/dexMerger/debug/120
+#Fri Aug 24 23:01:13 BRT 2018
+base.0=C\:\\Users\\VictorGustavo\\Desktop\\Projetos\\Tabuada-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
 path.0=classes.dex
 renamed.0=classes.dex

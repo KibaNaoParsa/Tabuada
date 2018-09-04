@@ -1,349 +1,345 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml:2:1-42:12
-INJECTED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml:2:1-42:12
-INJECTED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml:2:1-42:12
-INJECTED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml:2:1-42:12
-MERGED from [com.google.android.gms:play-services-ads:15.0.0] /home/elyas/.gradle/caches/transforms-1/files-1.1/play-services-ads-15.0.0.aar/f2d03402f312f2fa7a4e37c6db01ebec/AndroidManifest.xml:17:1-25:12
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/elyas/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/68df0210d0b0fc8ab814e607a49a0b5d/AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.support:appcompat-v7:26.1.0] /home/elyas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/52610befddf3d8e1987cd01b8f14f484/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:customtabs:26.1.0] /home/elyas/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/fbe3da8bb065dbd9930a4422a6d6fb92/AndroidManifest.xml:17:1-28:12
-MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] /home/elyas/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.0.aar/4e5d9d114587dc8f8835f882476f8690/AndroidManifest.xml:17:1-36:12
-MERGED from [com.google.android.gms:play-services-gass:15.0.0] /home/elyas/.gradle/caches/transforms-1/files-1.1/play-services-gass-15.0.0.aar/a23c44dcb0cf350e2fa0c91b27d31852/AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.android.gms:play-services-ads-base:15.0.0] /home/elyas/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-15.0.0.aar/28ae45d6c93f8acabdfafec45db524b0/AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /home/elyas/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.1.aar/28faf67d8af34a18028326f4036d9b5d/AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.android.gms:play-services-basement:15.0.1] /home/elyas/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/0ddb22ac7d44b01ef37ea920d5e30e20/AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/elyas/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/f601b71f4d826b6b3dda4ab3a7e5d180/AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/elyas/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/b427daf4daed548a621e827db650ee20/AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-v4:26.1.0] /home/elyas/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/d86bd940441c8a0a16e9fb4c6813b11c/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-media-compat:26.1.0] /home/elyas/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/d09238f5489f696425f9d2ef9204e8f1/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-fragment:26.1.0] /home/elyas/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/c28cf5fc2ef7a6ad07a2c0e33e7bb536/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-core-utils:26.1.0] /home/elyas/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/40fefe78933e14dd1bbcfff976bfea4a/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-core-ui:26.1.0] /home/elyas/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/246f049978bcc462fac0595c15f3520f/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-compat:26.1.0] /home/elyas/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/43f3a4cf9bbf9acdbfe86eb0c3ebe264/AndroidManifest.xml:17:1-31:12
-MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/elyas/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/cc478db3d12b9fe4bf96d8fc13b54fc6/AndroidManifest.xml:17:1-30:12
-INJECTED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml:2:1-42:12
-INJECTED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml:2:1-42:12
-INJECTED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml:2:1-42:12
+ADDED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml:2:1-41:12
+MERGED from [com.google.android.gms:play-services-ads:15.0.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\play-services-ads-15.0.0.aar\a7459ac979192372f1adce747eb113cc\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\7bd073865cad1621ad56d580805f81c1\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\e96a29a0ddaa903b2cb6a83542da9d26\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\4c8a6d4ab0e5ba3019ea75c59e749e3a\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\32936d14c6ff681b92dc2b9f93d0d311\AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.android.gms:play-services-gass:15.0.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\play-services-gass-15.0.0.aar\6b2bf4169eed54327ada853c287fe64c\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-15.0.0.aar\8f091a190ca475d2a5c94adeaadb4d05\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\9e3621c433c5b3652cb3f0b0d4672f0e\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\a186002693ed454f300afefa85f0e14a\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\50892949dca26d1ee773d0c9c52c23db\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\9645ac287ea92c79259fa2141d1809dc\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\ca6deda42f3c2d5871142326f284961a\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\007b8ea8a63f707ce89317a6e746262b\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\f3500d8a7ed9447006c46dffa53c7c6b\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\c46b6ae8f44d6cfa40d169d2def902be\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\47e1b9639485147cec15eca5bba2f920\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\e4eb46fe62fd87d38145327a1b731c05\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\275b72561ba4003364f9acc4fc41c283\AndroidManifest.xml:17:1-30:12
+INJECTED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml:2:1-41:12
 	package
-		ADDED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml:3:5-41
-		INJECTED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml
-		INJECTED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml
+		ADDED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml
-		ADDED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml:2:1-42:12
-		INJECTED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml
+		INJECTED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml:2:1-41:12
+		INJECTED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml
-		ADDED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml:2:1-42:12
-		INJECTED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml
+		INJECTED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml:2:1-41:12
+		INJECTED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
-ADDED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml:4:5-67
-MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] /home/elyas/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.0.aar/4e5d9d114587dc8f8835f882476f8690/AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] /home/elyas/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.0.aar/4e5d9d114587dc8f8835f882476f8690/AndroidManifest.xml:23:5-67
+ADDED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml:4:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\32936d14c6ff681b92dc2b9f93d0d311\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\32936d14c6ff681b92dc2b9f93d0d311\AndroidManifest.xml:23:5-67
 	android:name
-		ADDED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml:4:22-64
+		ADDED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml:4:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml:5:5-79
-MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] /home/elyas/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.0.aar/4e5d9d114587dc8f8835f882476f8690/AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] /home/elyas/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.0.aar/4e5d9d114587dc8f8835f882476f8690/AndroidManifest.xml:24:5-79
+ADDED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml:5:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\32936d14c6ff681b92dc2b9f93d0d311\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\32936d14c6ff681b92dc2b9f93d0d311\AndroidManifest.xml:24:5-79
 	android:name
-		ADDED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml:5:22-76
+		ADDED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml:5:22-76
 application
-ADDED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml:7:5-40:19
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/elyas/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/68df0210d0b0fc8ab814e607a49a0b5d/AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/elyas/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/68df0210d0b0fc8ab814e607a49a0b5d/AndroidManifest.xml:9:5-20
-MERGED from [com.android.support:appcompat-v7:26.1.0] /home/elyas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/52610befddf3d8e1987cd01b8f14f484/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:appcompat-v7:26.1.0] /home/elyas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/52610befddf3d8e1987cd01b8f14f484/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:customtabs:26.1.0] /home/elyas/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/fbe3da8bb065dbd9930a4422a6d6fb92/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:customtabs:26.1.0] /home/elyas/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/fbe3da8bb065dbd9930a4422a6d6fb92/AndroidManifest.xml:22:5-26:19
-MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] /home/elyas/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.0.aar/4e5d9d114587dc8f8835f882476f8690/AndroidManifest.xml:26:5-34:19
-MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] /home/elyas/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.0.aar/4e5d9d114587dc8f8835f882476f8690/AndroidManifest.xml:26:5-34:19
-MERGED from [com.google.android.gms:play-services-gass:15.0.0] /home/elyas/.gradle/caches/transforms-1/files-1.1/play-services-gass-15.0.0.aar/a23c44dcb0cf350e2fa0c91b27d31852/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-gass:15.0.0] /home/elyas/.gradle/caches/transforms-1/files-1.1/play-services-gass-15.0.0.aar/a23c44dcb0cf350e2fa0c91b27d31852/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-ads-base:15.0.0] /home/elyas/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-15.0.0.aar/28ae45d6c93f8acabdfafec45db524b0/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-ads-base:15.0.0] /home/elyas/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-15.0.0.aar/28ae45d6c93f8acabdfafec45db524b0/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /home/elyas/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.1.aar/28faf67d8af34a18028326f4036d9b5d/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /home/elyas/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.1.aar/28faf67d8af34a18028326f4036d9b5d/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-basement:15.0.1] /home/elyas/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/0ddb22ac7d44b01ef37ea920d5e30e20/AndroidManifest.xml:22:5-26:19
-MERGED from [com.google.android.gms:play-services-basement:15.0.1] /home/elyas/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/0ddb22ac7d44b01ef37ea920d5e30e20/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/elyas/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/f601b71f4d826b6b3dda4ab3a7e5d180/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/elyas/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/f601b71f4d826b6b3dda4ab3a7e5d180/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/elyas/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/b427daf4daed548a621e827db650ee20/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/elyas/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/b427daf4daed548a621e827db650ee20/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-v4:26.1.0] /home/elyas/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/d86bd940441c8a0a16e9fb4c6813b11c/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-v4:26.1.0] /home/elyas/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/d86bd940441c8a0a16e9fb4c6813b11c/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-media-compat:26.1.0] /home/elyas/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/d09238f5489f696425f9d2ef9204e8f1/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-media-compat:26.1.0] /home/elyas/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/d09238f5489f696425f9d2ef9204e8f1/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-fragment:26.1.0] /home/elyas/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/c28cf5fc2ef7a6ad07a2c0e33e7bb536/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-fragment:26.1.0] /home/elyas/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/c28cf5fc2ef7a6ad07a2c0e33e7bb536/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-utils:26.1.0] /home/elyas/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/40fefe78933e14dd1bbcfff976bfea4a/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-utils:26.1.0] /home/elyas/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/40fefe78933e14dd1bbcfff976bfea4a/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-ui:26.1.0] /home/elyas/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/246f049978bcc462fac0595c15f3520f/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-ui:26.1.0] /home/elyas/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/246f049978bcc462fac0595c15f3520f/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-compat:26.1.0] /home/elyas/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/43f3a4cf9bbf9acdbfe86eb0c3ebe264/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-compat:26.1.0] /home/elyas/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/43f3a4cf9bbf9acdbfe86eb0c3ebe264/AndroidManifest.xml:25:5-29:19
-MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/elyas/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/cc478db3d12b9fe4bf96d8fc13b54fc6/AndroidManifest.xml:24:5-28:19
-MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/elyas/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/cc478db3d12b9fe4bf96d8fc13b54fc6/AndroidManifest.xml:24:5-28:19
+ADDED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml:7:5-39:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\7bd073865cad1621ad56d580805f81c1\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\7bd073865cad1621ad56d580805f81c1\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\e96a29a0ddaa903b2cb6a83542da9d26\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\e96a29a0ddaa903b2cb6a83542da9d26\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\4c8a6d4ab0e5ba3019ea75c59e749e3a\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\4c8a6d4ab0e5ba3019ea75c59e749e3a\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\32936d14c6ff681b92dc2b9f93d0d311\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\32936d14c6ff681b92dc2b9f93d0d311\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-gass:15.0.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\play-services-gass-15.0.0.aar\6b2bf4169eed54327ada853c287fe64c\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-gass:15.0.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\play-services-gass-15.0.0.aar\6b2bf4169eed54327ada853c287fe64c\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-15.0.0.aar\8f091a190ca475d2a5c94adeaadb4d05\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-15.0.0.aar\8f091a190ca475d2a5c94adeaadb4d05\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\9e3621c433c5b3652cb3f0b0d4672f0e\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\9e3621c433c5b3652cb3f0b0d4672f0e\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\a186002693ed454f300afefa85f0e14a\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\a186002693ed454f300afefa85f0e14a\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\50892949dca26d1ee773d0c9c52c23db\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\50892949dca26d1ee773d0c9c52c23db\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\9645ac287ea92c79259fa2141d1809dc\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\9645ac287ea92c79259fa2141d1809dc\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\ca6deda42f3c2d5871142326f284961a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\ca6deda42f3c2d5871142326f284961a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\007b8ea8a63f707ce89317a6e746262b\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\007b8ea8a63f707ce89317a6e746262b\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\f3500d8a7ed9447006c46dffa53c7c6b\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\f3500d8a7ed9447006c46dffa53c7c6b\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\c46b6ae8f44d6cfa40d169d2def902be\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\c46b6ae8f44d6cfa40d169d2def902be\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\47e1b9639485147cec15eca5bba2f920\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\47e1b9639485147cec15eca5bba2f920\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\e4eb46fe62fd87d38145327a1b731c05\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\e4eb46fe62fd87d38145327a1b731c05\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\275b72561ba4003364f9acc4fc41c283\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\275b72561ba4003364f9acc4fc41c283\AndroidManifest.xml:24:5-28:19
 	android:supportsRtl
-		ADDED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml:12:9-35
+		ADDED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml:12:9-35
 	android:label
-		ADDED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml:10:9-41
+		ADDED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml:10:9-41
 	android:roundIcon
-		ADDED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml:11:9-54
+		ADDED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml:11:9-54
 	android:icon
-		ADDED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml:9:9-43
+		ADDED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml:9:9-43
 	android:allowBackup
-		ADDED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml:8:9-35
+		ADDED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml:8:9-35
 	android:theme
-		ADDED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml:13:9-40
-activity#br.com.tabuadaparacriancas.TelaInicial
-ADDED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml:15:9-21:20
-	android:name
-		ADDED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml:15:19-46
-intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml:16:13-20:29
-action#android.intent.action.MAIN
-ADDED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml:17:17-69
-	android:name
-		ADDED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml:17:25-66
-category#android.intent.category.LAUNCHER
-ADDED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml:19:17-77
-	android:name
-		ADDED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml:19:27-74
+		ADDED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml:13:9-40
 activity#br.com.tabuadaparacriancas.MainActivity
-ADDED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml:22:9-126
+ADDED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml:15:9-21:20
 	android:screenOrientation
-		ADDED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml:22:88-124
+		ADDED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml:15:88-124
 	android:windowSoftInputMode
-		ADDED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml:22:48-87
+		ADDED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml:15:48-87
 	android:name
-		ADDED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml:22:19-47
+		ADDED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml:15:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml:16:9-20:25
+action#android.intent.action.MAIN
+ADDED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml:17:13-65
+	android:name
+		ADDED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml:17:21-62
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml:19:13-73
+	android:name
+		ADDED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml:19:23-70
 activity#br.com.tabuadaparacriancas.Praticar
-ADDED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml:23:9-122
+ADDED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml:22:9-122
 	android:screenOrientation
-		ADDED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml:23:84-120
+		ADDED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml:22:84-120
 	android:windowSoftInputMode
-		ADDED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml:23:44-83
+		ADDED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml:22:44-83
 	android:name
-		ADDED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml:23:19-43
+		ADDED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml:22:19-43
 activity#br.com.tabuadaparacriancas.Aprender
-ADDED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml:24:9-122
+ADDED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml:23:9-122
 	android:screenOrientation
-		ADDED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml:24:84-120
+		ADDED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml:23:84-120
 	android:windowSoftInputMode
-		ADDED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml:24:44-83
+		ADDED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml:23:44-83
 	android:name
-		ADDED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml:24:19-43
+		ADDED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml:23:19-43
 activity#br.com.tabuadaparacriancas.Tabuada1
-ADDED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml:25:9-122
+ADDED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml:24:9-122
 	android:screenOrientation
-		ADDED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml:25:84-120
+		ADDED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml:24:84-120
 	android:windowSoftInputMode
-		ADDED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml:25:44-83
+		ADDED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml:24:44-83
 	android:name
-		ADDED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml:25:19-43
+		ADDED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml:24:19-43
 activity#br.com.tabuadaparacriancas.Tabuada2
-ADDED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml:26:9-122
+ADDED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml:25:9-122
 	android:screenOrientation
-		ADDED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml:26:84-120
+		ADDED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml:25:84-120
 	android:windowSoftInputMode
-		ADDED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml:26:44-83
+		ADDED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml:25:44-83
 	android:name
-		ADDED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml:26:19-43
+		ADDED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml:25:19-43
 activity#br.com.tabuadaparacriancas.Tabuada3
-ADDED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml:27:9-122
+ADDED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml:26:9-122
 	android:screenOrientation
-		ADDED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml:27:84-120
+		ADDED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml:26:84-120
 	android:windowSoftInputMode
-		ADDED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml:27:44-83
+		ADDED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml:26:44-83
 	android:name
-		ADDED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml:27:19-43
+		ADDED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml:26:19-43
 activity#br.com.tabuadaparacriancas.Tabuada4
-ADDED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml:28:9-122
+ADDED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml:27:9-122
 	android:screenOrientation
-		ADDED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml:28:84-120
+		ADDED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml:27:84-120
 	android:windowSoftInputMode
-		ADDED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml:28:44-83
+		ADDED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml:27:44-83
 	android:name
-		ADDED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml:28:19-43
+		ADDED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml:27:19-43
 activity#br.com.tabuadaparacriancas.Tabuada5
-ADDED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml:29:9-122
+ADDED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml:28:9-122
 	android:screenOrientation
-		ADDED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml:29:84-120
+		ADDED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml:28:84-120
 	android:windowSoftInputMode
-		ADDED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml:29:44-83
+		ADDED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml:28:44-83
 	android:name
-		ADDED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml:29:19-43
+		ADDED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml:28:19-43
 activity#br.com.tabuadaparacriancas.Tabuada6
-ADDED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml:30:9-122
+ADDED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml:29:9-122
 	android:screenOrientation
-		ADDED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml:30:84-120
+		ADDED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml:29:84-120
 	android:windowSoftInputMode
-		ADDED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml:30:44-83
+		ADDED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml:29:44-83
 	android:name
-		ADDED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml:30:19-43
+		ADDED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml:29:19-43
 activity#br.com.tabuadaparacriancas.Tabuada7
-ADDED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml:31:9-122
+ADDED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml:30:9-122
 	android:screenOrientation
-		ADDED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml:31:84-120
+		ADDED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml:30:84-120
 	android:windowSoftInputMode
-		ADDED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml:31:44-83
+		ADDED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml:30:44-83
 	android:name
-		ADDED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml:31:19-43
+		ADDED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml:30:19-43
 activity#br.com.tabuadaparacriancas.Tabuada10
-ADDED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml:32:9-123
+ADDED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml:31:9-123
 	android:screenOrientation
-		ADDED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml:32:85-121
+		ADDED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml:31:85-121
 	android:windowSoftInputMode
-		ADDED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml:32:45-84
+		ADDED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml:31:45-84
 	android:name
-		ADDED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml:32:19-44
+		ADDED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml:31:19-44
 activity#br.com.tabuadaparacriancas.Tabuada8
-ADDED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml:33:9-122
+ADDED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml:32:9-122
 	android:screenOrientation
-		ADDED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml:33:84-120
+		ADDED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml:32:84-120
 	android:windowSoftInputMode
-		ADDED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml:33:44-83
+		ADDED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml:32:44-83
 	android:name
-		ADDED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml:33:19-43
+		ADDED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml:32:19-43
 activity#br.com.tabuadaparacriancas.Tabuada9
-ADDED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml:34:9-122
+ADDED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml:33:9-122
 	android:screenOrientation
-		ADDED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml:34:84-120
+		ADDED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml:33:84-120
 	android:windowSoftInputMode
-		ADDED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml:34:44-83
+		ADDED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml:33:44-83
 	android:name
-		ADDED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml:34:19-43
+		ADDED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml:33:19-43
 activity#br.com.tabuadaparacriancas.Modozen
-ADDED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml:35:9-121
+ADDED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml:34:9-121
 	android:screenOrientation
-		ADDED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml:35:83-119
+		ADDED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml:34:83-119
 	android:windowSoftInputMode
-		ADDED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml:35:43-82
+		ADDED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml:34:43-82
 	android:name
-		ADDED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml:35:19-42
+		ADDED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml:34:19-42
 activity#br.com.tabuadaparacriancas.FinalQuizTempo
-ADDED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml:37:9-128
+ADDED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml:36:9-128
 	android:screenOrientation
-		ADDED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml:37:90-126
+		ADDED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml:36:90-126
 	android:windowSoftInputMode
-		ADDED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml:37:50-89
+		ADDED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml:36:50-89
 	android:name
-		ADDED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml:37:19-49
+		ADDED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml:36:19-49
 activity#br.com.tabuadaparacriancas.FinalQuizZen
-ADDED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml:38:9-126
+ADDED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml:37:9-126
 	android:screenOrientation
-		ADDED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml:38:88-124
+		ADDED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml:37:88-124
 	android:windowSoftInputMode
-		ADDED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml:38:48-87
+		ADDED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml:37:48-87
 	android:name
-		ADDED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml:38:19-47
+		ADDED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml:37:19-47
 activity#br.com.tabuadaparacriancas.Modoquiz
-ADDED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml:39:9-132
+ADDED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml:38:9-132
 	android:screenOrientation
-		ADDED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml:39:84-120
+		ADDED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml:38:84-120
 	android:windowSoftInputMode
-		ADDED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml:39:44-83
+		ADDED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml:38:44-83
 	android:name
-		ADDED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml:39:19-43
+		ADDED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml:38:19-43
 uses-sdk
-INJECTED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml
-INJECTED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml
-MERGED from [com.google.android.gms:play-services-ads:15.0.0] /home/elyas/.gradle/caches/transforms-1/files-1.1/play-services-ads-15.0.0.aar/f2d03402f312f2fa7a4e37c6db01ebec/AndroidManifest.xml:21:5-23:62
-MERGED from [com.google.android.gms:play-services-ads:15.0.0] /home/elyas/.gradle/caches/transforms-1/files-1.1/play-services-ads-15.0.0.aar/f2d03402f312f2fa7a4e37c6db01ebec/AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/elyas/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/68df0210d0b0fc8ab814e607a49a0b5d/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/elyas/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/68df0210d0b0fc8ab814e607a49a0b5d/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:appcompat-v7:26.1.0] /home/elyas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/52610befddf3d8e1987cd01b8f14f484/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:appcompat-v7:26.1.0] /home/elyas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/52610befddf3d8e1987cd01b8f14f484/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:customtabs:26.1.0] /home/elyas/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/fbe3da8bb065dbd9930a4422a6d6fb92/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customtabs:26.1.0] /home/elyas/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/fbe3da8bb065dbd9930a4422a6d6fb92/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] /home/elyas/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.0.aar/4e5d9d114587dc8f8835f882476f8690/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] /home/elyas/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.0.aar/4e5d9d114587dc8f8835f882476f8690/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-gass:15.0.0] /home/elyas/.gradle/caches/transforms-1/files-1.1/play-services-gass-15.0.0.aar/a23c44dcb0cf350e2fa0c91b27d31852/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-gass:15.0.0] /home/elyas/.gradle/caches/transforms-1/files-1.1/play-services-gass-15.0.0.aar/a23c44dcb0cf350e2fa0c91b27d31852/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-ads-base:15.0.0] /home/elyas/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-15.0.0.aar/28ae45d6c93f8acabdfafec45db524b0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-ads-base:15.0.0] /home/elyas/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-15.0.0.aar/28ae45d6c93f8acabdfafec45db524b0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /home/elyas/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.1.aar/28faf67d8af34a18028326f4036d9b5d/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /home/elyas/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.1.aar/28faf67d8af34a18028326f4036d9b5d/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-basement:15.0.1] /home/elyas/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/0ddb22ac7d44b01ef37ea920d5e30e20/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-basement:15.0.1] /home/elyas/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/0ddb22ac7d44b01ef37ea920d5e30e20/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/elyas/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/f601b71f4d826b6b3dda4ab3a7e5d180/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/elyas/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/f601b71f4d826b6b3dda4ab3a7e5d180/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/elyas/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/b427daf4daed548a621e827db650ee20/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/elyas/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/b427daf4daed548a621e827db650ee20/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:26.1.0] /home/elyas/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/d86bd940441c8a0a16e9fb4c6813b11c/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-v4:26.1.0] /home/elyas/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/d86bd940441c8a0a16e9fb4c6813b11c/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-media-compat:26.1.0] /home/elyas/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/d09238f5489f696425f9d2ef9204e8f1/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-media-compat:26.1.0] /home/elyas/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/d09238f5489f696425f9d2ef9204e8f1/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-fragment:26.1.0] /home/elyas/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/c28cf5fc2ef7a6ad07a2c0e33e7bb536/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-fragment:26.1.0] /home/elyas/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/c28cf5fc2ef7a6ad07a2c0e33e7bb536/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-core-utils:26.1.0] /home/elyas/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/40fefe78933e14dd1bbcfff976bfea4a/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-utils:26.1.0] /home/elyas/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/40fefe78933e14dd1bbcfff976bfea4a/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-ui:26.1.0] /home/elyas/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/246f049978bcc462fac0595c15f3520f/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-ui:26.1.0] /home/elyas/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/246f049978bcc462fac0595c15f3520f/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:26.1.0] /home/elyas/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/43f3a4cf9bbf9acdbfe86eb0c3ebe264/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:26.1.0] /home/elyas/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/43f3a4cf9bbf9acdbfe86eb0c3ebe264/AndroidManifest.xml:21:5-23:58
-MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/elyas/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/cc478db3d12b9fe4bf96d8fc13b54fc6/AndroidManifest.xml:20:5-22:41
-MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/elyas/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/cc478db3d12b9fe4bf96d8fc13b54fc6/AndroidManifest.xml:20:5-22:41
-INJECTED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml
-INJECTED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml
+INJECTED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.gms:play-services-ads:15.0.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\play-services-ads-15.0.0.aar\a7459ac979192372f1adce747eb113cc\AndroidManifest.xml:21:5-23:62
+MERGED from [com.google.android.gms:play-services-ads:15.0.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\play-services-ads-15.0.0.aar\a7459ac979192372f1adce747eb113cc\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\7bd073865cad1621ad56d580805f81c1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\7bd073865cad1621ad56d580805f81c1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\e96a29a0ddaa903b2cb6a83542da9d26\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\e96a29a0ddaa903b2cb6a83542da9d26\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\4c8a6d4ab0e5ba3019ea75c59e749e3a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\4c8a6d4ab0e5ba3019ea75c59e749e3a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\32936d14c6ff681b92dc2b9f93d0d311\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\32936d14c6ff681b92dc2b9f93d0d311\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gass:15.0.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\play-services-gass-15.0.0.aar\6b2bf4169eed54327ada853c287fe64c\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:15.0.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\play-services-gass-15.0.0.aar\6b2bf4169eed54327ada853c287fe64c\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-15.0.0.aar\8f091a190ca475d2a5c94adeaadb4d05\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-15.0.0.aar\8f091a190ca475d2a5c94adeaadb4d05\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\9e3621c433c5b3652cb3f0b0d4672f0e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\9e3621c433c5b3652cb3f0b0d4672f0e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\a186002693ed454f300afefa85f0e14a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\a186002693ed454f300afefa85f0e14a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\50892949dca26d1ee773d0c9c52c23db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\50892949dca26d1ee773d0c9c52c23db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\9645ac287ea92c79259fa2141d1809dc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\9645ac287ea92c79259fa2141d1809dc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\ca6deda42f3c2d5871142326f284961a\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\ca6deda42f3c2d5871142326f284961a\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\007b8ea8a63f707ce89317a6e746262b\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\007b8ea8a63f707ce89317a6e746262b\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\f3500d8a7ed9447006c46dffa53c7c6b\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\f3500d8a7ed9447006c46dffa53c7c6b\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\c46b6ae8f44d6cfa40d169d2def902be\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\c46b6ae8f44d6cfa40d169d2def902be\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\47e1b9639485147cec15eca5bba2f920\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\47e1b9639485147cec15eca5bba2f920\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\e4eb46fe62fd87d38145327a1b731c05\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\e4eb46fe62fd87d38145327a1b731c05\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\275b72561ba4003364f9acc4fc41c283\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\275b72561ba4003364f9acc4fc41c283\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml
 	tools:overrideLibrary
-		ADDED from [com.google.android.gms:play-services-ads:15.0.0] /home/elyas/.gradle/caches/transforms-1/files-1.1/play-services-ads-15.0.0.aar/f2d03402f312f2fa7a4e37c6db01ebec/AndroidManifest.xml:23:9-59
+		ADDED from [com.google.android.gms:play-services-ads:15.0.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\play-services-ads-15.0.0.aar\a7459ac979192372f1adce747eb113cc\AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
-		INJECTED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml
-		ADDED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml
-		INJECTED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml
+		INJECTED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml
-		ADDED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml
-		INJECTED from /var/www/html/Tabuada/app/src/main/AndroidManifest.xml
+		INJECTED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\VictorGustavo\Desktop\Projetos\Tabuada-master\app\src\main\AndroidManifest.xml
 meta-data#android.support.VERSION
-ADDED from [com.android.support:appcompat-v7:26.1.0] /home/elyas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/52610befddf3d8e1987cd01b8f14f484/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:customtabs:26.1.0] /home/elyas/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/fbe3da8bb065dbd9930a4422a6d6fb92/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:customtabs:26.1.0] /home/elyas/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/fbe3da8bb065dbd9930a4422a6d6fb92/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/elyas/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/f601b71f4d826b6b3dda4ab3a7e5d180/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/elyas/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/f601b71f4d826b6b3dda4ab3a7e5d180/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/elyas/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/b427daf4daed548a621e827db650ee20/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/elyas/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/b427daf4daed548a621e827db650ee20/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-v4:26.1.0] /home/elyas/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/d86bd940441c8a0a16e9fb4c6813b11c/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-v4:26.1.0] /home/elyas/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/d86bd940441c8a0a16e9fb4c6813b11c/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-media-compat:26.1.0] /home/elyas/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/d09238f5489f696425f9d2ef9204e8f1/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-media-compat:26.1.0] /home/elyas/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/d09238f5489f696425f9d2ef9204e8f1/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-fragment:26.1.0] /home/elyas/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/c28cf5fc2ef7a6ad07a2c0e33e7bb536/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-fragment:26.1.0] /home/elyas/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/c28cf5fc2ef7a6ad07a2c0e33e7bb536/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-utils:26.1.0] /home/elyas/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/40fefe78933e14dd1bbcfff976bfea4a/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-utils:26.1.0] /home/elyas/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/40fefe78933e14dd1bbcfff976bfea4a/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-ui:26.1.0] /home/elyas/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/246f049978bcc462fac0595c15f3520f/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-ui:26.1.0] /home/elyas/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/246f049978bcc462fac0595c15f3520f/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-compat:26.1.0] /home/elyas/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/43f3a4cf9bbf9acdbfe86eb0c3ebe264/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-compat:26.1.0] /home/elyas/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/43f3a4cf9bbf9acdbfe86eb0c3ebe264/AndroidManifest.xml:26:9-28:38
+ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\e96a29a0ddaa903b2cb6a83542da9d26\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\4c8a6d4ab0e5ba3019ea75c59e749e3a\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\4c8a6d4ab0e5ba3019ea75c59e749e3a\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\50892949dca26d1ee773d0c9c52c23db\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\50892949dca26d1ee773d0c9c52c23db\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\9645ac287ea92c79259fa2141d1809dc\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\9645ac287ea92c79259fa2141d1809dc\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\ca6deda42f3c2d5871142326f284961a\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\ca6deda42f3c2d5871142326f284961a\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\007b8ea8a63f707ce89317a6e746262b\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\007b8ea8a63f707ce89317a6e746262b\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\f3500d8a7ed9447006c46dffa53c7c6b\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\f3500d8a7ed9447006c46dffa53c7c6b\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\c46b6ae8f44d6cfa40d169d2def902be\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\c46b6ae8f44d6cfa40d169d2def902be\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\47e1b9639485147cec15eca5bba2f920\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\47e1b9639485147cec15eca5bba2f920\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\e4eb46fe62fd87d38145327a1b731c05\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\e4eb46fe62fd87d38145327a1b731c05\AndroidManifest.xml:26:9-28:38
 	android:value
-		ADDED from [com.android.support:appcompat-v7:26.1.0] /home/elyas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/52610befddf3d8e1987cd01b8f14f484/AndroidManifest.xml:28:13-35
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\e96a29a0ddaa903b2cb6a83542da9d26\AndroidManifest.xml:28:13-35
 	android:name
-		ADDED from [com.android.support:appcompat-v7:26.1.0] /home/elyas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/52610befddf3d8e1987cd01b8f14f484/AndroidManifest.xml:27:13-51
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\e96a29a0ddaa903b2cb6a83542da9d26\AndroidManifest.xml:27:13-51
 activity#com.google.android.gms.ads.AdActivity
-ADDED from [com.google.android.gms:play-services-ads-lite:15.0.0] /home/elyas/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.0.aar/4e5d9d114587dc8f8835f882476f8690/AndroidManifest.xml:29:9-33:64
+ADDED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\32936d14c6ff681b92dc2b9f93d0d311\AndroidManifest.xml:29:9-33:64
 	android:exported
-		ADDED from [com.google.android.gms:play-services-ads-lite:15.0.0] /home/elyas/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.0.aar/4e5d9d114587dc8f8835f882476f8690/AndroidManifest.xml:32:13-37
+		ADDED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\32936d14c6ff681b92dc2b9f93d0d311\AndroidManifest.xml:32:13-37
 	android:configChanges
-		ADDED from [com.google.android.gms:play-services-ads-lite:15.0.0] /home/elyas/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.0.aar/4e5d9d114587dc8f8835f882476f8690/AndroidManifest.xml:31:13-122
+		ADDED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\32936d14c6ff681b92dc2b9f93d0d311\AndroidManifest.xml:31:13-122
 	android:theme
-		ADDED from [com.google.android.gms:play-services-ads-lite:15.0.0] /home/elyas/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.0.aar/4e5d9d114587dc8f8835f882476f8690/AndroidManifest.xml:33:13-61
+		ADDED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\32936d14c6ff681b92dc2b9f93d0d311\AndroidManifest.xml:33:13-61
 	android:name
-		ADDED from [com.google.android.gms:play-services-ads-lite:15.0.0] /home/elyas/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.0.aar/4e5d9d114587dc8f8835f882476f8690/AndroidManifest.xml:30:13-65
+		ADDED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\32936d14c6ff681b92dc2b9f93d0d311\AndroidManifest.xml:30:13-65
 meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:15.0.1] /home/elyas/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/0ddb22ac7d44b01ef37ea920d5e30e20/AndroidManifest.xml:23:9-25:69
+ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\a186002693ed454f300afefa85f0e14a\AndroidManifest.xml:23:9-25:69
 	android:value
-		ADDED from [com.google.android.gms:play-services-basement:15.0.1] /home/elyas/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/0ddb22ac7d44b01ef37ea920d5e30e20/AndroidManifest.xml:25:13-66
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\a186002693ed454f300afefa85f0e14a\AndroidManifest.xml:25:13-66
 	android:name
-		ADDED from [com.google.android.gms:play-services-basement:15.0.1] /home/elyas/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/0ddb22ac7d44b01ef37ea920d5e30e20/AndroidManifest.xml:24:13-58
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\a186002693ed454f300afefa85f0e14a\AndroidManifest.xml:24:13-58
 meta-data#android.arch.lifecycle.VERSION
-ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/elyas/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/cc478db3d12b9fe4bf96d8fc13b54fc6/AndroidManifest.xml:25:9-27:47
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\275b72561ba4003364f9acc4fc41c283\AndroidManifest.xml:25:9-27:47
 	android:value
-		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/elyas/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/cc478db3d12b9fe4bf96d8fc13b54fc6/AndroidManifest.xml:27:13-44
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\275b72561ba4003364f9acc4fc41c283\AndroidManifest.xml:27:13-44
 	android:name
-		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/elyas/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/cc478db3d12b9fe4bf96d8fc13b54fc6/AndroidManifest.xml:26:13-58
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\VictorGustavo\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\275b72561ba4003364f9acc4fc41c283\AndroidManifest.xml:26:13-58
